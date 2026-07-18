@@ -28,7 +28,7 @@ Données de marché publiques de la BRVM, servies en JSON pour le BRVM-Dashboard
 Le dashboard les récupère au chargement :
 
 ```
-https://raw.githubusercontent.com/Jordy-Pr0g/brvm-data/main/fundamentals.json
+https://raw.githubusercontent.com/Jordy-Pr0g/brvm-data/master/fundamentals.json
 ```
 
 Les **cours** ne sont pas ici : ils viennent de `Fredysessie/brvm-data-public` (CSV mensuels), déjà public.
