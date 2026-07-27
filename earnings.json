@@ -1,1 +1,416 @@
-{"date":"2026-07-10","count":46,"data":{"SNTS":{"v":5.1,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/SNTS.sn"},"BOAS":{"v":9.6,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/BOAS.sn"},"TTLS":{"v":68.0,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/TTLS.sn"},"BICB":{"v":-20.3,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/BICB.bj"},"BOAB":{"v":2.3,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/BOAB.bj"},"ONTBF":{"v":-26.0,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/ONTBF.bf"},"CBIBF":{"v":36.6,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/CBIBF.bf"},"BOABF":{"v":-14.1,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/BOABF.bf"},"ETIT":{"v":15.3,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/ETIT.tg"},"ORGT":{"v":null,"perte":true,"ret":"perte_aggravee","u":"https://www.sikafinance.com/marches/societe/ORGT.tg"},"BOAM":{"v":21.5,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/BOAM.ml"},"BOAN":{"v":-91.8,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/BOAN.ne"},"SGBC":{"v":0.1,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/SGBC.ci"},"SIBC":{"v":10.7,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/SIBC.ci"},"SCRC":{"v":null,"perte":true,"ret":"profit_vers_perte","u":"https://www.sikafinance.com/marches/societe/SCRC.ci"},"TTLC":{"v":-3.1,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/TTLC.ci"},"NEIC":{"v":null,"perte":false,"ret":"perte_vers_profit","u":"https://www.sikafinance.com/marches/societe/NEIC.ci"},"ECOC":{"v":10.4,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/ECOC.ci"},"ORAC":{"v":6.1,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/ORAC.ci"},"PALC":{"v":-2.2,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/PALC.ci"},"CIEC":{"v":30.0,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/CIEC.ci"},"SAFC":{"v":null,"perte":false,"ret":"perte_vers_profit","u":"https://www.sikafinance.com/marches/societe/SAFC.ci"},"SDSC":{"v":22.9,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/SDSC.ci"},"FTSC":{"v":-97.5,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/FTSC.ci"},"SPHC":{"v":32.9,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/SPHC.ci"},"BOAC":{"v":10.9,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/BOAC.ci"},"BICC":{"v":39.3,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/BICC.ci"},"NSBC":{"v":6.8,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/NSBC.ci"},"BNBC":{"v":-6.3,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/BNBC.ci"},"CFAC":{"v":79.3,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/CFAC.ci"},"NTLC":{"v":1.5,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/NTLC.ci"},"SLBC":{"v":113.2,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/SLBC.ci"},"SMBC":{"v":50.3,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/SMBC.ci"},"SOGC":{"v":-4.7,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/SOGC.ci"},"STBC":{"v":-17.5,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/STBC.ci"},"SHEC":{"v":12.6,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/SHEC.ci"},"SIVC":{"v":-52.5,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/SIVC.ci"},"CABC":{"v":11.2,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/CABC.ci"},"ABJC":{"v":-11.1,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/ABJC.ci"},"SDCC":{"v":31.0,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/SDCC.ci"},"SEMC":{"v":-16.8,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/SEMC.ci"},"SICC":{"v":-22.0,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/SICC.ci"},"STAC":{"v":116.3,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/STAC.ci"},"PRSC":{"v":0.9,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/PRSC.ci"},"UNLC":{"v":-4.1,"perte":false,"ret":null,"u":"https://www.sikafinance.com/marches/societe/UNLC.ci"},"UNXC":{"v":null,"perte":true,"ret":"perte_reduite","u":"https://www.sikafinance.com/marches/societe/UNXC.ci"}}}
+{
+ "SNTS": {
+  "variation_pct": 5.1,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 393662,
+  "rn_dernier": 413588,
+  "source_url": "https://www.sikafinance.com/marches/societe/SNTS.sn",
+  "lu_le": "2026-07-10"
+ },
+ "BOAS": {
+  "variation_pct": 9.6,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 19984,
+  "rn_dernier": 21905,
+  "source_url": "https://www.sikafinance.com/marches/societe/BOAS.sn",
+  "lu_le": "2026-07-10"
+ },
+ "TTLS": {
+  "variation_pct": 68.0,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 4222,
+  "rn_dernier": 7091,
+  "source_url": "https://www.sikafinance.com/marches/societe/TTLS.sn",
+  "lu_le": "2026-07-10"
+ },
+ "BICB": {
+  "variation_pct": -20.3,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 30341,
+  "rn_dernier": 24182,
+  "source_url": "https://www.sikafinance.com/marches/societe/BICB.bj",
+  "lu_le": "2026-07-10"
+ },
+ "BOAB": {
+  "variation_pct": 2.3,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 19647,
+  "rn_dernier": 20107,
+  "source_url": "https://www.sikafinance.com/marches/societe/BOAB.bj",
+  "lu_le": "2026-07-10"
+ },
+ "ONTBF": {
+  "variation_pct": -26.0,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 21471,
+  "rn_dernier": 15887,
+  "source_url": "https://www.sikafinance.com/marches/societe/ONTBF.bf",
+  "lu_le": "2026-07-10"
+ },
+ "CBIBF": {
+  "variation_pct": 36.6,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 47937,
+  "rn_dernier": 65495,
+  "source_url": "https://www.sikafinance.com/marches/societe/CBIBF.bf",
+  "lu_le": "2026-07-10"
+ },
+ "BOABF": {
+  "variation_pct": -14.1,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 22419,
+  "rn_dernier": 19252,
+  "source_url": "https://www.sikafinance.com/marches/societe/BOABF.bf",
+  "lu_le": "2026-07-10"
+ },
+ "ETIT": {
+  "variation_pct": 15.3,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 299706,
+  "rn_dernier": 345523,
+  "source_url": "https://www.sikafinance.com/marches/societe/ETIT.tg",
+  "lu_le": "2026-07-10"
+ },
+ "ORGT": {
+  "variation_pct": null,
+  "en_perte": true,
+  "retournement": "perte_aggravee",
+  "rn_precedent": -18186,
+  "rn_dernier": -44363,
+  "source_url": "https://www.sikafinance.com/marches/societe/ORGT.tg",
+  "lu_le": "2026-07-10"
+ },
+ "BOAM": {
+  "variation_pct": 21.5,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 9123,
+  "rn_dernier": 11081,
+  "source_url": "https://www.sikafinance.com/marches/societe/BOAM.ml",
+  "lu_le": "2026-07-10"
+ },
+ "BOAN": {
+  "variation_pct": -91.8,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 5002,
+  "rn_dernier": 409,
+  "source_url": "https://www.sikafinance.com/marches/societe/BOAN.ne",
+  "lu_le": "2026-07-10"
+ },
+ "SGBC": {
+  "variation_pct": 0.1,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 101228,
+  "rn_dernier": 101352,
+  "source_url": "https://www.sikafinance.com/marches/societe/SGBC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "SIBC": {
+  "variation_pct": 10.7,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 50234,
+  "rn_dernier": 55623,
+  "source_url": "https://www.sikafinance.com/marches/societe/SIBC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "SCRC": {
+  "variation_pct": null,
+  "en_perte": true,
+  "retournement": "profit_vers_perte",
+  "rn_precedent": 2591,
+  "rn_dernier": -6132,
+  "source_url": "https://www.sikafinance.com/marches/societe/SCRC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "TTLC": {
+  "variation_pct": -3.1,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 9374,
+  "rn_dernier": 9087,
+  "source_url": "https://www.sikafinance.com/marches/societe/TTLC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "NEIC": {
+  "variation_pct": null,
+  "en_perte": false,
+  "retournement": "perte_vers_profit",
+  "rn_precedent": -759,
+  "rn_dernier": 2037,
+  "source_url": "https://www.sikafinance.com/marches/societe/NEIC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "ECOC": {
+  "variation_pct": 10.4,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 57477,
+  "rn_dernier": 63482,
+  "source_url": "https://www.sikafinance.com/marches/societe/ECOC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "ORAC": {
+  "variation_pct": 6.1,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 158200,
+  "rn_dernier": 167800,
+  "source_url": "https://www.sikafinance.com/marches/societe/ORAC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "PALC": {
+  "variation_pct": -2.2,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 15862,
+  "rn_dernier": 15509,
+  "source_url": "https://www.sikafinance.com/marches/societe/PALC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "CIEC": {
+  "variation_pct": 30.0,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 10101,
+  "rn_dernier": 13127,
+  "source_url": "https://www.sikafinance.com/marches/societe/CIEC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "SAFC": {
+  "variation_pct": null,
+  "en_perte": false,
+  "retournement": "perte_vers_profit",
+  "rn_precedent": -165,
+  "rn_dernier": 701,
+  "source_url": "https://www.sikafinance.com/marches/societe/SAFC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "SDSC": {
+  "variation_pct": 22.9,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 17138,
+  "rn_dernier": 21069,
+  "source_url": "https://www.sikafinance.com/marches/societe/SDSC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "FTSC": {
+  "variation_pct": -97.5,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 18595,
+  "rn_dernier": 466,
+  "source_url": "https://www.sikafinance.com/marches/societe/FTSC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "SPHC": {
+  "variation_pct": 32.9,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 18790,
+  "rn_dernier": 24972,
+  "source_url": "https://www.sikafinance.com/marches/societe/SPHC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "BOAC": {
+  "variation_pct": 10.9,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 32044,
+  "rn_dernier": 35540,
+  "source_url": "https://www.sikafinance.com/marches/societe/BOAC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "BICC": {
+  "variation_pct": 39.3,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 26226,
+  "rn_dernier": 36520,
+  "source_url": "https://www.sikafinance.com/marches/societe/BICC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "NSBC": {
+  "variation_pct": 6.8,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 38112,
+  "rn_dernier": 40712,
+  "source_url": "https://www.sikafinance.com/marches/societe/NSBC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "BNBC": {
+  "variation_pct": -6.3,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 45312,
+  "rn_dernier": 42454,
+  "source_url": "https://www.sikafinance.com/marches/societe/BNBC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "CFAC": {
+  "variation_pct": 79.3,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 4693,
+  "rn_dernier": 8416,
+  "source_url": "https://www.sikafinance.com/marches/societe/CFAC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "NTLC": {
+  "variation_pct": 1.5,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 18150,
+  "rn_dernier": 18427,
+  "source_url": "https://www.sikafinance.com/marches/societe/NTLC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "SLBC": {
+  "variation_pct": 113.2,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 21472,
+  "rn_dernier": 45781,
+  "source_url": "https://www.sikafinance.com/marches/societe/SLBC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "SMBC": {
+  "variation_pct": 50.3,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 8698,
+  "rn_dernier": 13075,
+  "source_url": "https://www.sikafinance.com/marches/societe/SMBC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "SOGC": {
+  "variation_pct": -4.7,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 13111,
+  "rn_dernier": 12493,
+  "source_url": "https://www.sikafinance.com/marches/societe/SOGC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "STBC": {
+  "variation_pct": -17.5,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 44174,
+  "rn_dernier": 36464,
+  "source_url": "https://www.sikafinance.com/marches/societe/STBC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "SHEC": {
+  "variation_pct": 12.6,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 5354,
+  "rn_dernier": 6028,
+  "source_url": "https://www.sikafinance.com/marches/societe/SHEC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "SIVC": {
+  "variation_pct": -52.5,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 377,
+  "rn_dernier": 179,
+  "source_url": "https://www.sikafinance.com/marches/societe/SIVC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "CABC": {
+  "variation_pct": 11.2,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 19125,
+  "rn_dernier": 21263,
+  "source_url": "https://www.sikafinance.com/marches/societe/CABC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "ABJC": {
+  "variation_pct": -11.1,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 1519,
+  "rn_dernier": 1351,
+  "source_url": "https://www.sikafinance.com/marches/societe/ABJC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "SDCC": {
+  "variation_pct": 31.0,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 3560,
+  "rn_dernier": 4663,
+  "source_url": "https://www.sikafinance.com/marches/societe/SDCC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "SEMC": {
+  "variation_pct": -16.8,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 27875,
+  "rn_dernier": 23200,
+  "source_url": "https://www.sikafinance.com/marches/societe/SEMC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "SICC": {
+  "variation_pct": -22.0,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 701,
+  "rn_dernier": 547,
+  "source_url": "https://www.sikafinance.com/marches/societe/SICC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "STAC": {
+  "variation_pct": 116.3,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 1793,
+  "rn_dernier": 3878,
+  "source_url": "https://www.sikafinance.com/marches/societe/STAC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "PRSC": {
+  "variation_pct": 0.9,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 2347,
+  "rn_dernier": 2367,
+  "source_url": "https://www.sikafinance.com/marches/societe/PRSC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "UNLC": {
+  "variation_pct": -4.1,
+  "en_perte": false,
+  "retournement": null,
+  "rn_precedent": 36175,
+  "rn_dernier": 34682,
+  "source_url": "https://www.sikafinance.com/marches/societe/UNLC.ci",
+  "lu_le": "2026-07-10"
+ },
+ "UNXC": {
+  "variation_pct": null,
+  "en_perte": true,
+  "retournement": "perte_reduite",
+  "rn_precedent": -2218,
+  "rn_dernier": -624,
+  "source_url": "https://www.sikafinance.com/marches/societe/UNXC.ci",
+  "lu_le": "2026-07-10"
+ }
+}
