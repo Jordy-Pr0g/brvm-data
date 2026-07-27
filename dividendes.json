@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-07-16T20:07:01",
+  "genere_le": "2026-07-27T23:49:07",
   "sources": [
     "brvm.org",
     "sikafinance (calendrier)",
@@ -7,7 +7,7 @@
     "fluxbourse"
   ],
   "flat_tax_france": 0.314,
-  "nb_societes": 43,
+  "nb_societes": 44,
   "nb_ecarts": 0,
   "societes": [
     {
@@ -26,6 +26,25 @@
       "montants_par_source": {
         "sikafinance (historique)": 1740.0,
         "fluxbourse": 1655.0
+      },
+      "officiel": false
+    },
+    {
+      "cle": "BICC",
+      "nom": "BICICI CI",
+      "symbole": "BICC",
+      "montant_retenu": 1157.0,
+      "montant_net_france": 793.7,
+      "rendement_net": 3.61,
+      "date_ex": null,
+      "date_paiement": null,
+      "exercice": "2025",
+      "concordance": "A_CONFIRMER",
+      "corrobore": false,
+      "ecart_pct": 28.2,
+      "montants_par_source": {
+        "sikafinance (historique)": 1157.0,
+        "fluxbourse": 831.0
       },
       "officiel": false
     },
@@ -125,25 +144,6 @@
       "officiel": false
     },
     {
-      "cle": "SOGC",
-      "nom": "SOGB CI",
-      "symbole": "SOGC",
-      "montant_retenu": 502.0,
-      "montant_net_france": 344.37,
-      "rendement_net": 6.36,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "A_CONFIRMER",
-      "corrobore": true,
-      "ecart_pct": 4.9,
-      "montants_par_source": {
-        "sikafinance (historique)": 502.0,
-        "fluxbourse": 528.0
-      },
-      "officiel": false
-    },
-    {
       "cle": "BOAS",
       "nom": "BOA SÉNÉGAL",
       "symbole": "BOAS",
@@ -159,6 +159,25 @@
       "montants_par_source": {
         "sikafinance (historique)": 450.0,
         "fluxbourse": 350.0
+      },
+      "officiel": false
+    },
+    {
+      "cle": "PALC",
+      "nom": "PALM CI",
+      "symbole": "PALC",
+      "montant_retenu": 441.0,
+      "montant_net_france": 302.53,
+      "rendement_net": 5.01,
+      "date_ex": null,
+      "date_paiement": null,
+      "exercice": "2025",
+      "concordance": "A_CONFIRMER",
+      "corrobore": true,
+      "ecart_pct": 2.2,
+      "montants_par_source": {
+        "sikafinance (historique)": 441.0,
+        "fluxbourse": 451.0
       },
       "officiel": false
     },
@@ -300,22 +319,23 @@
       "officiel": false
     },
     {
-      "cle": "BICC",
-      "nom": "BICI CI",
-      "symbole": "BICC",
-      "montant_retenu": 1315.0,
-      "montant_net_france": 902.09,
-      "rendement_net": 3.61,
-      "date_ex": "03/07/2026",
-      "date_paiement": "06/07/2026",
+      "cle": "NSBC",
+      "nom": "NSBC",
+      "symbole": "NSBC",
+      "montant_retenu": 768.16,
+      "montant_net_france": 526.96,
+      "rendement_net": 4.77,
+      "date_ex": "03/08/2026",
+      "date_paiement": "04/08/2026",
       "exercice": "2025",
       "concordance": "CONFIRME_OFFICIEL",
       "corrobore": false,
       "ecart_pct": 0.0,
       "montants_par_source": {
-        "brvm.org": 1315.0,
-        "sikafinance (historique)": 1157.0,
-        "fluxbourse": 831.0
+        "brvm.org": 768.16,
+        "sikafinance (calendrier)": 768.16,
+        "sikafinance (historique)": 676.0,
+        "fluxbourse": 668.0
       },
       "officiel": true
     },
@@ -340,42 +360,23 @@
       "officiel": false
     },
     {
-      "cle": "NSBC",
-      "nom": "NSIA BANQUE CI",
-      "symbole": "NSBC",
-      "montant_retenu": 675.98,
-      "montant_net_france": 463.72,
-      "rendement_net": 4.77,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "CALENDRIER_SEUL",
-      "corrobore": true,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "sikafinance (calendrier)": 675.98,
-        "sikafinance (historique)": 676.0,
-        "fluxbourse": 668.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "PALC",
-      "nom": "PALM CI",
-      "symbole": "PALC",
-      "montant_retenu": 501.596,
-      "montant_net_france": 344.09,
-      "rendement_net": 5.01,
-      "date_ex": "26/06/2026",
-      "date_paiement": "29/06/2026",
+      "cle": "SOGC",
+      "nom": "SOGB",
+      "symbole": "SOGC",
+      "montant_retenu": 570.0,
+      "montant_net_france": 391.02,
+      "rendement_net": 6.36,
+      "date_ex": "05/07/2026",
+      "date_paiement": "06/08/2026",
       "exercice": "2025",
       "concordance": "CONFIRME_OFFICIEL",
       "corrobore": false,
       "ecart_pct": 0.0,
       "montants_par_source": {
-        "brvm.org": 501.596,
-        "sikafinance (historique)": 441.0,
-        "fluxbourse": 451.0
+        "brvm.org": 570.0,
+        "sikafinance (calendrier)": 570.0,
+        "sikafinance (historique)": 502.0,
+        "fluxbourse": 528.0
       },
       "officiel": true
     },
@@ -484,7 +485,7 @@
       "symbole": null,
       "montant_retenu": 254.6,
       "montant_net_france": 174.66,
-      "rendement_net": 3.99,
+      "rendement_net": null,
       "date_ex": "30/07/2026",
       "date_paiement": "31/07/2026",
       "exercice": "2025",
@@ -493,7 +494,6 @@
       "ecart_pct": 0.0,
       "montants_par_source": {
         "brvm.org": 254.6,
-        "sikafinance (calendrier)": 254.6,
         "sikafinance (historique)": 255.0
       },
       "officiel": true
@@ -572,8 +572,26 @@
       "ecart_pct": 0.0,
       "montants_par_source": {
         "brvm.org": 176.65,
-        "sikafinance (calendrier)": 176.65,
+        "sikafinance (historique)": 177.0,
         "fluxbourse": 222.0
+      },
+      "officiel": true
+    },
+    {
+      "cle": "LNB",
+      "nom": "LNB",
+      "symbole": null,
+      "montant_retenu": 164.1709,
+      "montant_net_france": 112.62,
+      "rendement_net": null,
+      "date_ex": "31/07/2026",
+      "date_paiement": "03/08/2026",
+      "exercice": "2025",
+      "concordance": "CONFIRME_OFFICIEL",
+      "corrobore": true,
+      "ecart_pct": 0.0,
+      "montants_par_source": {
+        "brvm.org": 164.1709
       },
       "officiel": true
     },

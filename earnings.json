@@ -6,7 +6,7 @@
   "rn_precedent": 393662,
   "rn_dernier": 413588,
   "source_url": "https://www.sikafinance.com/marches/societe/SNTS.sn",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "BOAS": {
   "variation_pct": 9.6,
@@ -15,16 +15,16 @@
   "rn_precedent": 19984,
   "rn_dernier": 21905,
   "source_url": "https://www.sikafinance.com/marches/societe/BOAS.sn",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "TTLS": {
-  "variation_pct": 68.0,
+  "variation_pct": -13.3,
   "en_perte": false,
   "retournement": null,
-  "rn_precedent": 4222,
-  "rn_dernier": 7091,
+  "rn_precedent": 7091,
+  "rn_dernier": 6147,
   "source_url": "https://www.sikafinance.com/marches/societe/TTLS.sn",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "BICB": {
   "variation_pct": -20.3,
@@ -33,7 +33,7 @@
   "rn_precedent": 30341,
   "rn_dernier": 24182,
   "source_url": "https://www.sikafinance.com/marches/societe/BICB.bj",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "BOAB": {
   "variation_pct": 2.3,
@@ -42,7 +42,7 @@
   "rn_precedent": 19647,
   "rn_dernier": 20107,
   "source_url": "https://www.sikafinance.com/marches/societe/BOAB.bj",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "ONTBF": {
   "variation_pct": -26.0,
@@ -51,7 +51,7 @@
   "rn_precedent": 21471,
   "rn_dernier": 15887,
   "source_url": "https://www.sikafinance.com/marches/societe/ONTBF.bf",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "CBIBF": {
   "variation_pct": 36.6,
@@ -60,7 +60,7 @@
   "rn_precedent": 47937,
   "rn_dernier": 65495,
   "source_url": "https://www.sikafinance.com/marches/societe/CBIBF.bf",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "BOABF": {
   "variation_pct": -14.1,
@@ -69,7 +69,7 @@
   "rn_precedent": 22419,
   "rn_dernier": 19252,
   "source_url": "https://www.sikafinance.com/marches/societe/BOABF.bf",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "ETIT": {
   "variation_pct": 15.3,
@@ -78,16 +78,16 @@
   "rn_precedent": 299706,
   "rn_dernier": 345523,
   "source_url": "https://www.sikafinance.com/marches/societe/ETIT.tg",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "ORGT": {
   "variation_pct": null,
-  "en_perte": true,
-  "retournement": "perte_aggravee",
-  "rn_precedent": -18186,
-  "rn_dernier": -44363,
+  "en_perte": false,
+  "retournement": "perte_vers_profit",
+  "rn_precedent": -44363,
+  "rn_dernier": 21643,
   "source_url": "https://www.sikafinance.com/marches/societe/ORGT.tg",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "BOAM": {
   "variation_pct": 21.5,
@@ -96,7 +96,7 @@
   "rn_precedent": 9123,
   "rn_dernier": 11081,
   "source_url": "https://www.sikafinance.com/marches/societe/BOAM.ml",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "BOAN": {
   "variation_pct": -91.8,
@@ -105,7 +105,7 @@
   "rn_precedent": 5002,
   "rn_dernier": 409,
   "source_url": "https://www.sikafinance.com/marches/societe/BOAN.ne",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "SGBC": {
   "variation_pct": 0.1,
@@ -114,7 +114,7 @@
   "rn_precedent": 101228,
   "rn_dernier": 101352,
   "source_url": "https://www.sikafinance.com/marches/societe/SGBC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "SIBC": {
   "variation_pct": 10.7,
@@ -123,7 +123,7 @@
   "rn_precedent": 50234,
   "rn_dernier": 55623,
   "source_url": "https://www.sikafinance.com/marches/societe/SIBC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "SCRC": {
   "variation_pct": null,
@@ -132,7 +132,7 @@
   "rn_precedent": 2591,
   "rn_dernier": -6132,
   "source_url": "https://www.sikafinance.com/marches/societe/SCRC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "TTLC": {
   "variation_pct": -3.1,
@@ -141,7 +141,7 @@
   "rn_precedent": 9374,
   "rn_dernier": 9087,
   "source_url": "https://www.sikafinance.com/marches/societe/TTLC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "NEIC": {
   "variation_pct": null,
@@ -150,7 +150,7 @@
   "rn_precedent": -759,
   "rn_dernier": 2037,
   "source_url": "https://www.sikafinance.com/marches/societe/NEIC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "ECOC": {
   "variation_pct": 10.4,
@@ -159,7 +159,7 @@
   "rn_precedent": 57477,
   "rn_dernier": 63482,
   "source_url": "https://www.sikafinance.com/marches/societe/ECOC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "ORAC": {
   "variation_pct": 6.1,
@@ -168,7 +168,7 @@
   "rn_precedent": 158200,
   "rn_dernier": 167800,
   "source_url": "https://www.sikafinance.com/marches/societe/ORAC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "PALC": {
   "variation_pct": -2.2,
@@ -177,7 +177,7 @@
   "rn_precedent": 15862,
   "rn_dernier": 15509,
   "source_url": "https://www.sikafinance.com/marches/societe/PALC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "CIEC": {
   "variation_pct": 30.0,
@@ -186,7 +186,7 @@
   "rn_precedent": 10101,
   "rn_dernier": 13127,
   "source_url": "https://www.sikafinance.com/marches/societe/CIEC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "SAFC": {
   "variation_pct": null,
@@ -195,7 +195,7 @@
   "rn_precedent": -165,
   "rn_dernier": 701,
   "source_url": "https://www.sikafinance.com/marches/societe/SAFC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "SDSC": {
   "variation_pct": 22.9,
@@ -204,7 +204,7 @@
   "rn_precedent": 17138,
   "rn_dernier": 21069,
   "source_url": "https://www.sikafinance.com/marches/societe/SDSC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "FTSC": {
   "variation_pct": -97.5,
@@ -213,7 +213,7 @@
   "rn_precedent": 18595,
   "rn_dernier": 466,
   "source_url": "https://www.sikafinance.com/marches/societe/FTSC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "SPHC": {
   "variation_pct": 32.9,
@@ -222,7 +222,7 @@
   "rn_precedent": 18790,
   "rn_dernier": 24972,
   "source_url": "https://www.sikafinance.com/marches/societe/SPHC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "BOAC": {
   "variation_pct": 10.9,
@@ -231,7 +231,7 @@
   "rn_precedent": 32044,
   "rn_dernier": 35540,
   "source_url": "https://www.sikafinance.com/marches/societe/BOAC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "BICC": {
   "variation_pct": 39.3,
@@ -240,7 +240,7 @@
   "rn_precedent": 26226,
   "rn_dernier": 36520,
   "source_url": "https://www.sikafinance.com/marches/societe/BICC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "NSBC": {
   "variation_pct": 6.8,
@@ -249,7 +249,7 @@
   "rn_precedent": 38112,
   "rn_dernier": 40712,
   "source_url": "https://www.sikafinance.com/marches/societe/NSBC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "BNBC": {
   "variation_pct": -6.3,
@@ -258,7 +258,7 @@
   "rn_precedent": 45312,
   "rn_dernier": 42454,
   "source_url": "https://www.sikafinance.com/marches/societe/BNBC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "CFAC": {
   "variation_pct": 79.3,
@@ -267,7 +267,7 @@
   "rn_precedent": 4693,
   "rn_dernier": 8416,
   "source_url": "https://www.sikafinance.com/marches/societe/CFAC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "NTLC": {
   "variation_pct": 1.5,
@@ -276,7 +276,7 @@
   "rn_precedent": 18150,
   "rn_dernier": 18427,
   "source_url": "https://www.sikafinance.com/marches/societe/NTLC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "SLBC": {
   "variation_pct": 113.2,
@@ -285,7 +285,7 @@
   "rn_precedent": 21472,
   "rn_dernier": 45781,
   "source_url": "https://www.sikafinance.com/marches/societe/SLBC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "SMBC": {
   "variation_pct": 50.3,
@@ -294,7 +294,7 @@
   "rn_precedent": 8698,
   "rn_dernier": 13075,
   "source_url": "https://www.sikafinance.com/marches/societe/SMBC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "SOGC": {
   "variation_pct": -4.7,
@@ -303,7 +303,7 @@
   "rn_precedent": 13111,
   "rn_dernier": 12493,
   "source_url": "https://www.sikafinance.com/marches/societe/SOGC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "STBC": {
   "variation_pct": -17.5,
@@ -312,7 +312,7 @@
   "rn_precedent": 44174,
   "rn_dernier": 36464,
   "source_url": "https://www.sikafinance.com/marches/societe/STBC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "SHEC": {
   "variation_pct": 12.6,
@@ -321,7 +321,7 @@
   "rn_precedent": 5354,
   "rn_dernier": 6028,
   "source_url": "https://www.sikafinance.com/marches/societe/SHEC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "SIVC": {
   "variation_pct": -52.5,
@@ -330,7 +330,7 @@
   "rn_precedent": 377,
   "rn_dernier": 179,
   "source_url": "https://www.sikafinance.com/marches/societe/SIVC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "CABC": {
   "variation_pct": 11.2,
@@ -339,7 +339,7 @@
   "rn_precedent": 19125,
   "rn_dernier": 21263,
   "source_url": "https://www.sikafinance.com/marches/societe/CABC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "ABJC": {
   "variation_pct": -11.1,
@@ -348,7 +348,7 @@
   "rn_precedent": 1519,
   "rn_dernier": 1351,
   "source_url": "https://www.sikafinance.com/marches/societe/ABJC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "SDCC": {
   "variation_pct": 31.0,
@@ -357,7 +357,7 @@
   "rn_precedent": 3560,
   "rn_dernier": 4663,
   "source_url": "https://www.sikafinance.com/marches/societe/SDCC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "SEMC": {
   "variation_pct": -16.8,
@@ -366,7 +366,7 @@
   "rn_precedent": 27875,
   "rn_dernier": 23200,
   "source_url": "https://www.sikafinance.com/marches/societe/SEMC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "SICC": {
   "variation_pct": -22.0,
@@ -375,7 +375,7 @@
   "rn_precedent": 701,
   "rn_dernier": 547,
   "source_url": "https://www.sikafinance.com/marches/societe/SICC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "STAC": {
   "variation_pct": 116.3,
@@ -384,7 +384,7 @@
   "rn_precedent": 1793,
   "rn_dernier": 3878,
   "source_url": "https://www.sikafinance.com/marches/societe/STAC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "PRSC": {
   "variation_pct": 0.9,
@@ -393,7 +393,7 @@
   "rn_precedent": 2347,
   "rn_dernier": 2367,
   "source_url": "https://www.sikafinance.com/marches/societe/PRSC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "UNLC": {
   "variation_pct": -4.1,
@@ -402,7 +402,7 @@
   "rn_precedent": 36175,
   "rn_dernier": 34682,
   "source_url": "https://www.sikafinance.com/marches/societe/UNLC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  },
  "UNXC": {
   "variation_pct": null,
@@ -411,6 +411,6 @@
   "rn_precedent": -2218,
   "rn_dernier": -624,
   "source_url": "https://www.sikafinance.com/marches/societe/UNXC.ci",
-  "lu_le": "2026-07-10"
+  "lu_le": "2026-07-27"
  }
 }
