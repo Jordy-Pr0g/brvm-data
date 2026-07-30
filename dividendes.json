@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-07-27T23:49:07",
+  "genere_le": "2026-07-30T10:40:00",
   "sources": [
     "brvm.org",
     "sikafinance (calendrier)",
@@ -300,23 +300,24 @@
     },
     {
       "cle": "STBC",
-      "nom": "SITAB CI",
+      "nom": "SITAB",
       "symbole": "STBC",
       "montant_retenu": 1707.2,
       "montant_net_france": 1171.14,
       "rendement_net": 9.79,
-      "date_ex": null,
-      "date_paiement": null,
+      "date_ex": "12/08/2026",
+      "date_paiement": "13/08/2026",
       "exercice": "2025",
-      "concordance": "CALENDRIER_SEUL",
+      "concordance": "CONFIRME_OFFICIEL",
       "corrobore": false,
       "ecart_pct": 0.0,
       "montants_par_source": {
+        "brvm.org": 1707.2,
         "sikafinance (calendrier)": 1707.2,
         "sikafinance (historique)": 1707.0,
         "fluxbourse": 2096.0
       },
-      "officiel": false
+      "officiel": true
     },
     {
       "cle": "NSBC",
@@ -422,24 +423,23 @@
     },
     {
       "cle": "SIBC",
-      "nom": "SIB",
+      "nom": "SIB CI",
       "symbole": "SIBC",
       "montant_retenu": 425.0,
       "montant_net_france": 291.55,
       "rendement_net": 4.85,
-      "date_ex": "30/07/2026",
-      "date_paiement": "31/07/2026",
+      "date_ex": null,
+      "date_paiement": null,
       "exercice": "2025",
-      "concordance": "CONFIRME_OFFICIEL",
+      "concordance": "CALENDRIER_SEUL",
       "corrobore": false,
       "ecart_pct": 0.0,
       "montants_par_source": {
-        "brvm.org": 425.0,
         "sikafinance (calendrier)": 425.0,
         "sikafinance (historique)": 374.0,
         "fluxbourse": 330.0
       },
-      "officiel": true
+      "officiel": false
     },
     {
       "cle": "NTLC",
