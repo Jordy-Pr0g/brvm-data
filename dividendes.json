@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-07-30T19:54:48",
+  "genere_le": "2026-07-31T19:13:25",
   "sources": [
     "brvm.org",
     "sikafinance (calendrier)",
@@ -216,6 +216,25 @@
       "montants_par_source": {
         "sikafinance (historique)": 305.0,
         "fluxbourse": 237.0
+      },
+      "officiel": false
+    },
+    {
+      "cle": "TTLS",
+      "nom": "TOTALENERGIES SN",
+      "symbole": "TTLS",
+      "montant_retenu": 177.0,
+      "montant_net_france": 121.42,
+      "rendement_net": 7.59,
+      "date_ex": null,
+      "date_paiement": null,
+      "exercice": "2025",
+      "concordance": "A_CONFIRMER",
+      "corrobore": false,
+      "ecart_pct": 20.3,
+      "montants_par_source": {
+        "sikafinance (historique)": 177.0,
+        "fluxbourse": 222.0
       },
       "officiel": false
     },
@@ -443,23 +462,24 @@
     },
     {
       "cle": "NTLC",
-      "nom": "NESTLÉ CI",
+      "nom": "NESTLE CI",
       "symbole": "NTLC",
-      "montant_retenu": 369.6,
-      "montant_net_france": 253.55,
+      "montant_retenu": 420.0,
+      "montant_net_france": 288.12,
       "rendement_net": 5.78,
-      "date_ex": null,
-      "date_paiement": null,
+      "date_ex": "04/09/2026",
+      "date_paiement": "07/09/2026",
       "exercice": "2025",
-      "concordance": "CALENDRIER_SEUL",
+      "concordance": "CONFIRME_OFFICIEL",
       "corrobore": false,
       "ecart_pct": 0.0,
       "montants_par_source": {
-        "sikafinance (calendrier)": 369.6,
+        "brvm.org": 420.0,
+        "sikafinance (calendrier)": 420.0,
         "sikafinance (historique)": 370.0,
         "fluxbourse": 722.0
       },
-      "officiel": false
+      "officiel": true
     },
     {
       "cle": "BICICI BURKINA",
@@ -556,26 +576,6 @@
         "fluxbourse": 182.0
       },
       "officiel": false
-    },
-    {
-      "cle": "TTLS",
-      "nom": "TOTAL SENEGAL S.A.",
-      "symbole": "TTLS",
-      "montant_retenu": 176.65,
-      "montant_net_france": 121.18,
-      "rendement_net": 7.59,
-      "date_ex": "16/07/2026",
-      "date_paiement": "17/07/2026",
-      "exercice": "2025",
-      "concordance": "CONFIRME_OFFICIEL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "brvm.org": 176.65,
-        "sikafinance (historique)": 177.0,
-        "fluxbourse": 222.0
-      },
-      "officiel": true
     },
     {
       "cle": "LNB",
@@ -751,6 +751,27 @@
       "officiel": false
     },
     {
+      "cle": "CFAC",
+      "nom": "CFAO MOTORS CI",
+      "symbole": "CFAC",
+      "montant_retenu": 63.0,
+      "montant_net_france": 43.22,
+      "rendement_net": 0.43,
+      "date_ex": "13/08/2026",
+      "date_paiement": "14/08/2026",
+      "exercice": "2025",
+      "concordance": "CONFIRME_OFFICIEL",
+      "corrobore": false,
+      "ecart_pct": 0.0,
+      "montants_par_source": {
+        "brvm.org": 63.0,
+        "sikafinance (calendrier)": 63.0,
+        "sikafinance (historique)": 55.0,
+        "fluxbourse": 7.0
+      },
+      "officiel": true
+    },
+    {
       "cle": "UNXC",
       "nom": "UNIWAX CI",
       "symbole": "UNXC",
@@ -783,26 +804,6 @@
       "ecart_pct": 0.0,
       "montants_par_source": {
         "fluxbourse": 60.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "CFAC",
-      "nom": "CFAO MOTORS CI",
-      "symbole": "CFAC",
-      "montant_retenu": 55.44,
-      "montant_net_france": 38.03,
-      "rendement_net": 0.43,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "CALENDRIER_SEUL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "sikafinance (calendrier)": 55.44,
-        "sikafinance (historique)": 55.0,
-        "fluxbourse": 7.0
       },
       "officiel": false
     },
@@ -844,23 +845,22 @@
     },
     {
       "cle": "ETIT",
-      "nom": "ECOBANK TG",
+      "nom": "ECOBANK TRANS. INC.",
       "symbole": "ETIT",
-      "montant_retenu": 0.9,
-      "montant_net_france": 0.62,
+      "montant_retenu": 1.0,
+      "montant_net_france": 0.69,
       "rendement_net": 1.78,
-      "date_ex": "29/06/2026",
-      "date_paiement": "30/06/2026",
+      "date_ex": null,
+      "date_paiement": null,
       "exercice": "2025",
-      "concordance": "CONFIRME_OFFICIEL",
+      "concordance": "CONFIRME",
       "corrobore": true,
       "ecart_pct": 0.0,
       "montants_par_source": {
-        "brvm.org": 0.9,
         "sikafinance (historique)": 1.0,
         "fluxbourse": 0.6
       },
-      "officiel": true
+      "officiel": false
     }
   ]
 }
