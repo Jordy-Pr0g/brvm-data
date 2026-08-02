@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-08-01T19:09:39",
+ "genere_le": "2026-08-02T19:09:47",
  "source": "richbourse.com",
  "actualites": {
   "SNTS": [
@@ -8,35 +8,35 @@
     "titre": "SONATEL SN : Communiqué de Presse",
     "url": "https://www.richbourse.com/common/actualite/details/24-07-2026-sonatel-sn-communique-de-presse",
     "recent": true,
-    "jours": 8
+    "jours": 9
    },
    {
     "date": "2026-07-24",
     "titre": "SONATEL SN : Rapport d'activités - 1er semestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/24-07-2026-sonatel-sn-rapport-dactivites-1er-semestre-2026",
     "recent": true,
-    "jours": 8
+    "jours": 9
    },
    {
     "date": "2026-06-30",
     "titre": "SONATEL SN : Notation financière",
     "url": "https://www.richbourse.com/common/actualite/details/30-06-2026-sonatel-sn-notation-financiere",
     "recent": false,
-    "jours": 32
+    "jours": 33
    },
    {
     "date": "2026-06-29",
     "titre": "SONATEL : Transaction Sur Dossier",
     "url": "https://www.richbourse.com/common/actualite/details/29-06-2026-sonatel-transaction-sur-dossier",
     "recent": false,
-    "jours": 33
+    "jours": 34
    },
    {
     "date": "2026-04-23",
     "titre": "SONATEL SN : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/23-04-2026-sonatel-sn-paiement-de-dividendes-exercice-2025",
     "recent": false,
-    "jours": 100
+    "jours": 101
    }
   ],
   "SGBC": [
@@ -45,35 +45,35 @@
     "titre": "SOCIETE GENERALE CI : Bilan semestriel du contrat de liquidité -1er semestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/08-07-2026-societe-generale-ci-bilan-semestriel-du-contrat-de-liquidite-1er-semestre-2025",
     "recent": true,
-    "jours": 24
+    "jours": 25
    },
    {
     "date": "2026-06-03",
     "titre": "SOCIETE GENERALE CI : Avis de convocation - Assemblée Générale Mixte",
     "url": "https://www.richbourse.com/common/actualite/details/03-06-2026-societe-generale-ci-avis-de-convocation-assemblee-generale-mixte",
     "recent": false,
-    "jours": 59
+    "jours": 60
    },
    {
     "date": "2026-04-30",
     "titre": "SOCIETE GENERALE CI : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/30-04-2026-societe-generale-ci-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 93
+    "jours": 94
    },
    {
     "date": "2026-04-21",
     "titre": "SOCIETE GENERALE CI : Rapport d'activités annuel et Etats Financiers - Exercice 2025 - (Annule et remplace le précédent)",
     "url": "https://www.richbourse.com/common/actualite/details/21-04-2026-societe-generale-ci-rapport-dactivites-annuel-et-etats-financiers-exercice-2025-annule-et-remplace-le-precedent",
     "recent": false,
-    "jours": 102
+    "jours": 103
    },
    {
     "date": "2026-04-16",
     "titre": "SOCIETE GENERALE CI : Rapport d'activités annuel et Etats Financiers - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/16-04-2026-societe-generale-ci-rapport-dactivites-annuel-et-etats-financiers-exercice-2025",
     "recent": false,
-    "jours": 107
+    "jours": 108
    }
   ],
   "SIBC": [
@@ -82,35 +82,35 @@
     "titre": "SIB CI : Bilan semestriel du contrat de liquidité -1er semestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/03-07-2026-sib-ci-bilan-semestriel-du-contrat-de-liquidite-1er-semestre-2025",
     "recent": true,
-    "jours": 29
+    "jours": 30
    },
    {
     "date": "2026-06-23",
     "titre": "SIB CI : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/23-06-2026-sib-ci-paiement-de-dividendes-exercice-2025",
     "recent": false,
-    "jours": 39
+    "jours": 40
    },
    {
     "date": "2026-05-06",
     "titre": "SIB CI : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/06-05-2026-sib-ci-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 87
+    "jours": 88
    },
    {
     "date": "2026-04-23",
     "titre": "SIB CI : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/23-04-2026-sib-ci-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 100
+    "jours": 101
    },
    {
     "date": "2026-04-21",
     "titre": "SIB CI : Rapport d'activités annuel et Etats Financiers - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/21-04-2026-sib-ci-rapport-dactivites-annuel-et-etats-financiers-exercice-2025",
     "recent": false,
-    "jours": 102
+    "jours": 103
    }
   ],
   "BICB": [
@@ -119,35 +119,35 @@
     "titre": "BIIC BN : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/22-07-2026-biic-bn-rapport-dactivites-1er-trimestre-2026",
     "recent": true,
-    "jours": 10
+    "jours": 11
    },
    {
     "date": "2026-07-03",
     "titre": "BIIC BN : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/03-07-2026-biic-bn-paiement-de-dividendes-exercice-2025",
     "recent": true,
-    "jours": 29
+    "jours": 30
    },
    {
     "date": "2026-06-19",
     "titre": "BIIC BN : Rapport des Commissaires Aux Comptes sur les Etats Financiers annuels - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/19-06-2026-biic-bn-rapport-des-commissaires-aux-comptes-sur-les-etats-financiers-annuels-exercice-2025",
     "recent": false,
-    "jours": 43
+    "jours": 44
    },
    {
     "date": "2026-06-19",
     "titre": "BIIC BN : Rapport d'activités annuel et Etats Financiers IFRS - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/19-06-2026-biic-bn-rapport-dactivites-annuel-et-etats-financiers-ifrs-exercice-2025",
     "recent": false,
-    "jours": 43
+    "jours": 44
    },
    {
     "date": "2026-06-12",
     "titre": "BIIC BN : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/12-06-2026-biic-bn-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 50
+    "jours": 51
    }
   ],
   "ETIT": [
@@ -156,35 +156,35 @@
     "titre": "ETI TG : Avis de convocation - Assemblée Générale Extraordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/22-07-2026-eti-tg-avis-de-convocation-assemblee-generale-extraordinaire",
     "recent": true,
-    "jours": 10
+    "jours": 11
    },
    {
     "date": "2026-06-29",
     "titre": "ETI TG : Paiement de dividendes - Exercice 2025 - modification du montant du dividende",
     "url": "https://www.richbourse.com/common/actualite/details/29-06-2026-eti-tg-paiement-de-dividendes-exercice-2025-modification-du-montant-du-dividende",
     "recent": false,
-    "jours": 33
+    "jours": 34
    },
    {
     "date": "2026-06-26",
     "titre": "ETI TG : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/26-06-2026-eti-tg-paiement-de-dividendes-exercice-2025",
     "recent": false,
-    "jours": 36
+    "jours": 37
    },
    {
     "date": "2026-06-16",
     "titre": "ETI TG : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/16-06-2026-eti-tg-paiement-de-dividendes-exercice-2025",
     "recent": false,
-    "jours": 46
+    "jours": 47
    },
    {
     "date": "2026-05-13",
     "titre": "ETI TG : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/13-05-2026-eti-tg-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 80
+    "jours": 81
    }
   ],
   "SCRC": [
@@ -193,35 +193,35 @@
     "titre": "SUCRIVOIRE CI : Etats financiers - Exercice 2025 (Annule et remplace le précédent)",
     "url": "https://www.richbourse.com/common/actualite/details/18-05-2026-sucrivoire-ci-etats-financiers-exercice-2025-annule-et-remplace-le-precedent",
     "recent": false,
-    "jours": 75
+    "jours": 76
    },
    {
     "date": "2026-04-30",
     "titre": "SUCRIVOIRE CI : Etats financiers SYSCOHADA - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/30-04-2026-sucrivoire-ci-etats-financiers-syscohada-exercice-2025",
     "recent": false,
-    "jours": 93
+    "jours": 94
    },
    {
     "date": "2026-04-30",
     "titre": "SUCRIVOIRE CI : Etats financiers IFRS - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/30-04-2026-sucrivoire-ci-etats-financiers-ifrs-exercice-2025",
     "recent": false,
-    "jours": 93
+    "jours": 94
    },
    {
     "date": "2026-04-30",
     "titre": "SUCRIVOIRE CI : Avis de convocation et projets de résolution - AGO",
     "url": "https://www.richbourse.com/common/actualite/details/30-04-2026-sucrivoire-ci-avis-de-convocation-et-projets-de-resolution-ago",
     "recent": false,
-    "jours": 93
+    "jours": 94
    },
    {
     "date": "2025-12-30",
     "titre": "SUCRIVOIRE CI : Notation Financière",
     "url": "https://www.richbourse.com/common/actualite/details/30-12-2025-sucrivoire-ci-notation-financiere",
     "recent": false,
-    "jours": 214
+    "jours": 215
    }
   ],
   "ONTBF": [
@@ -230,35 +230,35 @@
     "titre": "ONATEL BF : Rapport de gestion - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/11-06-2026-onatel-bf-rapport-de-gestion-exercice-2025",
     "recent": false,
-    "jours": 51
+    "jours": 52
    },
    {
     "date": "2026-06-11",
     "titre": "ONATEL BF : Etats financiers approuvés - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/11-06-2026-onatel-bf-etats-financiers-approuves-exercice-2025",
     "recent": false,
-    "jours": 51
+    "jours": 52
    },
    {
     "date": "2026-05-19",
     "titre": "ONATEL BF : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/19-05-2026-onatel-bf-paiement-de-dividendes-exercice-2025",
     "recent": false,
-    "jours": 74
+    "jours": 75
    },
    {
     "date": "2026-04-30",
     "titre": "ONATEL BF : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/30-04-2026-onatel-bf-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 93
+    "jours": 94
    },
    {
     "date": "2026-04-09",
     "titre": "ONATEL BF : Communiqué de presse",
     "url": "https://www.richbourse.com/common/actualite/details/09-04-2026-onatel-bf-communique-de-presse",
     "recent": false,
-    "jours": 114
+    "jours": 115
    }
   ],
   "TTLC": [
@@ -267,35 +267,35 @@
     "titre": "TOTALENERGIES MARKETING CI : Etats financiers approuvés - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/01-06-2026-totalenergies-marketing-ci-etats-financiers-approuves-exercice-2025",
     "recent": false,
-    "jours": 61
+    "jours": 62
    },
    {
     "date": "2026-05-05",
     "titre": "TotalEnergies Marketing CI : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/05-05-2026-totalenergies-marketing-ci-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 88
+    "jours": 89
    },
    {
     "date": "2026-04-22",
     "titre": "TOTALENERGIES MARKETING CI : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/22-04-2026-totalenergies-marketing-ci-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 101
+    "jours": 102
    },
    {
     "date": "2026-03-31",
     "titre": "TOTALENERGIES MARKETING CI : Etats financiers SYSCOHADA - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/31-03-2026-totalenergies-marketing-ci-etats-financiers-syscohada-exercice-2025",
     "recent": false,
-    "jours": 123
+    "jours": 124
    },
    {
     "date": "2025-12-30",
     "titre": "TOTALENERGIES MARKETING CI : Notation Financière",
     "url": "https://www.richbourse.com/common/actualite/details/30-12-2025-totalenergies-marketing-ci-notation-financiere",
     "recent": false,
-    "jours": 214
+    "jours": 215
    }
   ],
   "BOAB": [
@@ -304,35 +304,35 @@
     "titre": "BOA BN : Rapport d'activités - 1er semestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/23-07-2026-boa-bn-rapport-dactivites-1er-semestre-2026",
     "recent": true,
-    "jours": 9
+    "jours": 10
    },
    {
     "date": "2026-07-15",
     "titre": "BOA BN : Bilan semestriel du contrat de liquidité -1er semestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/15-07-2026-boa-bn-bilan-semestriel-du-contrat-de-liquidite-1er-semestre-2026",
     "recent": true,
-    "jours": 17
+    "jours": 18
    },
    {
     "date": "2026-06-16",
     "titre": "BOAB : Transaction Sur Dossier",
     "url": "https://www.richbourse.com/common/actualite/details/16-06-2026-boab-transaction-sur-dossier",
     "recent": false,
-    "jours": 46
+    "jours": 47
    },
    {
     "date": "2026-05-08",
     "titre": "BOA BN : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/08-05-2026-boa-bn-paiement-de-dividendes-exercice-2025",
     "recent": false,
-    "jours": 85
+    "jours": 86
    },
    {
     "date": "2026-05-04",
     "titre": "BOA BENIN : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/04-05-2026-boa-benin-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 89
+    "jours": 90
    }
   ],
   "CBIBF": [
@@ -341,35 +341,35 @@
     "titre": "CORIS BANK INTERNATIONAL BF : Etats financiers - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/07-07-2026-coris-bank-international-bf-etats-financiers-exercice-2025",
     "recent": true,
-    "jours": 25
+    "jours": 26
    },
    {
     "date": "2026-06-03",
     "titre": "CORIS BANK INTERNATIONAL BF : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/03-06-2026-coris-bank-international-bf-paiement-de-dividendes-exercice-2025",
     "recent": false,
-    "jours": 59
+    "jours": 60
    },
    {
     "date": "2026-04-30",
     "titre": "CORIS BANK INTERNATIONAL BF : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/30-04-2026-coris-bank-international-bf-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 93
+    "jours": 94
    },
    {
     "date": "2026-04-23",
     "titre": "CORIS BANK INTERNATIONAL BF : Rapport d'activités annuel - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/23-04-2026-coris-bank-international-bf-rapport-dactivites-annuel-exercice-2025",
     "recent": false,
-    "jours": 100
+    "jours": 101
    },
    {
     "date": "2026-03-31",
     "titre": "CORIS BANK INTERNATIONAL BF : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/31-03-2026-coris-bank-international-bf-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 123
+    "jours": 124
    }
   ],
   "NEIC": [
@@ -378,35 +378,35 @@
     "titre": "NEI-CEDA CI : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/29-05-2026-nei-ceda-ci-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 64
+    "jours": 65
    },
    {
     "date": "2026-04-23",
     "titre": "NEI CEDA CI : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/23-04-2026-nei-ceda-ci-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 100
+    "jours": 101
    },
    {
     "date": "2026-04-23",
     "titre": "NEI CEDA CI : Etats financiers SYSCOHADA - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/23-04-2026-nei-ceda-ci-etats-financiers-syscohada-exercice-2025",
     "recent": false,
-    "jours": 100
+    "jours": 101
    },
    {
     "date": "2026-03-03",
     "titre": "NEI CEDA : Notation Financière",
     "url": "https://www.richbourse.com/common/actualite/details/03-03-2026-nei-ceda-notation-financiere",
     "recent": false,
-    "jours": 151
+    "jours": 152
    },
    {
     "date": "2026-02-20",
     "titre": "NEI-CEDA CI : Communiqué - Changement important dans la Direction",
     "url": "https://www.richbourse.com/common/actualite/details/20-02-2026-nei-ceda-ci-communique-changement-important-dans-la-direction",
     "recent": false,
-    "jours": 162
+    "jours": 163
    }
   ],
   "ECOC": [
@@ -415,35 +415,35 @@
     "titre": "ECOBANK CI : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/08-05-2026-ecobank-ci-paiement-de-dividendes-exercice-2025",
     "recent": false,
-    "jours": 85
+    "jours": 86
    },
    {
     "date": "2026-04-29",
     "titre": "ECOBANK CI : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/29-04-2026-ecobank-ci-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 94
+    "jours": 95
    },
    {
     "date": "2026-04-14",
     "titre": "ECOBANK CI : Rapport d'activités et Etats financiers - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/14-04-2026-ecobank-ci-rapport-dactivites-et-etats-financiers-exercice-2025",
     "recent": false,
-    "jours": 109
+    "jours": 110
    },
    {
     "date": "2026-04-10",
     "titre": "ECOBANK CI : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/10-04-2026-ecobank-ci-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 113
+    "jours": 114
    },
    {
     "date": "2025-10-28",
     "titre": "ECOBANK CI : Rapport d'activités - 3ème trimestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/28-10-2025-ecobank-ci-rapport-dactivites-3eme-trimestre-2025",
     "recent": false,
-    "jours": 277
+    "jours": 278
    }
   ],
   "ORAC": [
@@ -452,35 +452,35 @@
     "titre": "ORANGE CI : Bilan semestriel du contrat de liquidité -1er semestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/10-07-2026-orange-ci-bilan-semestriel-du-contrat-de-liquidite-1er-semestre-2025",
     "recent": true,
-    "jours": 22
+    "jours": 23
    },
    {
     "date": "2026-06-08",
     "titre": "ORANGE CI : Etats financiers approuvés - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/08-06-2026-orange-ci-etats-financiers-approuves-exercice-2025",
     "recent": false,
-    "jours": 54
+    "jours": 55
    },
    {
     "date": "2026-05-20",
     "titre": "ORANGE CI : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/20-05-2026-orange-ci-paiement-de-dividendes-exercice-2025",
     "recent": false,
-    "jours": 73
+    "jours": 74
    },
    {
     "date": "2026-05-20",
     "titre": "ORANGE CI : Rapport annuel intégré - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/20-05-2026-orange-ci-rapport-annuel-integre-exercice-2025",
     "recent": false,
-    "jours": 73
+    "jours": 74
    },
    {
     "date": "2026-04-30",
     "titre": "ORANGE CI : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/30-04-2026-orange-ci-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 93
+    "jours": 94
    }
   ],
   "ORGT": [
@@ -489,35 +489,35 @@
     "titre": "ORAGROUP TG : Bilan semestriel du contrat de liquidité -1er semestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/14-07-2026-oragroup-tg-bilan-semestriel-du-contrat-de-liquidite-1er-semestre-2026",
     "recent": true,
-    "jours": 18
+    "jours": 19
    },
    {
     "date": "2026-07-03",
     "titre": "ORAGROUP TG : Avis de convocation et Projet de résolution - Assemblée Générale Mixte",
     "url": "https://www.richbourse.com/common/actualite/details/03-07-2026-oragroup-tg-avis-de-convocation-et-projet-de-resolution-assemblee-generale-mixte",
     "recent": true,
-    "jours": 29
+    "jours": 30
    },
    {
     "date": "2026-05-04",
     "titre": "ORAGROUP TG : Etats financiers - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/04-05-2026-oragroup-tg-etats-financiers-exercice-2025",
     "recent": false,
-    "jours": 89
+    "jours": 90
    },
    {
     "date": "2026-05-04",
     "titre": "ORAGROUP TG : Notation Financière",
     "url": "https://www.richbourse.com/common/actualite/details/04-05-2026-oragroup-tg-notation-financiere",
     "recent": false,
-    "jours": 89
+    "jours": 90
    },
    {
     "date": "2026-04-30",
     "titre": "ORAGROUP TG : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/30-04-2026-oragroup-tg-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 93
+    "jours": 94
    }
   ],
   "PALC": [
@@ -526,35 +526,35 @@
     "titre": "PALM CI : Bilan semestriel du contrat de liquidité -1er semestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/08-07-2026-palm-ci-bilan-semestriel-du-contrat-de-liquidite-1er-semestre-2025",
     "recent": true,
-    "jours": 24
+    "jours": 25
    },
    {
     "date": "2026-06-10",
     "titre": "PALM CI : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/10-06-2026-palm-ci-paiement-de-dividendes-exercice-2025",
     "recent": false,
-    "jours": 52
+    "jours": 53
    },
    {
     "date": "2026-04-29",
     "titre": "PALM CI : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/29-04-2026-palm-ci-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 94
+    "jours": 95
    },
    {
     "date": "2026-03-25",
     "titre": "PALM CI : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/25-03-2026-palm-ci-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 129
+    "jours": 130
    },
    {
     "date": "2026-03-23",
     "titre": "PALM CI : Etats financiers - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/23-03-2026-palm-ci-etats-financiers-exercice-2025",
     "recent": false,
-    "jours": 131
+    "jours": 132
    }
   ],
   "CIEC": [
@@ -563,35 +563,35 @@
     "titre": "CIE CI : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/07-07-2026-cie-ci-paiement-de-dividendes-exercice-2025",
     "recent": true,
-    "jours": 25
+    "jours": 26
    },
    {
     "date": "2026-06-03",
     "titre": "CIE CI : Avis de convocation et projets de résolutions - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/03-06-2026-cie-ci-avis-de-convocation-et-projets-de-resolutions-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 59
+    "jours": 60
    },
    {
     "date": "2026-05-20",
     "titre": "CIE CI : Etats financiers SYSCOHADA et IFRS - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/20-05-2026-cie-ci-etats-financiers-syscohada-et-ifrs-exercice-2025",
     "recent": false,
-    "jours": 73
+    "jours": 74
    },
    {
     "date": "2026-01-08",
     "titre": "CIE CI : Notation Financière",
     "url": "https://www.richbourse.com/common/actualite/details/08-01-2026-cie-ci-notation-financiere",
     "recent": false,
-    "jours": 205
+    "jours": 206
    },
    {
     "date": "2025-10-30",
     "titre": "CIE CI : Attestation des Commissaires Aux Comptes et Rapport d'activités - 1er semestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/30-10-2025-cie-ci-attestation-des-commissaires-aux-comptes-et-rapport-dactivites-1er-semestre-2025",
     "recent": false,
-    "jours": 275
+    "jours": 276
    }
   ],
   "SAFC": [
@@ -600,35 +600,35 @@
     "titre": "SAFCA CI : Admission à la cote des actions nouvelles de la société",
     "url": "https://www.richbourse.com/common/actualite/details/24-07-2026-safca-ci-admission-a-la-cote-des-actions-nouvelles-de-la-societe",
     "recent": true,
-    "jours": 8
+    "jours": 9
    },
    {
     "date": "2026-06-10",
     "titre": "SAFCA CI : Clôture des souscriptions - actions nouvelle",
     "url": "https://www.richbourse.com/common/actualite/details/10-06-2026-safca-ci-cloture-des-souscriptions-actions-nouvelle",
     "recent": false,
-    "jours": 52
+    "jours": 53
    },
    {
     "date": "2026-06-09",
     "titre": "SAFCA CI : Etats financiers - Exercice 2025 (Annule et remplace le précédent)",
     "url": "https://www.richbourse.com/common/actualite/details/09-06-2026-safca-ci-etats-financiers-exercice-2025-annule-et-remplace-le-precedent",
     "recent": false,
-    "jours": 53
+    "jours": 54
    },
    {
     "date": "2026-06-05",
     "titre": "SAFCA CI : Radiation - Droit Préférentiel de Souscription 1",
     "url": "https://www.richbourse.com/common/actualite/details/05-06-2026-safca-ci-radiation-droit-preferentiel-de-souscription-1",
     "recent": false,
-    "jours": 57
+    "jours": 58
    },
    {
     "date": "2026-06-02",
     "titre": "SAFCA CI : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/02-06-2026-safca-ci-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 60
+    "jours": 61
    }
   ],
   "SDSC": [
@@ -637,35 +637,35 @@
     "titre": "AFRICA GLOBAL LOGISTICS CI : Bilan semestriel du contrat de liquidité -1er semestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/08-07-2026-africa-global-logistics-ci-bilan-semestriel-du-contrat-de-liquidite-1er-semestre-2025",
     "recent": true,
-    "jours": 24
+    "jours": 25
    },
    {
     "date": "2026-06-23",
     "titre": "AFRICA GLOBAL LOGISTICS CI : Notation Financière",
     "url": "https://www.richbourse.com/common/actualite/details/23-06-2026-africa-global-logistics-ci-notation-financiere",
     "recent": false,
-    "jours": 39
+    "jours": 40
    },
    {
     "date": "2025-12-05",
     "titre": "AFRICA GLOBAL LOGISTICS CI : Rapport d'activités - 3ème trimestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/05-12-2025-africa-global-logistics-ci-rapport-dactivites-3eme-trimestre-2025",
     "recent": false,
-    "jours": 239
+    "jours": 240
    },
    {
     "date": "2025-11-11",
     "titre": "AFRICA GLOBAL LOGISTICS CI : Attestation des Commissaires Aux Comptes - 1er semestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/11-11-2025-africa-global-logistics-ci-attestation-des-commissaires-aux-comptes-1er-semestre-2025",
     "recent": false,
-    "jours": 263
+    "jours": 264
    },
    {
     "date": "2025-11-11",
     "titre": "AFRICA GLOBAL LOGISTICS CI : Rapport d'activités - 1er semestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/11-11-2025-africa-global-logistics-ci-rapport-dactivites-1er-semestre-2025",
     "recent": false,
-    "jours": 263
+    "jours": 264
    }
   ],
   "FTSC": [
@@ -674,35 +674,35 @@
     "titre": "FILTISAC CI : Communiqué",
     "url": "https://www.richbourse.com/common/actualite/details/07-07-2026-filtisac-ci-communique",
     "recent": true,
-    "jours": 25
+    "jours": 26
    },
    {
     "date": "2026-06-10",
     "titre": "FILTISAC CI : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/10-06-2026-filtisac-ci-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 52
+    "jours": 53
    },
    {
     "date": "2026-06-10",
     "titre": "FILTISAC CI : Etats financiers - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/10-06-2026-filtisac-ci-etats-financiers-exercice-2025",
     "recent": false,
-    "jours": 52
+    "jours": 53
    },
    {
     "date": "2026-05-29",
     "titre": "FILTISAC CI : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/29-05-2026-filtisac-ci-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 64
+    "jours": 65
    },
    {
     "date": "2025-10-31",
     "titre": "FILTISAC CI : Rapport d'activités - 1er semestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/31-10-2025-filtisac-ci-rapport-dactivites-1er-semestre-2025",
     "recent": false,
-    "jours": 274
+    "jours": 275
    }
   ],
   "SPHC": [
@@ -711,35 +711,35 @@
     "titre": "SAPH CI : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/29-04-2026-saph-ci-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 94
+    "jours": 95
    },
    {
     "date": "2026-03-25",
     "titre": "SAPH CI : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/25-03-2026-saph-ci-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 129
+    "jours": 130
    },
    {
     "date": "2026-03-18",
     "titre": "SAPH CI : Etats financiers SYSCOHADA - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/18-03-2026-saph-ci-etats-financiers-syscohada-exercice-2025",
     "recent": false,
-    "jours": 136
+    "jours": 137
    },
    {
     "date": "2026-01-28",
     "titre": "SAPH CI : Communiqué",
     "url": "https://www.richbourse.com/common/actualite/details/28-01-2026-saph-ci-communique",
     "recent": false,
-    "jours": 185
+    "jours": 186
    },
    {
     "date": "2025-11-03",
     "titre": "SAPH CI : Rapport d'activités - 3ème trimestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/03-11-2025-saph-ci-rapport-dactivites-3eme-trimestre-2025",
     "recent": false,
-    "jours": 271
+    "jours": 272
    }
   ],
   "BOABF": [
@@ -748,35 +748,35 @@
     "titre": "BOA BF : Bilan semestriel du contrat de liquidité -1er semestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/15-07-2026-boa-bf-bilan-semestriel-du-contrat-de-liquidite-1er-semestre-2026",
     "recent": true,
-    "jours": 17
+    "jours": 18
    },
    {
     "date": "2026-04-30",
     "titre": "BOA BF : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/30-04-2026-boa-bf-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 93
+    "jours": 94
    },
    {
     "date": "2026-03-31",
     "titre": "BOA BURKINA FASO : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/31-03-2026-boa-burkina-faso-paiement-de-dividendes-exercice-2025",
     "recent": false,
-    "jours": 123
+    "jours": 124
    },
    {
     "date": "2026-03-23",
     "titre": "BOA BF : Rapport d'activité -Deuxième semestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/23-03-2026-boa-bf-rapport-dactivite-deuxieme-semestre-2025",
     "recent": false,
-    "jours": 131
+    "jours": 132
    },
    {
     "date": "2026-03-23",
     "titre": "BOA BF : Etats financiers - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/23-03-2026-boa-bf-etats-financiers-exercice-2025",
     "recent": false,
-    "jours": 131
+    "jours": 132
    }
   ],
   "BOAC": [
@@ -785,35 +785,35 @@
     "titre": "BOA CI : Bilan semestriel du contrat de liquidité -1er semestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/15-07-2026-boa-ci-bilan-semestriel-du-contrat-de-liquidite-1er-semestre-2026",
     "recent": true,
-    "jours": 17
+    "jours": 18
    },
    {
     "date": "2026-07-03",
     "titre": "BOA CI : Notation Financière",
     "url": "https://www.richbourse.com/common/actualite/details/03-07-2026-boa-ci-notation-financiere",
     "recent": true,
-    "jours": 29
+    "jours": 30
    },
    {
     "date": "2026-06-12",
     "titre": "BOA CI : Rapport des Commissaires Aux Comptes et Etats Financiers annuels - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/12-06-2026-boa-ci-rapport-des-commissaires-aux-comptes-et-etats-financiers-annuels-exercice-2025",
     "recent": false,
-    "jours": 50
+    "jours": 51
    },
    {
     "date": "2026-06-01",
     "titre": "BOA CI : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/01-06-2026-boa-ci-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 61
+    "jours": 62
    },
    {
     "date": "2026-04-17",
     "titre": "BOA CÔTE D'IVOIRE : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/17-04-2026-boa-cote-divoire-paiement-de-dividendes-exercice-2025",
     "recent": false,
-    "jours": 106
+    "jours": 107
    }
   ],
   "BOAM": [
@@ -822,35 +822,35 @@
     "titre": "BOA ML : Bilan semestriel du contrat de liquidité -1er semestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/15-07-2026-boa-ml-bilan-semestriel-du-contrat-de-liquidite-1er-semestre-2026",
     "recent": true,
-    "jours": 17
+    "jours": 18
    },
    {
     "date": "2026-06-23",
     "titre": "BOA MALI : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/23-06-2026-boa-mali-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 39
+    "jours": 40
    },
    {
     "date": "2026-05-11",
     "titre": "BOA ML : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/11-05-2026-boa-ml-paiement-de-dividendes-exercice-2025",
     "recent": false,
-    "jours": 82
+    "jours": 83
    },
    {
     "date": "2026-03-24",
     "titre": "BOA ML : Etats financiers - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/24-03-2026-boa-ml-etats-financiers-exercice-2025",
     "recent": false,
-    "jours": 130
+    "jours": 131
    },
    {
     "date": "2026-03-24",
     "titre": "BOA ML : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/24-03-2026-boa-ml-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 130
+    "jours": 131
    }
   ],
   "BOAN": [
@@ -859,35 +859,35 @@
     "titre": "BOA NG : Bilan semestriel du contrat de liquidité -1er semestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/15-07-2026-boa-ng-bilan-semestriel-du-contrat-de-liquidite-1er-semestre-2026",
     "recent": true,
-    "jours": 17
+    "jours": 18
    },
    {
     "date": "2026-04-30",
     "titre": "BOA NG : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/30-04-2026-boa-ng-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 93
+    "jours": 94
    },
    {
     "date": "2026-04-29",
     "titre": "BOA NG : Rapport d'activités - 2ème semestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/29-04-2026-boa-ng-rapport-dactivites-2eme-semestre-2025",
     "recent": false,
-    "jours": 94
+    "jours": 95
    },
    {
     "date": "2026-04-29",
     "titre": "BOA NG : Communiqué de presse",
     "url": "https://www.richbourse.com/common/actualite/details/29-04-2026-boa-ng-communique-de-presse",
     "recent": false,
-    "jours": 94
+    "jours": 95
    },
    {
     "date": "2026-04-01",
     "titre": "BOA NG : Rapport des Commissaires Aux Comptes sur les Etats Financiers annuels - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/01-04-2026-boa-ng-rapport-des-commissaires-aux-comptes-sur-les-etats-financiers-annuels-exercice-2025",
     "recent": false,
-    "jours": 122
+    "jours": 123
    }
   ],
   "BOAS": [
@@ -896,35 +896,35 @@
     "titre": "BOA SN : Bilan semestriel du contrat de liquidité -1er semestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/15-07-2026-boa-sn-bilan-semestriel-du-contrat-de-liquidite-1er-semestre-2026",
     "recent": true,
-    "jours": 17
+    "jours": 18
    },
    {
     "date": "2026-05-08",
     "titre": "BOA SN : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/08-05-2026-boa-sn-paiement-de-dividendes-exercice-2025",
     "recent": false,
-    "jours": 85
+    "jours": 86
    },
    {
     "date": "2026-04-22",
     "titre": "BOA SN : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/22-04-2026-boa-sn-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 101
+    "jours": 102
    },
    {
     "date": "2026-04-22",
     "titre": "BOA SN : Etats Financiers - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/22-04-2026-boa-sn-etats-financiers-1er-trimestre-2026",
     "recent": false,
-    "jours": 101
+    "jours": 102
    },
    {
     "date": "2026-03-17",
     "titre": "BOA SN : Pouvoir - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/17-03-2026-boa-sn-pouvoir-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 137
+    "jours": 138
    }
   ],
   "BICC": [
@@ -933,35 +933,35 @@
     "titre": "BICI CI : Communiqué",
     "url": "https://www.richbourse.com/common/actualite/details/13-07-2026-bici-ci-communique",
     "recent": true,
-    "jours": 19
+    "jours": 20
    },
    {
     "date": "2026-06-17",
     "titre": "BICI CI : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/17-06-2026-bici-ci-paiement-de-dividendes-exercice-2025",
     "recent": false,
-    "jours": 45
+    "jours": 46
    },
    {
     "date": "2026-04-30",
     "titre": "BICI CI : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/30-04-2026-bici-ci-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 93
+    "jours": 94
    },
    {
     "date": "2026-04-17",
     "titre": "BICI CI : Rapport d'activités annuel - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/17-04-2026-bici-ci-rapport-dactivites-annuel-exercice-2025",
     "recent": false,
-    "jours": 106
+    "jours": 107
    },
    {
     "date": "2026-04-17",
     "titre": "BICI CI : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/17-04-2026-bici-ci-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 106
+    "jours": 107
    }
   ],
   "NSBC": [
@@ -970,35 +970,35 @@
     "titre": "NSIA BANQUE CI : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/21-07-2026-nsia-banque-ci-paiement-de-dividendes-exercice-2025",
     "recent": true,
-    "jours": 11
+    "jours": 12
    },
    {
     "date": "2026-07-13",
     "titre": "NSIA BANQUE CI : Communiqué",
     "url": "https://www.richbourse.com/common/actualite/details/13-07-2026-nsia-banque-ci-communique",
     "recent": true,
-    "jours": 19
+    "jours": 20
    },
    {
     "date": "2026-06-11",
     "titre": "NSIA BANQUE CI : Avis de convocation et Projet de résolutions - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/11-06-2026-nsia-banque-ci-avis-de-convocation-et-projet-de-resolutions-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 51
+    "jours": 52
    },
    {
     "date": "2026-05-13",
     "titre": "NSIA BANQUE CI : Etats financiers et Communiqué - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/13-05-2026-nsia-banque-ci-etats-financiers-et-communique-exercice-2025",
     "recent": false,
-    "jours": 80
+    "jours": 81
    },
    {
     "date": "2026-04-30",
     "titre": "NSIA BANQUE CI : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/30-04-2026-nsia-banque-ci-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 93
+    "jours": 94
    }
   ],
   "BNBC": [
@@ -1007,35 +1007,35 @@
     "titre": "BERNABE CI : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/20-05-2026-bernabe-ci-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 73
+    "jours": 74
    },
    {
     "date": "2026-04-30",
     "titre": "BERNABE CI : Etats financiers - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/30-04-2026-bernabe-ci-etats-financiers-exercice-2025",
     "recent": false,
-    "jours": 93
+    "jours": 94
    },
    {
     "date": "2026-04-30",
     "titre": "BERNABE CI : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/30-04-2026-bernabe-ci-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 93
+    "jours": 94
    },
    {
     "date": "2025-10-31",
     "titre": "BERNABE CI : Rapport d'activités - 1er semestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/31-10-2025-bernabe-ci-rapport-dactivites-1er-semestre-2025",
     "recent": false,
-    "jours": 274
+    "jours": 275
    },
    {
     "date": "2025-10-31",
     "titre": "BERNABE CI : Rapport d'activités - 3ème trimestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/31-10-2025-bernabe-ci-rapport-dactivites-3eme-trimestre-2025",
     "recent": false,
-    "jours": 274
+    "jours": 275
    }
   ],
   "CFAC": [
@@ -1044,35 +1044,35 @@
     "titre": "CFAO MOTORS CI : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/30-07-2026-cfao-motors-ci-paiement-de-dividendes-exercice-2025",
     "recent": true,
-    "jours": 2
+    "jours": 3
    },
    {
     "date": "2026-07-13",
     "titre": "CFAO MOTORS CI : Rapport annuel - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/13-07-2026-cfao-motors-ci-rapport-annuel-exercice-2025",
     "recent": true,
-    "jours": 19
+    "jours": 20
    },
    {
     "date": "2026-05-12",
     "titre": "CFAO MOTORS CI : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/12-05-2026-cfao-motors-ci-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 81
+    "jours": 82
    },
    {
     "date": "2025-12-22",
     "titre": "CFAO MOTORS CI : Rapport d'activités - 3ème trimestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/22-12-2025-cfao-motors-ci-rapport-dactivites-3eme-trimestre-2025",
     "recent": false,
-    "jours": 222
+    "jours": 223
    },
    {
     "date": "2025-10-30",
     "titre": "CFAO MOTORS CI : Rapport d'activités - 1er semestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/30-10-2025-cfao-motors-ci-rapport-dactivites-1er-semestre-2025",
     "recent": false,
-    "jours": 275
+    "jours": 276
    }
   ],
   "TTLS": [
@@ -1081,35 +1081,35 @@
     "titre": "TOTALENERGIES MARKETING SN : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/24-06-2026-totalenergies-marketing-sn-paiement-de-dividendes-exercice-2025",
     "recent": false,
-    "jours": 38
+    "jours": 39
    },
    {
     "date": "2026-06-15",
     "titre": "TOTALENERGIES MARKETING SN : Rapport d'activités annuel - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/15-06-2026-totalenergies-marketing-sn-rapport-dactivites-annuel-exercice-2025",
     "recent": false,
-    "jours": 47
+    "jours": 48
    },
    {
     "date": "2026-06-11",
     "titre": "TOTAL SN : Transaction Sur Dossier",
     "url": "https://www.richbourse.com/common/actualite/details/11-06-2026-total-sn-transaction-sur-dossier",
     "recent": false,
-    "jours": 51
+    "jours": 52
    },
    {
     "date": "2026-05-28",
     "titre": "TOTALENERGIES MARKETING SN : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/28-05-2026-totalenergies-marketing-sn-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 65
+    "jours": 66
    },
    {
     "date": "2026-04-30",
     "titre": "TOTALENERGIES MARKETING SN : Etats financiers IFRS - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/30-04-2026-totalenergies-marketing-sn-etats-financiers-ifrs-exercice-2025",
     "recent": false,
-    "jours": 93
+    "jours": 94
    }
   ],
   "NTLC": [
@@ -1118,35 +1118,35 @@
     "titre": "NESTLE CI : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/30-07-2026-nestle-ci-paiement-de-dividendes-exercice-2025",
     "recent": true,
-    "jours": 2
+    "jours": 3
    },
    {
     "date": "2026-06-05",
     "titre": "NESTLE CI : Notation Financière",
     "url": "https://www.richbourse.com/common/actualite/details/05-06-2026-nestle-ci-notation-financiere",
     "recent": false,
-    "jours": 57
+    "jours": 58
    },
    {
     "date": "2026-05-22",
     "titre": "NESTLE CI : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/22-05-2026-nestle-ci-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 71
+    "jours": 72
    },
    {
     "date": "2026-04-30",
     "titre": "NESTLE CI : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/30-04-2026-nestle-ci-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 93
+    "jours": 94
    },
    {
     "date": "2026-04-30",
     "titre": "NESTLE CI : Etats financiers - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/30-04-2026-nestle-ci-etats-financiers-exercice-2025",
     "recent": false,
-    "jours": 93
+    "jours": 94
    }
   ],
   "SLBC": [
@@ -1155,35 +1155,35 @@
     "titre": "SOLIBRA CI : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/13-07-2026-solibra-ci-paiement-de-dividendes-exercice-2025",
     "recent": true,
-    "jours": 19
+    "jours": 20
    },
    {
     "date": "2026-05-19",
     "titre": "SOLIBRA CI : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/19-05-2026-solibra-ci-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 74
+    "jours": 75
    },
    {
     "date": "2026-05-19",
     "titre": "SOLIBRA CI : Pouvoir - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/19-05-2026-solibra-ci-pouvoir-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 74
+    "jours": 75
    },
    {
     "date": "2026-05-19",
     "titre": "SOLIBRA CI : Etats financiers - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/19-05-2026-solibra-ci-etats-financiers-exercice-2025",
     "recent": false,
-    "jours": 74
+    "jours": 75
    },
    {
     "date": "2026-05-19",
     "titre": "SOLIBRA CI : Formulaire de vote par correspondance - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/19-05-2026-solibra-ci-formulaire-de-vote-par-correspondance-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 74
+    "jours": 75
    }
   ],
   "SMBC": [
@@ -1192,35 +1192,35 @@
     "titre": "SMB CI : Pouvoir - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/05-06-2026-smb-ci-pouvoir-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 57
+    "jours": 58
    },
    {
     "date": "2026-06-05",
     "titre": "SMB CI : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/05-06-2026-smb-ci-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 57
+    "jours": 58
    },
    {
     "date": "2026-05-12",
     "titre": "SMB CI : Etats financiers et projet d'affectation du résultat - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/12-05-2026-smb-ci-etats-financiers-et-projet-daffectation-du-resultat-exercice-2025",
     "recent": false,
-    "jours": 81
+    "jours": 82
    },
    {
     "date": "2026-04-30",
     "titre": "SMB CI : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/30-04-2026-smb-ci-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 93
+    "jours": 94
    },
    {
     "date": "2026-04-30",
     "titre": "SMB CI : Etats financiers - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/30-04-2026-smb-ci-etats-financiers-exercice-2025",
     "recent": false,
-    "jours": 93
+    "jours": 94
    }
   ],
   "SOGC": [
@@ -1229,35 +1229,35 @@
     "titre": "SOGB CI : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/22-07-2026-sogb-ci-paiement-de-dividendes-exercice-2025",
     "recent": true,
-    "jours": 10
+    "jours": 11
    },
    {
     "date": "2026-05-19",
     "titre": "SOGB CI : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/19-05-2026-sogb-ci-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 74
+    "jours": 75
    },
    {
     "date": "2026-04-22",
     "titre": "SOGB CI : Etats financiers SYSCOHADA - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/22-04-2026-sogb-ci-etats-financiers-syscohada-exercice-2025",
     "recent": false,
-    "jours": 101
+    "jours": 102
    },
    {
     "date": "2025-10-30",
     "titre": "SOGB CI : Rapport d'activités - 3ème trimestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/30-10-2025-sogb-ci-rapport-dactivites-3eme-trimestre-2025",
     "recent": false,
-    "jours": 275
+    "jours": 276
    },
    {
     "date": "2025-10-28",
     "titre": "SOGB CI : Rapport d'activités - 1er semestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/28-10-2025-sogb-ci-rapport-dactivites-1er-semestre-2025",
     "recent": false,
-    "jours": 277
+    "jours": 278
    }
   ],
   "STBC": [
@@ -1266,35 +1266,35 @@
     "titre": "SITAB CI : Rapport annuel - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/15-07-2026-sitab-ci-rapport-annuel-exercice-2025",
     "recent": true,
-    "jours": 17
+    "jours": 18
    },
    {
     "date": "2026-07-10",
     "titre": "SITAB CI : Bilan semestriel du contrat de liquidité -1er semestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/10-07-2026-sitab-ci-bilan-semestriel-du-contrat-de-liquidite-1er-semestre-2025",
     "recent": true,
-    "jours": 22
+    "jours": 23
    },
    {
     "date": "2026-06-25",
     "titre": "SITAB CI : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/25-06-2026-sitab-ci-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 37
+    "jours": 38
    },
    {
     "date": "2026-06-25",
     "titre": "SITAB CI : Pouvoir Personne Morale - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/25-06-2026-sitab-ci-pouvoir-personne-morale-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 37
+    "jours": 38
    },
    {
     "date": "2026-06-25",
     "titre": "SITAB CI : Projet de résolutions - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/25-06-2026-sitab-ci-projet-de-resolutions-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 37
+    "jours": 38
    }
   ],
   "SHEC": [
@@ -1303,35 +1303,35 @@
     "titre": "VIVO ENERGY CI : Rapport d'activités - 2eme trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/20-07-2026-vivo-energy-ci-rapport-dactivites-2eme-trimestre-2026",
     "recent": true,
-    "jours": 12
+    "jours": 13
    },
    {
     "date": "2026-06-03",
     "titre": "VIVO ENERGY : Etats financiers - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/03-06-2026-vivo-energy-etats-financiers-exercice-2025",
     "recent": false,
-    "jours": 59
+    "jours": 60
    },
    {
     "date": "2026-06-03",
     "titre": "VIVO ENERGY : Avis de convocation et projets de résolutions - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/03-06-2026-vivo-energy-avis-de-convocation-et-projets-de-resolutions-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 59
+    "jours": 60
    },
    {
     "date": "2026-05-05",
     "titre": "VIVO ENERGY : Rapport d'activité - 4ème trimestre 2025 et du 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/05-05-2026-vico-energy-rapport-dactivite-4eme-trimestre-2025-et-du-1er-trimestre-2026",
     "recent": false,
-    "jours": 88
+    "jours": 89
    },
    {
     "date": "2025-11-20",
     "titre": "VIVO ENERGY CI : Rapport d'activités - 3ème trimestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/20-11-2025-vivo-energy-ci-rapport-dactivites-3eme-trimestre-2025",
     "recent": false,
-    "jours": 254
+    "jours": 255
    }
   ],
   "SIVC": [
@@ -1340,35 +1340,35 @@
     "titre": "ERIUM CI : Pouvoir - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/26-06-2026-erium-ci-pouvoir-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 36
+    "jours": 37
    },
    {
     "date": "2026-06-26",
     "titre": "ERIUM CI : Etats financiers - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/26-06-2026-erium-ci-etats-financiers-exercice-2025",
     "recent": false,
-    "jours": 36
+    "jours": 37
    },
    {
     "date": "2026-06-26",
     "titre": "ERIUM CI : Projet de résolutions - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/26-06-2026-erium-ci-projet-de-resolutions-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 36
+    "jours": 37
    },
    {
     "date": "2026-06-25",
     "titre": "ERIUM CI : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/25-06-2026-erium-ci-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 37
+    "jours": 38
    },
    {
     "date": "2026-06-19",
     "titre": "ERIUM CI : Communiqué - Profit Warning",
     "url": "https://www.richbourse.com/common/actualite/details/19-06-2026-erium-ci-communique-profit-warning",
     "recent": false,
-    "jours": 43
+    "jours": 44
    }
   ],
   "CABC": [
@@ -1377,35 +1377,35 @@
     "titre": "SICABLE CI : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/13-05-2026-sicable-ci-paiement-de-dividendes-exercice-2025",
     "recent": false,
-    "jours": 80
+    "jours": 81
    },
    {
     "date": "2026-04-20",
     "titre": "SICABLE CI : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/20-04-2026-sicable-ci-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 103
+    "jours": 104
    },
    {
     "date": "2026-03-11",
     "titre": "SICABLE CI : Projet de résolutions - Assemblée Générale Ordinaire - (Annule et remplace le précédent)",
     "url": "https://www.richbourse.com/common/actualite/details/11-03-2026-sicable-ci-projet-de-resolutions-assemblee-generale-ordinaire-annule-et-remplace-le-precedent",
     "recent": false,
-    "jours": 143
+    "jours": 144
    },
    {
     "date": "2026-03-11",
     "titre": "SICABLE CI : Etats financiers IFRS - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/11-03-2026-sicable-ci-etats-financiers-ifrs-exercice-2025",
     "recent": false,
-    "jours": 143
+    "jours": 144
    },
    {
     "date": "2026-03-11",
     "titre": "SICABLE CI : Pouvoir - Assemblée Générale Ordinaire - (Annule et remplace le précédent)",
     "url": "https://www.richbourse.com/common/actualite/details/11-03-2026-sicable-ci-pouvoir-assemblee-generale-ordinaire-annule-et-remplace-le-precedent",
     "recent": false,
-    "jours": 143
+    "jours": 144
    }
   ],
   "ABJC": [
@@ -1414,35 +1414,35 @@
     "titre": "SERVAIR ABIDJAN CI : Bilan semestriel du contrat de liquidité -1er semestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/03-07-2026-servair-abidjan-ci-bilan-semestriel-du-contrat-de-liquidite-1er-semestre-2025",
     "recent": true,
-    "jours": 29
+    "jours": 30
    },
    {
     "date": "2026-07-01",
     "titre": "SERVAIR ABIDJAN CI : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/01-07-2026-servair-abidjan-ci-paiement-de-dividendes-exercice-2025",
     "recent": false,
-    "jours": 31
+    "jours": 32
    },
    {
     "date": "2026-04-30",
     "titre": "SERVAIR ABIDJAN CI : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/30-04-2026-servair-abidjan-ci-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 93
+    "jours": 94
    },
    {
     "date": "2026-04-27",
     "titre": "SERVAIR ABIDJAN CI : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/27-04-2026-servair-abidjan-ci-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 96
+    "jours": 97
    },
    {
     "date": "2026-04-27",
     "titre": "SERVAIR ABIDJAN CI : Etats financiers SYSCOHADA - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/27-04-2026-servair-abidjan-ci-etats-financiers-syscohada-exercice-2025",
     "recent": false,
-    "jours": 96
+    "jours": 97
    }
   ],
   "SDCC": [
@@ -1451,35 +1451,35 @@
     "titre": "SODE CI : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/08-06-2026-sode-ci-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 54
+    "jours": 55
    },
    {
     "date": "2026-04-27",
     "titre": "SODECI : Rapport d'activités - 1er trimestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/27-04-2026-sodeci-rapport-dactivites-1er-trimestre-2026",
     "recent": false,
-    "jours": 96
+    "jours": 97
    },
    {
     "date": "2026-04-27",
     "titre": "SODECI : Etats financiers - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/27-04-2026-sodeci-etats-financiers-exercice-2025",
     "recent": false,
-    "jours": 96
+    "jours": 97
    },
    {
     "date": "2026-04-02",
     "titre": "SODE CI : Communiqué - Changement important dans la Direction - Directeur général",
     "url": "https://www.richbourse.com/common/actualite/details/02-04-2026-sode-ci-communique-changement-important-dans-la-direction-directeur-general",
     "recent": false,
-    "jours": 121
+    "jours": 122
    },
    {
     "date": "2026-04-02",
     "titre": "SODE CI : Communiqué - Changement important dans la Direction - Directeur financier",
     "url": "https://www.richbourse.com/common/actualite/details/02-04-2026-sode-ci-communique-changement-important-dans-la-direction-directeur-financier",
     "recent": false,
-    "jours": 121
+    "jours": 122
    }
   ],
   "SEMC": [
@@ -1488,35 +1488,35 @@
     "titre": "EVIOSYS PACKAGING CI : Levée de suspension",
     "url": "https://www.richbourse.com/common/actualite/details/02-01-2026-eviosys-packaging-ci-levee-de-suspension",
     "recent": false,
-    "jours": 211
+    "jours": 212
    },
    {
     "date": "2025-12-17",
     "titre": "EVIOSYS PACKAGING SIEM CI : Communiqué - Changement de dénomination sociale",
     "url": "https://www.richbourse.com/common/actualite/details/17-12-2025-eviosys-packaging-siem-ci-communique-changement-de-denomination-sociale",
     "recent": false,
-    "jours": 227
+    "jours": 228
    },
    {
     "date": "2025-12-16",
     "titre": "EVIOSYS PACKAGING SIEM CI : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/16-12-2025-eviosys-packaging-siem-ci-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 228
+    "jours": 229
    },
    {
     "date": "2025-07-29",
     "titre": "EVIOSYS PACKAGING SIEM CI : Suspension temporaire du titre",
     "url": "https://www.richbourse.com/common/actualite/details/29-07-2025-eviosys-packaging-siem-ci-suspension-temporaire-du-titre",
     "recent": false,
-    "jours": 368
+    "jours": 369
    },
    {
     "date": "2025-04-15",
     "titre": "EVIOSYS PACKAGING SIEM CI : Notation financière",
     "url": "https://www.richbourse.com/common/actualite/details/15-04-2025-eviosys-packaging-siem-ci-notation-financiere",
     "recent": false,
-    "jours": 473
+    "jours": 474
    }
   ],
   "SICC": [
@@ -1525,35 +1525,35 @@
     "titre": "SICOR CI : Rapport d'activités annuel et Etats Financiers - Exercice 2024",
     "url": "https://www.richbourse.com/common/actualite/details/12-06-2026-sicor-ci-rapport-dactivites-annuel-et-etats-financiers-exercice-2024",
     "recent": false,
-    "jours": 50
+    "jours": 51
    },
    {
     "date": "2026-05-15",
     "titre": "SICOR CI : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/15-05-2026-sicor-ci-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 78
+    "jours": 79
    },
    {
     "date": "2024-12-05",
     "titre": "SICOR CI : Rapport annuel - Exercice 2022",
     "url": "https://www.richbourse.com/common/actualite/details/05-12-2024-sicor-ci-rapport-annuel-exercice-2022",
     "recent": false,
-    "jours": 604
+    "jours": 605
    },
    {
     "date": "2024-12-05",
     "titre": "SICOR CI : Rapport annuel - Exercice 2023",
     "url": "https://www.richbourse.com/common/actualite/details/05-12-2024-sicor-ci-rapport-annuel-exercice-2023",
     "recent": false,
-    "jours": 604
+    "jours": 605
    },
    {
     "date": "2024-10-24",
     "titre": "SICOR CI : Avis de convocation - Assemblées Générales Ordinaires - Exercices 2022 et 2023",
     "url": "https://www.richbourse.com/common/actualite/details/24-10-2024-sicor-ci-avis-de-convocation-assemblees-generales-ordinaires-exercices-2022-et-2023",
     "recent": false,
-    "jours": 646
+    "jours": 647
    }
   ],
   "STAC": [
@@ -1562,35 +1562,35 @@
     "titre": "SETAO CI : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/30-04-2026-setao-ci-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 93
+    "jours": 94
    },
    {
     "date": "2026-04-30",
     "titre": "SETAO CI : Projet de résolutions - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/30-04-2026-setao-ci-projet-de-resolutions-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 93
+    "jours": 94
    },
    {
     "date": "2026-04-13",
     "titre": "SETAO CI : Etats financiers - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/13-04-2026-setao-ci-etats-financiers-exercice-2025",
     "recent": false,
-    "jours": 110
+    "jours": 111
    },
    {
     "date": "2025-10-31",
     "titre": "SETAO CI : Rapport d'activités - 3ème trimestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/31-10-2025-setao-ci-rapport-dactivites-3eme-trimestre-2025",
     "recent": false,
-    "jours": 274
+    "jours": 275
    },
    {
     "date": "2025-10-31",
     "titre": "SETAO CI : Attestation des Commissaires Aux Comptes sur le Rapport d'activités - 1er semestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/31-10-2025-setao-ci-attestation-des-commissaires-aux-comptes-sur-le-rapport-dactivites-1er-semestre-2025",
     "recent": false,
-    "jours": 274
+    "jours": 275
    }
   ],
   "PRSC": [
@@ -1599,35 +1599,35 @@
     "titre": "TRACTAFRIC MOTORS CI : Avis de convocation et Projets de résolutions - Assemblée Générale Mixte",
     "url": "https://www.richbourse.com/common/actualite/details/15-06-2026-tractafric-motors-ci-avis-de-convocation-et-projets-de-resolutions-assemblee-generale-mixte",
     "recent": false,
-    "jours": 47
+    "jours": 48
    },
    {
     "date": "2026-04-30",
     "titre": "TRACTAFRIC MOTORS CI : Etats financiers - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/30-04-2026-tractafric-motors-ci-etats-financiers-exercice-2025",
     "recent": false,
-    "jours": 93
+    "jours": 94
    },
    {
     "date": "2025-10-31",
     "titre": "TRACTAFRIC MOTORS CI : Attestation des Commissaires Aux Comptes sur le Rapport d'activités - 1er semestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/31-10-2025-tractafric-motors-ci-attestation-des-commissaires-aux-comptes-sur-le-rapport-dactivites-1er-semestre-2025",
     "recent": false,
-    "jours": 274
+    "jours": 275
    },
    {
     "date": "2025-10-30",
     "titre": "TRACTAFRIC MOTORS CI : Etats financiers - 3ème trimestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/30-10-2025-tractafric-motors-ci-etats-financiers-3eme-trimestre-2025",
     "recent": false,
-    "jours": 275
+    "jours": 276
    },
    {
     "date": "2025-10-30",
     "titre": "TRACTAFRIC MOTORS CI : Rapport d'activités - 1er semestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/30-10-2025-tractafric-motors-ci-rapport-dactivites-1er-semestre-2025",
     "recent": false,
-    "jours": 275
+    "jours": 276
    }
   ],
   "UNLC": [
@@ -1636,35 +1636,35 @@
     "titre": "UNILEVER CI : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/11-03-2026-unilever-ci-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 143
+    "jours": 144
    },
    {
     "date": "2025-09-01",
     "titre": "UNILEVER CI : Levée de la suspension",
     "url": "https://www.richbourse.com/common/actualite/details/01-09-2025-unilever-ci-levee-de-la-suspension",
     "recent": false,
-    "jours": 334
+    "jours": 335
    },
    {
     "date": "2025-08-04",
     "titre": "UNILEVER CI : Suspension temporaire du titre",
     "url": "https://www.richbourse.com/common/actualite/details/04-08-2025-unilever-ci-suspension-temporaire-du-titre",
     "recent": false,
-    "jours": 362
+    "jours": 363
    },
    {
     "date": "2025-04-15",
     "titre": "UNILEVER CI : Notation financière",
     "url": "https://www.richbourse.com/common/actualite/details/15-04-2025-unilever-ci-notation-financiere",
     "recent": false,
-    "jours": 473
+    "jours": 474
    },
    {
     "date": "2025-04-08",
     "titre": "UNILEVER CI : Communiqué de presse",
     "url": "https://www.richbourse.com/common/actualite/details/08-04-2025-unilever-ci-communique-de-presse",
     "recent": false,
-    "jours": 480
+    "jours": 481
    }
   ],
   "UNXC": [
@@ -1673,35 +1673,35 @@
     "titre": "UNIWAX CI : Rapport d'activités - 1er semestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/13-07-2026-uniwax-ci-rapport-dactivites-1er-semestre-2026",
     "recent": true,
-    "jours": 19
+    "jours": 20
    },
    {
     "date": "2026-07-13",
     "titre": "UNIWAX CI : Etats financiers - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/13-07-2026-uniwax-ci-etats-financiers-exercice-2025",
     "recent": true,
-    "jours": 19
+    "jours": 20
    },
    {
     "date": "2026-07-03",
     "titre": "UNIWAX CI : Bilan semestriel du contrat de liquidité -1er semestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/03-07-2026-uniwax-ci-bilan-semestriel-du-contrat-de-liquidite-1er-semestre-2025",
     "recent": true,
-    "jours": 29
+    "jours": 30
    },
    {
     "date": "2026-06-29",
     "titre": "UNIWAX CI : Formulaire de vote par correspondance - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/29-06-2026-uniwax-ci-formulaire-de-vote-par-correspondance-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 33
+    "jours": 34
    },
    {
     "date": "2026-06-29",
     "titre": "UNIWAX CI : Avis de convocation et Projet de résolution - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/29-06-2026-uniwax-ci-avis-de-convocation-et-projet-de-resolution-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 33
+    "jours": 34
    }
   ],
   "LNBB": [
@@ -1710,35 +1710,35 @@
     "titre": "LNB BN : Rapport d'activités et rapport d'examen limité des Commissaires Aux Comptes- 1er semestre 2026",
     "url": "https://www.richbourse.com/common/actualite/details/31-07-2026-lnb-bn-rapport-dactivites-et-rapport-dexamen-limite-des-commissaires-aux-comptes-1er-semestre-2026",
     "recent": true,
-    "jours": 1
+    "jours": 2
    },
    {
     "date": "2026-07-20",
     "titre": "LNB BN : Paiement de dividendes - Exercice 2025",
     "url": "https://www.richbourse.com/common/actualite/details/20-07-2026-lnb-bn-paiement-de-dividendes-exercice-2025",
     "recent": true,
-    "jours": 12
+    "jours": 13
    },
    {
     "date": "2026-06-26",
     "titre": "LNB BN : Avis de convocation - Assemblée Générale Ordinaire (Annule et remplace le précédent)",
     "url": "https://www.richbourse.com/common/actualite/details/26-06-2026-lnb-bn-avis-de-convocation-assemblee-generale-ordinaire-annule-et-remplace-le-precedent",
     "recent": false,
-    "jours": 36
+    "jours": 37
    },
    {
     "date": "2026-06-15",
     "titre": "LNB BN : Communiqué - Changement important dans la Direction",
     "url": "https://www.richbourse.com/common/actualite/details/15-06-2026-lnb-bn-communique-changement-important-dans-la-direction",
     "recent": false,
-    "jours": 47
+    "jours": 48
    },
    {
     "date": "2026-06-12",
     "titre": "LNB BN : Avis de convocation - Assemblée Générale Ordinaire",
     "url": "https://www.richbourse.com/common/actualite/details/12-06-2026-lnb-bn-avis-de-convocation-assemblee-generale-ordinaire",
     "recent": false,
-    "jours": 50
+    "jours": 51
    }
   ]
  }
