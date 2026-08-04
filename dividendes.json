@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-08-02T19:10:09",
+  "genere_le": "2026-08-04T12:12:25",
   "sources": [
     "brvm.org",
     "sikafinance (calendrier)",
@@ -277,6 +277,25 @@
       "officiel": false
     },
     {
+      "cle": "SDSC",
+      "nom": "AFRICA GLOBAL LOG.",
+      "symbole": "SDSC",
+      "montant_retenu": 81.0,
+      "montant_net_france": 55.57,
+      "rendement_net": 4.4,
+      "date_ex": null,
+      "date_paiement": null,
+      "exercice": "2025",
+      "concordance": "A_CONFIRMER",
+      "corrobore": false,
+      "ecart_pct": 12.0,
+      "montants_par_source": {
+        "sikafinance (historique)": 81.0,
+        "fluxbourse": 92.0
+      },
+      "officiel": false
+    },
+    {
       "cle": "SGBC",
       "nom": "SOCIÉTÉ GÉNÉRALE CI",
       "symbole": "SGBC",
@@ -533,7 +552,6 @@
       "ecart_pct": 0.0,
       "montants_par_source": {
         "brvm.org": 234.0,
-        "sikafinance (calendrier)": 234.0,
         "sikafinance (historique)": 206.0,
         "fluxbourse": 158.0
       },
@@ -693,24 +711,6 @@
         "fluxbourse": 206.0
       },
       "officiel": true
-    },
-    {
-      "cle": "SDSC",
-      "nom": "AFRICA GLOBAL LOG.",
-      "symbole": "SDSC",
-      "montant_retenu": 92.0,
-      "montant_net_france": 63.11,
-      "rendement_net": 4.4,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "SOURCE_UNIQUE",
-      "corrobore": true,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "fluxbourse": 92.0
-      },
-      "officiel": false
     },
     {
       "cle": "SHEC",
