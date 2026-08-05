@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-08-05T01:20:37",
+  "genere_le": "2026-08-06T01:45:31",
   "sources": [
     "brvm.org",
     "sikafinance (calendrier)",
@@ -197,6 +197,25 @@
       "montants_par_source": {
         "sikafinance (historique)": 397.0,
         "fluxbourse": 428.0
+      },
+      "officiel": false
+    },
+    {
+      "cle": "SIBC",
+      "nom": "SIB CI",
+      "symbole": "SIBC",
+      "montant_retenu": 374.0,
+      "montant_net_france": 256.56,
+      "rendement_net": 4.85,
+      "date_ex": null,
+      "date_paiement": null,
+      "exercice": "2025",
+      "concordance": "A_CONFIRMER",
+      "corrobore": false,
+      "ecart_pct": 11.8,
+      "montants_par_source": {
+        "sikafinance (historique)": 374.0,
+        "fluxbourse": 330.0
       },
       "officiel": false
     },
@@ -455,26 +474,6 @@
         "sikafinance (calendrier)": 430.32,
         "sikafinance (historique)": 430.0,
         "fluxbourse": 324.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "SIBC",
-      "nom": "SIB CI",
-      "symbole": "SIBC",
-      "montant_retenu": 425.0,
-      "montant_net_france": 291.55,
-      "rendement_net": 4.85,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "CALENDRIER_SEUL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "sikafinance (calendrier)": 425.0,
-        "sikafinance (historique)": 374.0,
-        "fluxbourse": 330.0
       },
       "officiel": false
     },
