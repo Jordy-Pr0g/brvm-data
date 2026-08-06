@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-08-06T01:45:31",
+  "genere_le": "2026-08-06T19:10:26",
   "sources": [
     "brvm.org",
     "sikafinance (calendrier)",
@@ -7,7 +7,7 @@
     "fluxbourse"
   ],
   "flat_tax_france": 0.314,
-  "nb_societes": 44,
+  "nb_societes": 45,
   "nb_ecarts": 0,
   "societes": [
     {
@@ -313,6 +313,24 @@
         "fluxbourse": 92.0
       },
       "officiel": false
+    },
+    {
+      "cle": "SGCI",
+      "nom": "SGCI",
+      "symbole": null,
+      "montant_retenu": 2606.0,
+      "montant_net_france": 1787.72,
+      "rendement_net": null,
+      "date_ex": "21/08/2026",
+      "date_paiement": "24/08/2026",
+      "exercice": "2025",
+      "concordance": "CONFIRME_OFFICIEL",
+      "corrobore": true,
+      "ecart_pct": 0.0,
+      "montants_par_source": {
+        "brvm.org": 2606.0
+      },
+      "officiel": true
     },
     {
       "cle": "SGBC",
@@ -691,24 +709,23 @@
     },
     {
       "cle": "ABJC",
-      "nom": "SERVAIR ABIDJAN CI",
+      "nom": "SERVAIR ABIDJAN",
       "symbole": "ABJC",
       "montant_retenu": 124.0,
       "montant_net_france": 85.06,
       "rendement_net": 5.44,
-      "date_ex": "29/09/2026",
-      "date_paiement": "30/09/2026",
+      "date_ex": null,
+      "date_paiement": null,
       "exercice": "2025",
-      "concordance": "CONFIRME_OFFICIEL",
+      "concordance": "CALENDRIER_SEUL",
       "corrobore": false,
       "ecart_pct": 0.0,
       "montants_par_source": {
-        "brvm.org": 124.0,
         "sikafinance (calendrier)": 124.0,
         "sikafinance (historique)": 202.0,
         "fluxbourse": 206.0
       },
-      "officiel": true
+      "officiel": false
     },
     {
       "cle": "SHEC",

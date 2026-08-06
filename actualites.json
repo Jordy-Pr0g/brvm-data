@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-08-06T01:45:10",
+ "genere_le": "2026-08-06T19:10:07",
  "source": "richbourse.com",
  "actualites": {
   "SNTS": [
@@ -41,6 +41,13 @@
   ],
   "SGBC": [
    {
+    "date": "2026-08-06",
+    "titre": "SOCIETE GENERALE CI : Paiement de dividendes - Exercice 2025",
+    "url": "https://www.richbourse.com/common/actualite/details/06-08-2026-societe-generale-ci-paiement-de-dividendes-exercice-2025",
+    "recent": true,
+    "jours": 0
+   },
+   {
     "date": "2026-07-08",
     "titre": "SOCIETE GENERALE CI : Bilan semestriel du contrat de liquidité -1er semestre 2025",
     "url": "https://www.richbourse.com/common/actualite/details/08-07-2026-societe-generale-ci-bilan-semestriel-du-contrat-de-liquidite-1er-semestre-2025",
@@ -67,13 +74,6 @@
     "url": "https://www.richbourse.com/common/actualite/details/21-04-2026-societe-generale-ci-rapport-dactivites-annuel-et-etats-financiers-exercice-2025-annule-et-remplace-le-precedent",
     "recent": false,
     "jours": 107
-   },
-   {
-    "date": "2026-04-16",
-    "titre": "SOCIETE GENERALE CI : Rapport d'activités annuel et Etats Financiers - Exercice 2025",
-    "url": "https://www.richbourse.com/common/actualite/details/16-04-2026-societe-generale-ci-rapport-dactivites-annuel-et-etats-financiers-exercice-2025",
-    "recent": false,
-    "jours": 112
    }
   ],
   "SIBC": [
