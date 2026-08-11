@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-08-11T01:33:23",
+  "genere_le": "2026-08-12T01:40:53",
   "sources": [
     "brvm.org",
     "sikafinance (calendrier)",
@@ -448,7 +448,6 @@
       "ecart_pct": 0.0,
       "montants_par_source": {
         "brvm.org": 570.0,
-        "sikafinance (calendrier)": 570.0,
         "sikafinance (historique)": 502.0,
         "fluxbourse": 528.0
       },
