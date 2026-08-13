@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-08-12T01:40:53",
+  "genere_le": "2026-08-13T19:08:18",
   "sources": [
     "brvm.org",
     "sikafinance (calendrier)",
@@ -336,8 +336,8 @@
       "cle": "SGBC",
       "nom": "SOCIÉTÉ GÉNÉRALE CI",
       "symbole": "SGBC",
-      "montant_retenu": 2293.28,
-      "montant_net_france": 1573.19,
+      "montant_retenu": 2606.0,
+      "montant_net_france": 1787.72,
       "rendement_net": 4.94,
       "date_ex": null,
       "date_paiement": null,
@@ -346,7 +346,7 @@
       "corrobore": false,
       "ecart_pct": 0.0,
       "montants_par_source": {
-        "sikafinance (calendrier)": 2293.28,
+        "sikafinance (calendrier)": 2606.0,
         "sikafinance (historique)": 2293.0,
         "fluxbourse": 1646.0
       },
@@ -454,6 +454,27 @@
       "officiel": true
     },
     {
+      "cle": "SPHC",
+      "nom": "SAPH CI",
+      "symbole": "SPHC",
+      "montant_retenu": 489.0,
+      "montant_net_france": 335.45,
+      "rendement_net": 4.15,
+      "date_ex": "27/08/2026",
+      "date_paiement": "28/08/2026",
+      "exercice": "2025",
+      "concordance": "CONFIRME_OFFICIEL",
+      "corrobore": false,
+      "ecart_pct": 0.0,
+      "montants_par_source": {
+        "brvm.org": 489.0,
+        "sikafinance (calendrier)": 489.0,
+        "sikafinance (historique)": 430.0,
+        "fluxbourse": 324.0
+      },
+      "officiel": true
+    },
+    {
       "cle": "SDCC",
       "nom": "SODECI CI",
       "symbole": "SDCC",
@@ -470,26 +491,6 @@
         "sikafinance (calendrier)": 462.0,
         "sikafinance (historique)": 462.0,
         "fluxbourse": 352.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "SPHC",
-      "nom": "SAPH CI",
-      "symbole": "SPHC",
-      "montant_retenu": 430.32,
-      "montant_net_france": 295.2,
-      "rendement_net": 4.15,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "CALENDRIER_SEUL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "sikafinance (calendrier)": 430.32,
-        "sikafinance (historique)": 430.0,
-        "fluxbourse": 324.0
       },
       "officiel": false
     },
@@ -515,6 +516,24 @@
       "officiel": true
     },
     {
+      "cle": "BIIC_BJ",
+      "nom": "BANQUE INTERNATIONAL",
+      "symbole": null,
+      "montant_retenu": 255.0,
+      "montant_net_france": 174.93,
+      "rendement_net": null,
+      "date_ex": null,
+      "date_paiement": null,
+      "exercice": "2025",
+      "concordance": "SOURCE_UNIQUE",
+      "corrobore": true,
+      "ecart_pct": 0.0,
+      "montants_par_source": {
+        "sikafinance (historique)": 255.0
+      },
+      "officiel": false
+    },
+    {
       "cle": "BICICI BURKINA",
       "nom": "BICICI BURKINA",
       "symbole": "BICB",
@@ -531,25 +550,6 @@
         "fluxbourse": 255.0
       },
       "officiel": false
-    },
-    {
-      "cle": "BIIC_BJ",
-      "nom": "BIIC",
-      "symbole": null,
-      "montant_retenu": 254.6,
-      "montant_net_france": 174.66,
-      "rendement_net": null,
-      "date_ex": "30/07/2026",
-      "date_paiement": "31/07/2026",
-      "exercice": "2025",
-      "concordance": "CONFIRME_OFFICIEL",
-      "corrobore": true,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "brvm.org": 254.6,
-        "sikafinance (historique)": 255.0
-      },
-      "officiel": true
     },
     {
       "cle": "CIEC",
