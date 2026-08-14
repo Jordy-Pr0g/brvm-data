@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-08-13T19:08:18",
+  "genere_le": "2026-08-14T19:18:37",
   "sources": [
     "brvm.org",
     "sikafinance (calendrier)",
@@ -239,21 +239,21 @@
       "officiel": false
     },
     {
-      "cle": "TTLS",
-      "nom": "TOTALENERGIES SN",
-      "symbole": "TTLS",
-      "montant_retenu": 177.0,
-      "montant_net_france": 121.42,
-      "rendement_net": 7.59,
+      "cle": "CIEC",
+      "nom": "CIE CI",
+      "symbole": "CIEC",
+      "montant_retenu": 206.0,
+      "montant_net_france": 141.32,
+      "rendement_net": 5.39,
       "date_ex": null,
       "date_paiement": null,
       "exercice": "2025",
       "concordance": "A_CONFIRMER",
       "corrobore": false,
-      "ecart_pct": 20.3,
+      "ecart_pct": 23.3,
       "montants_par_source": {
-        "sikafinance (historique)": 177.0,
-        "fluxbourse": 222.0
+        "sikafinance (historique)": 206.0,
+        "fluxbourse": 158.0
       },
       "officiel": false
     },
@@ -552,26 +552,6 @@
       "officiel": false
     },
     {
-      "cle": "CIEC",
-      "nom": "CIE CI",
-      "symbole": "CIEC",
-      "montant_retenu": 234.0,
-      "montant_net_france": 160.52,
-      "rendement_net": 5.39,
-      "date_ex": "27/07/2026",
-      "date_paiement": "28/07/2026",
-      "exercice": "2025",
-      "concordance": "CONFIRME_OFFICIEL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "brvm.org": 234.0,
-        "sikafinance (historique)": 206.0,
-        "fluxbourse": 158.0
-      },
-      "officiel": true
-    },
-    {
       "cle": "BOAN",
       "nom": "BOA NIGER",
       "symbole": "BOAN",
@@ -646,6 +626,26 @@
         "fluxbourse": 275.0
       },
       "officiel": false
+    },
+    {
+      "cle": "TTLS",
+      "nom": "TOTAL",
+      "symbole": "TTLS",
+      "montant_retenu": 158.827,
+      "montant_net_france": 108.96,
+      "rendement_net": 7.59,
+      "date_ex": "28/08/2026",
+      "date_paiement": "31/08/2026",
+      "exercice": "2025",
+      "concordance": "CONFIRME_OFFICIEL",
+      "corrobore": false,
+      "ecart_pct": 0.0,
+      "montants_par_source": {
+        "brvm.org": 158.827,
+        "sikafinance (historique)": 177.0,
+        "fluxbourse": 222.0
+      },
+      "officiel": true
     },
     {
       "cle": "BNBC",
