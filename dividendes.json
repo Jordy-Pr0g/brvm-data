@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-08-15T20:45:21",
+  "genere_le": "2026-08-17T10:37:00",
   "sources": [
     "brvm.org",
     "sikafinance (calendrier)",
@@ -552,6 +552,26 @@
       "officiel": false
     },
     {
+      "cle": "ABJC",
+      "nom": "SERVAIR ABIDJAN",
+      "symbole": "ABJC",
+      "montant_retenu": 229.0,
+      "montant_net_france": 157.09,
+      "rendement_net": 5.44,
+      "date_ex": null,
+      "date_paiement": null,
+      "exercice": "2025",
+      "concordance": "CALENDRIER_SEUL",
+      "corrobore": false,
+      "ecart_pct": 0.0,
+      "montants_par_source": {
+        "sikafinance (calendrier)": 229.0,
+        "sikafinance (historique)": 202.0,
+        "fluxbourse": 206.0
+      },
+      "officiel": false
+    },
+    {
       "cle": "BOAN",
       "nom": "BOA NIGER",
       "symbole": "BOAN",
@@ -628,6 +648,26 @@
       "officiel": false
     },
     {
+      "cle": "TTLC",
+      "nom": "TOTALENERGIES CI",
+      "symbole": "TTLC",
+      "montant_retenu": 158.83,
+      "montant_net_france": 108.96,
+      "rendement_net": 6.94,
+      "date_ex": null,
+      "date_paiement": null,
+      "exercice": "2025",
+      "concordance": "CALENDRIER_SEUL",
+      "corrobore": false,
+      "ecart_pct": 0.0,
+      "montants_par_source": {
+        "sikafinance (calendrier)": 158.83,
+        "sikafinance (historique)": 140.0,
+        "fluxbourse": 196.0
+      },
+      "officiel": false
+    },
+    {
       "cle": "TTLS",
       "nom": "TOTAL",
       "symbole": "TTLS",
@@ -682,46 +722,6 @@
         "sikafinance (calendrier)": 140.39,
         "sikafinance (historique)": 140.0,
         "fluxbourse": 82.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "TTLC",
-      "nom": "TOTALENERGIES CI",
-      "symbole": "TTLC",
-      "montant_retenu": 139.77,
-      "montant_net_france": 95.88,
-      "rendement_net": 6.94,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "CALENDRIER_SEUL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "sikafinance (calendrier)": 139.77,
-        "sikafinance (historique)": 140.0,
-        "fluxbourse": 196.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "ABJC",
-      "nom": "SERVAIR ABIDJAN",
-      "symbole": "ABJC",
-      "montant_retenu": 124.0,
-      "montant_net_france": 85.06,
-      "rendement_net": 5.44,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "CALENDRIER_SEUL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "sikafinance (calendrier)": 124.0,
-        "sikafinance (historique)": 202.0,
-        "fluxbourse": 206.0
       },
       "officiel": false
     },
