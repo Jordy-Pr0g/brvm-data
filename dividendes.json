@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-08-21T19:10:50",
+  "genere_le": "2026-08-24T10:06:34",
   "sources": [
     "brvm.org",
     "sikafinance (calendrier)",
@@ -8,8 +8,48 @@
   ],
   "flat_tax_france": 0.314,
   "nb_societes": 45,
-  "nb_ecarts": 0,
+  "nb_ecarts": 1,
   "societes": [
+    {
+      "cle": "SHEC",
+      "nom": "VIVO ENERGY CI",
+      "symbole": "SHEC",
+      "montant_retenu": 96.67,
+      "montant_net_france": 66.32,
+      "rendement_net": 4.28,
+      "date_ex": "24/09/2026",
+      "date_paiement": "25/09/2026",
+      "exercice": "2025",
+      "concordance": "ECART",
+      "corrobore": false,
+      "ecart_pct": 12.0,
+      "montants_par_source": {
+        "brvm.org": 96.67,
+        "sikafinance (calendrier)": 85.07,
+        "sikafinance (historique)": 85.0,
+        "fluxbourse": 75.0
+      },
+      "officiel": true
+    },
+    {
+      "cle": "SLBC",
+      "nom": "SOLIBRA CI",
+      "symbole": "SLBC",
+      "montant_retenu": 1872.0,
+      "montant_net_france": 1284.19,
+      "rendement_net": 3.02,
+      "date_ex": null,
+      "date_paiement": null,
+      "exercice": "2025",
+      "concordance": "A_CONFIRMER",
+      "corrobore": false,
+      "ecart_pct": 42.6,
+      "montants_par_source": {
+        "sikafinance (historique)": 1872.0,
+        "fluxbourse": 1074.0
+      },
+      "officiel": false
+    },
     {
       "cle": "SNTS",
       "nom": "SONATEL SN",
@@ -351,26 +391,6 @@
         "fluxbourse": 1646.0
       },
       "officiel": false
-    },
-    {
-      "cle": "SLBC",
-      "nom": "SOLIBRA",
-      "symbole": "SLBC",
-      "montant_retenu": 2127.0,
-      "montant_net_france": 1459.12,
-      "rendement_net": 3.02,
-      "date_ex": "29/07/2026",
-      "date_paiement": "30/07/2026",
-      "exercice": "2025",
-      "concordance": "CONFIRME_OFFICIEL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "brvm.org": 2127.0,
-        "sikafinance (historique)": 1872.0,
-        "fluxbourse": 1074.0
-      },
-      "officiel": true
     },
     {
       "cle": "STBC",
@@ -721,26 +741,6 @@
         "sikafinance (calendrier)": 140.39,
         "sikafinance (historique)": 140.0,
         "fluxbourse": 82.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "SHEC",
-      "nom": "VIVO ENERGY CI",
-      "symbole": "SHEC",
-      "montant_retenu": 85.07,
-      "montant_net_france": 58.36,
-      "rendement_net": 4.28,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "CALENDRIER_SEUL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "sikafinance (calendrier)": 85.07,
-        "sikafinance (historique)": 85.0,
-        "fluxbourse": 75.0
       },
       "officiel": false
     },
