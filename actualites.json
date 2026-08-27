@@ -1,44 +1,8 @@
 {
- "genere_le": "2026-08-27T08:46:33",
+ "genere_le": "2026-08-27T20:45:11",
  "source": "richbourse.com",
  "actualites": {
-  "SNTS": [
-   {
-    "date": "2026-07-24",
-    "titre": "24/07/2026",
-    "url": "https://www.richbourse.com/common/actualite/details/24-07-2026-sonatel-sn-communique-de-presse",
-    "recent": false,
-    "jours": 34
-   },
-   {
-    "date": "2026-06-30",
-    "titre": "30/06/2026",
-    "url": "https://www.richbourse.com/common/actualite/details/30-06-2026-sonatel-sn-notation-financiere",
-    "recent": false,
-    "jours": 58
-   },
-   {
-    "date": "2026-06-29",
-    "titre": "29/06/2026",
-    "url": "https://www.richbourse.com/common/actualite/details/29-06-2026-sonatel-transaction-sur-dossier",
-    "recent": false,
-    "jours": 59
-   },
-   {
-    "date": "2026-04-23",
-    "titre": "23/04/2026",
-    "url": "https://www.richbourse.com/common/actualite/details/23-04-2026-sonatel-sn-paiement-de-dividendes-exercice-2025",
-    "recent": false,
-    "jours": 126
-   },
-   {
-    "date": "2026-04-17",
-    "titre": "17/04/2026",
-    "url": "https://www.richbourse.com/common/actualite/details/17-04-2026-sonatel-sn-rapport-dactivites-1er-trimestre-2026",
-    "recent": false,
-    "jours": 132
-   }
-  ],
+  "SNTS": [],
   "SGBC": [
    {
     "date": "2026-08-06",
