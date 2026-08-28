@@ -1,877 +1,874 @@
 {
-  "genere_le": "2026-08-27T20:51:04",
-  "sources": [
-    "brvm.org",
-    "sikafinance (calendrier)",
-    "sikafinance (historique)",
-    "fluxbourse"
-  ],
-  "flat_tax_france": 0.314,
-  "nb_societes": 45,
-  "nb_ecarts": 0,
-  "societes": [
-    {
-      "cle": "SLBC",
-      "nom": "SOLIBRA CI",
-      "symbole": "SLBC",
-      "montant_retenu": 1872.0,
-      "montant_net_france": 1284.19,
-      "rendement_net": 3.02,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "A_CONFIRMER",
-      "corrobore": false,
-      "ecart_pct": 42.6,
-      "montants_par_source": {
-        "sikafinance (historique)": 1872.0,
-        "fluxbourse": 1074.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "SNTS",
-      "nom": "SONATEL SN",
-      "symbole": "SNTS",
-      "montant_retenu": 1740.0,
-      "montant_net_france": 1193.64,
-      "rendement_net": 5.71,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "A_CONFIRMER",
-      "corrobore": true,
-      "ecart_pct": 4.9,
-      "montants_par_source": {
-        "sikafinance (historique)": 1740.0,
-        "fluxbourse": 1655.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "BICC",
-      "nom": "BICICI CI",
-      "symbole": "BICC",
-      "montant_retenu": 1157.0,
-      "montant_net_france": 793.7,
-      "rendement_net": 3.61,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "A_CONFIRMER",
-      "corrobore": false,
-      "ecart_pct": 28.2,
-      "montants_par_source": {
-        "sikafinance (historique)": 1157.0,
-        "fluxbourse": 831.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "CBIBF",
-      "nom": "CORIS BANK BF",
-      "symbole": "CBIBF",
-      "montant_retenu": 900.0,
-      "montant_net_france": 617.4,
-      "rendement_net": 4.27,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "A_CONFIRMER",
-      "corrobore": false,
-      "ecart_pct": 38.3,
-      "montants_par_source": {
-        "sikafinance (historique)": 900.0,
-        "fluxbourse": 555.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "ECOC",
-      "nom": "ECOBANK CI",
-      "symbole": "ECOC",
-      "montant_retenu": 781.0,
-      "montant_net_france": 535.77,
-      "rendement_net": 4.19,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "A_CONFIRMER",
-      "corrobore": false,
-      "ecart_pct": 9.3,
-      "montants_par_source": {
-        "sikafinance (historique)": 781.0,
-        "fluxbourse": 708.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "ORAC",
-      "nom": "ORANGE CI",
-      "symbole": "ORAC",
-      "montant_retenu": 704.0,
-      "montant_net_france": 482.94,
-      "rendement_net": 4.4,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "A_CONFIRMER",
-      "corrobore": false,
-      "ecart_pct": 6.2,
-      "montants_par_source": {
-        "sikafinance (historique)": 704.0,
-        "fluxbourse": 660.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "BOAC",
-      "nom": "BOA CÔTE D'IVOIRE",
-      "symbole": "BOAC",
-      "montant_retenu": 595.0,
-      "montant_net_france": 408.17,
-      "rendement_net": 6.01,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "A_CONFIRMER",
-      "corrobore": false,
-      "ecart_pct": 21.2,
-      "montants_par_source": {
-        "sikafinance (historique)": 595.0,
-        "fluxbourse": 469.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "BOAB",
-      "nom": "BOA BÉNIN",
-      "symbole": "BOAB",
-      "montant_retenu": 585.0,
-      "montant_net_france": 401.31,
-      "rendement_net": 6.83,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "A_CONFIRMER",
-      "corrobore": false,
-      "ecart_pct": 20.0,
-      "montants_par_source": {
-        "sikafinance (historique)": 585.0,
-        "fluxbourse": 468.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "BOAS",
-      "nom": "BOA SÉNÉGAL",
-      "symbole": "BOAS",
-      "montant_retenu": 450.0,
-      "montant_net_france": 308.7,
-      "rendement_net": 5.74,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "A_CONFIRMER",
-      "corrobore": false,
-      "ecart_pct": 22.2,
-      "montants_par_source": {
-        "sikafinance (historique)": 450.0,
-        "fluxbourse": 350.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "PALC",
-      "nom": "PALM CI",
-      "symbole": "PALC",
-      "montant_retenu": 441.0,
-      "montant_net_france": 302.53,
-      "rendement_net": 5.01,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "A_CONFIRMER",
-      "corrobore": true,
-      "ecart_pct": 2.2,
-      "montants_par_source": {
-        "sikafinance (historique)": 441.0,
-        "fluxbourse": 451.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "BOABF",
-      "nom": "BOA BURKINA FASO",
-      "symbole": "BOABF",
-      "montant_retenu": 397.0,
-      "montant_net_france": 272.34,
-      "rendement_net": 9.2,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "A_CONFIRMER",
-      "corrobore": false,
-      "ecart_pct": 7.2,
-      "montants_par_source": {
-        "sikafinance (historique)": 397.0,
-        "fluxbourse": 428.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "SIBC",
-      "nom": "SIB CI",
-      "symbole": "SIBC",
-      "montant_retenu": 374.0,
-      "montant_net_france": 256.56,
-      "rendement_net": 4.85,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "A_CONFIRMER",
-      "corrobore": false,
-      "ecart_pct": 11.8,
-      "montants_par_source": {
-        "sikafinance (historique)": 374.0,
-        "fluxbourse": 330.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "BOAM",
-      "nom": "BOA MALI",
-      "symbole": "BOAM",
-      "montant_retenu": 305.0,
-      "montant_net_france": 209.23,
-      "rendement_net": 5.32,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "A_CONFIRMER",
-      "corrobore": false,
-      "ecart_pct": 22.3,
-      "montants_par_source": {
-        "sikafinance (historique)": 305.0,
-        "fluxbourse": 237.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "CIEC",
-      "nom": "CIE CI",
-      "symbole": "CIEC",
-      "montant_retenu": 206.0,
-      "montant_net_france": 141.32,
-      "rendement_net": 5.39,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "A_CONFIRMER",
-      "corrobore": false,
-      "ecart_pct": 23.3,
-      "montants_par_source": {
-        "sikafinance (historique)": 206.0,
-        "fluxbourse": 158.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "CABC",
-      "nom": "SICABLE CI",
-      "symbole": "CABC",
-      "montant_retenu": 152.0,
-      "montant_net_france": 104.27,
-      "rendement_net": 3.17,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "A_CONFIRMER",
-      "corrobore": false,
-      "ecart_pct": 25.7,
-      "montants_par_source": {
-        "sikafinance (historique)": 152.0,
-        "fluxbourse": 113.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "ONTBF",
-      "nom": "ONATEL BF",
-      "symbole": "ONTBF",
-      "montant_retenu": 145.0,
-      "montant_net_france": 99.47,
-      "rendement_net": 6.77,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "A_CONFIRMER",
-      "corrobore": false,
-      "ecart_pct": 23.7,
-      "montants_par_source": {
-        "sikafinance (historique)": 145.0,
-        "fluxbourse": 190.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "SDSC",
-      "nom": "AFRICA GLOBAL LOG.",
-      "symbole": "SDSC",
-      "montant_retenu": 81.0,
-      "montant_net_france": 55.57,
-      "rendement_net": 4.4,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "A_CONFIRMER",
-      "corrobore": false,
-      "ecart_pct": 12.0,
-      "montants_par_source": {
-        "sikafinance (historique)": 81.0,
-        "fluxbourse": 92.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "SGCI",
-      "nom": "SGCI",
-      "symbole": null,
-      "montant_retenu": 2606.0,
-      "montant_net_france": 1787.72,
-      "rendement_net": null,
-      "date_ex": "21/08/2026",
-      "date_paiement": "24/08/2026",
-      "exercice": "2025",
-      "concordance": "CONFIRME_OFFICIEL",
-      "corrobore": true,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "brvm.org": 2606.0
-      },
-      "officiel": true
-    },
-    {
-      "cle": "SGBC",
-      "nom": "SOCIÉTÉ GÉNÉRALE CI",
-      "symbole": "SGBC",
-      "montant_retenu": 2606.0,
-      "montant_net_france": 1787.72,
-      "rendement_net": 4.94,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "CALENDRIER_SEUL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "sikafinance (calendrier)": 2606.0,
-        "sikafinance (historique)": 2293.0,
-        "fluxbourse": 1646.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "STBC",
-      "nom": "SITAB",
-      "symbole": "STBC",
-      "montant_retenu": 1707.2,
-      "montant_net_france": 1171.14,
-      "rendement_net": 9.79,
-      "date_ex": "12/08/2026",
-      "date_paiement": "13/08/2026",
-      "exercice": "2025",
-      "concordance": "CONFIRME_OFFICIEL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "brvm.org": 1707.2,
-        "sikafinance (historique)": 1707.0,
-        "fluxbourse": 2096.0
-      },
-      "officiel": true
-    },
-    {
-      "cle": "NSBC",
-      "nom": "NSBC",
-      "symbole": "NSBC",
-      "montant_retenu": 768.16,
-      "montant_net_france": 526.96,
-      "rendement_net": 4.77,
-      "date_ex": "03/08/2026",
-      "date_paiement": "04/08/2026",
-      "exercice": "2025",
-      "concordance": "CONFIRME_OFFICIEL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "brvm.org": 768.16,
-        "sikafinance (historique)": 676.0,
-        "fluxbourse": 668.0
-      },
-      "officiel": true
-    },
-    {
-      "cle": "SMBC",
-      "nom": "SMB CI",
-      "symbole": "SMBC",
-      "montant_retenu": 704.0,
-      "montant_net_france": 482.94,
-      "rendement_net": 4.4,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "CALENDRIER_SEUL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "sikafinance (calendrier)": 704.0,
-        "sikafinance (historique)": 704.0,
-        "fluxbourse": 616.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "SOGC",
-      "nom": "SOGB",
-      "symbole": "SOGC",
-      "montant_retenu": 570.0,
-      "montant_net_france": 391.02,
-      "rendement_net": 6.36,
-      "date_ex": "05/07/2026",
-      "date_paiement": "06/08/2026",
-      "exercice": "2025",
-      "concordance": "CONFIRME_OFFICIEL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "brvm.org": 570.0,
-        "sikafinance (historique)": 502.0,
-        "fluxbourse": 528.0
-      },
-      "officiel": true
-    },
-    {
-      "cle": "SPHC",
-      "nom": "SAPH CI",
-      "symbole": "SPHC",
-      "montant_retenu": 489.0,
-      "montant_net_france": 335.45,
-      "rendement_net": 4.15,
-      "date_ex": "27/08/2026",
-      "date_paiement": "28/08/2026",
-      "exercice": "2025",
-      "concordance": "CONFIRME_OFFICIEL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "brvm.org": 489.0,
-        "sikafinance (calendrier)": 489.0,
-        "sikafinance (historique)": 430.0,
-        "fluxbourse": 324.0
-      },
-      "officiel": true
-    },
-    {
-      "cle": "SDCC",
-      "nom": "SODECI CI",
-      "symbole": "SDCC",
-      "montant_retenu": 462.0,
-      "montant_net_france": 316.93,
-      "rendement_net": 5.46,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "CALENDRIER_SEUL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "sikafinance (calendrier)": 462.0,
-        "sikafinance (historique)": 462.0,
-        "fluxbourse": 352.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "NTLC",
-      "nom": "NESTLE CI",
-      "symbole": "NTLC",
-      "montant_retenu": 420.0,
-      "montant_net_france": 288.12,
-      "rendement_net": 5.78,
-      "date_ex": "04/09/2026",
-      "date_paiement": "07/09/2026",
-      "exercice": "2025",
-      "concordance": "CONFIRME_OFFICIEL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "brvm.org": 420.0,
-        "sikafinance (calendrier)": 420.0,
-        "sikafinance (historique)": 370.0,
-        "fluxbourse": 722.0
-      },
-      "officiel": true
-    },
-    {
-      "cle": "BIIC_BJ",
-      "nom": "BANQUE INTERNATIONAL",
-      "symbole": null,
-      "montant_retenu": 255.0,
-      "montant_net_france": 174.93,
-      "rendement_net": null,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "SOURCE_UNIQUE",
-      "corrobore": true,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "sikafinance (historique)": 255.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "BICICI BURKINA",
-      "nom": "BICICI BURKINA",
-      "symbole": "BICB",
-      "montant_retenu": 255.0,
-      "montant_net_france": 174.93,
-      "rendement_net": 5.09,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "SOURCE_UNIQUE",
-      "corrobore": true,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "fluxbourse": 255.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "ABJC",
-      "nom": "SERVAIR ABIDJAN",
-      "symbole": "ABJC",
-      "montant_retenu": 229.0,
-      "montant_net_france": 157.09,
-      "rendement_net": 5.44,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "CALENDRIER_SEUL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "sikafinance (calendrier)": 229.0,
-        "sikafinance (historique)": 202.0,
-        "fluxbourse": 206.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "BOAN",
-      "nom": "BOA NIGER",
-      "symbole": "BOAN",
-      "montant_retenu": 209.0,
-      "montant_net_france": 143.37,
-      "rendement_net": 8.11,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "SOURCE_UNIQUE",
-      "corrobore": true,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "fluxbourse": 209.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "PRSC",
-      "nom": "TRACTAFRIC CI",
-      "symbole": "PRSC",
-      "montant_retenu": 183.92,
-      "montant_net_france": 126.17,
-      "rendement_net": 3.92,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "CALENDRIER_SEUL",
-      "corrobore": true,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "sikafinance (calendrier)": 183.92,
-        "sikafinance (historique)": 184.0,
-        "fluxbourse": 182.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "LNB",
-      "nom": "LNB",
-      "symbole": null,
-      "montant_retenu": 164.1709,
-      "montant_net_france": 112.62,
-      "rendement_net": null,
-      "date_ex": "31/07/2026",
-      "date_paiement": "03/08/2026",
-      "exercice": "2025",
-      "concordance": "CONFIRME_OFFICIEL",
-      "corrobore": true,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "brvm.org": 164.1709
-      },
-      "officiel": true
-    },
-    {
-      "cle": "LNBB",
-      "nom": "LOTERIE NAT. BÉNIN",
-      "symbole": "LNBB",
-      "montant_retenu": 164.0,
-      "montant_net_france": 112.5,
-      "rendement_net": 7.13,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "CALENDRIER_SEUL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "sikafinance (calendrier)": 164.0,
-        "sikafinance (historique)": 164.0,
-        "fluxbourse": 275.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "TTLC",
-      "nom": "TOTALENERGIES CI",
-      "symbole": "TTLC",
-      "montant_retenu": 158.83,
-      "montant_net_france": 108.96,
-      "rendement_net": 6.94,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "CALENDRIER_SEUL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "sikafinance (calendrier)": 158.83,
-        "sikafinance (historique)": 140.0,
-        "fluxbourse": 196.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "TTLS",
-      "nom": "TOTAL",
-      "symbole": "TTLS",
-      "montant_retenu": 158.827,
-      "montant_net_france": 108.96,
-      "rendement_net": 7.59,
-      "date_ex": "28/08/2026",
-      "date_paiement": "31/08/2026",
-      "exercice": "2025",
-      "concordance": "CONFIRME_OFFICIEL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "brvm.org": 158.827,
-        "sikafinance (historique)": 177.0,
-        "fluxbourse": 222.0
-      },
-      "officiel": true
-    },
-    {
-      "cle": "BNBC",
-      "nom": "BERNABÉ CI",
-      "symbole": "BNBC",
-      "montant_retenu": 150.0,
-      "montant_net_france": 102.9,
-      "rendement_net": 9.65,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2023",
-      "concordance": "SOURCE_UNIQUE",
-      "corrobore": true,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "fluxbourse": 150.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "NEIC",
-      "nom": "NEI-CEDA CI",
-      "symbole": "NEIC",
-      "montant_retenu": 140.39,
-      "montant_net_france": 96.31,
-      "rendement_net": 5.42,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "CALENDRIER_SEUL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "sikafinance (calendrier)": 140.39,
-        "sikafinance (historique)": 140.0,
-        "fluxbourse": 82.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "SHEC",
-      "nom": "VIVO ENERGY CI",
-      "symbole": "SHEC",
-      "montant_retenu": 96.67,
-      "montant_net_france": 66.32,
-      "rendement_net": 4.28,
-      "date_ex": "24/09/2026",
-      "date_paiement": "25/09/2026",
-      "exercice": "2025",
-      "concordance": "CONFIRME_OFFICIEL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "brvm.org": 96.67,
-        "sikafinance (calendrier)": 96.67,
-        "sikafinance (historique)": 85.0,
-        "fluxbourse": 75.0
-      },
-      "officiel": true
-    },
-    {
-      "cle": "STAC",
-      "nom": "SETAO CI",
-      "symbole": "STAC",
-      "montant_retenu": 66.0,
-      "montant_net_france": 45.28,
-      "rendement_net": 3.38,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2022",
-      "concordance": "SOURCE_UNIQUE",
-      "corrobore": true,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "fluxbourse": 66.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "CFAC",
-      "nom": "CFAO MOTORS CI",
-      "symbole": "CFAC",
-      "montant_retenu": 63.0,
-      "montant_net_france": 43.22,
-      "rendement_net": 0.43,
-      "date_ex": "13/08/2026",
-      "date_paiement": "14/08/2026",
-      "exercice": "2025",
-      "concordance": "CONFIRME_OFFICIEL",
-      "corrobore": false,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "brvm.org": 63.0,
-        "sikafinance (historique)": 55.0,
-        "fluxbourse": 7.0
-      },
-      "officiel": true
-    },
-    {
-      "cle": "UNXC",
-      "nom": "UNIWAX CI",
-      "symbole": "UNXC",
-      "montant_retenu": 61.0,
-      "montant_net_france": 41.85,
-      "rendement_net": 2.65,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2022",
-      "concordance": "SOURCE_UNIQUE",
-      "corrobore": true,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "fluxbourse": 61.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "ORGT",
-      "nom": "ORAGROUP TOGO",
-      "symbole": "ORGT",
-      "montant_retenu": 60.0,
-      "montant_net_france": 41.16,
-      "rendement_net": 1.89,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2020",
-      "concordance": "SOURCE_UNIQUE",
-      "corrobore": true,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "fluxbourse": 60.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "SCRC",
-      "nom": "SUCRIVOIRE",
-      "symbole": "SCRC",
-      "montant_retenu": 41.0,
-      "montant_net_france": 28.13,
-      "rendement_net": 2.6,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2021",
-      "concordance": "SOURCE_UNIQUE",
-      "corrobore": true,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "fluxbourse": 41.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "SEMC",
-      "nom": "EVIOSYS SIEM CI",
-      "symbole": "SEMC",
-      "montant_retenu": 14.0,
-      "montant_net_france": 9.6,
-      "rendement_net": 0.53,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2021",
-      "concordance": "SOURCE_UNIQUE",
-      "corrobore": true,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "fluxbourse": 14.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "ETIT",
-      "nom": "ECOBANK TRANS. INC.",
-      "symbole": "ETIT",
-      "montant_retenu": 1.0,
-      "montant_net_france": 0.69,
-      "rendement_net": 1.78,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "CONFIRME",
-      "corrobore": true,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "sikafinance (historique)": 1.0,
-        "fluxbourse": 0.6
-      },
-      "officiel": false
-    }
-  ]
+ "genere_le": "2026-08-28T20:39:39",
+ "sources": [
+  "brvm.org",
+  "sikafinance (calendrier)",
+  "sikafinance (historique)",
+  "fluxbourse"
+ ],
+ "flat_tax_france": 0.314,
+ "nb_societes": 44,
+ "nb_ecarts": 0,
+ "societes": [
+  {
+   "cle": "SGBC",
+   "nom": "SOCIÉTÉ GÉNÉRALE CI",
+   "symbole": "SGBC",
+   "montant_retenu": 2293.0,
+   "montant_net_france": 1573.0,
+   "rendement_net": 4.94,
+   "date_ex": "21/08/2026",
+   "date_paiement": "24/08/2026",
+   "exercice": "2025",
+   "concordance": "A_CONFIRMER",
+   "corrobore": false,
+   "ecart_pct": 28.2,
+   "montants_par_source": {
+    "sikafinance (historique)": 2293.0,
+    "fluxbourse": 1646.0
+   },
+   "officiel": false,
+   "date_ex_source": "communique_ocr"
+  },
+  {
+   "cle": "SLBC",
+   "nom": "SOLIBRA CI",
+   "symbole": "SLBC",
+   "montant_retenu": 1872.0,
+   "montant_net_france": 1284.19,
+   "rendement_net": 3.02,
+   "date_ex": "29/07/2026",
+   "date_paiement": "30/07/2026",
+   "exercice": "2025",
+   "concordance": "A_CONFIRMER",
+   "corrobore": false,
+   "ecart_pct": 42.6,
+   "montants_par_source": {
+    "sikafinance (historique)": 1872.0,
+    "fluxbourse": 1074.0
+   },
+   "officiel": false,
+   "date_ex_source": "communique_ocr"
+  },
+  {
+   "cle": "SNTS",
+   "nom": "SONATEL SN",
+   "symbole": "SNTS",
+   "montant_retenu": 1740.0,
+   "montant_net_france": 1193.64,
+   "rendement_net": 5.71,
+   "date_ex": "22/05/2026",
+   "date_paiement": "26/05/2026",
+   "exercice": "2025",
+   "concordance": "A_CONFIRMER",
+   "corrobore": true,
+   "ecart_pct": 4.9,
+   "montants_par_source": {
+    "sikafinance (historique)": 1740.0,
+    "fluxbourse": 1655.0
+   },
+   "officiel": false,
+   "date_ex_source": "communique_ocr"
+  },
+  {
+   "cle": "BICC",
+   "nom": "BICICI CI",
+   "symbole": "BICC",
+   "montant_retenu": 1157.0,
+   "montant_net_france": 793.7,
+   "rendement_net": 3.61,
+   "date_ex": "03/07/2026",
+   "date_paiement": "06/07/2026",
+   "exercice": "2025",
+   "concordance": "A_CONFIRMER",
+   "corrobore": false,
+   "ecart_pct": 28.2,
+   "montants_par_source": {
+    "sikafinance (historique)": 1157.0,
+    "fluxbourse": 831.0
+   },
+   "officiel": false,
+   "date_ex_source": "communique_ocr"
+  },
+  {
+   "cle": "CBIBF",
+   "nom": "CORIS BANK BF",
+   "symbole": "CBIBF",
+   "montant_retenu": 900.0,
+   "montant_net_france": 617.4,
+   "rendement_net": 4.27,
+   "date_ex": "18/06/2026",
+   "date_paiement": "19/06/2026",
+   "exercice": "2025",
+   "concordance": "A_CONFIRMER",
+   "corrobore": false,
+   "ecart_pct": 38.3,
+   "montants_par_source": {
+    "sikafinance (historique)": 900.0,
+    "fluxbourse": 555.0
+   },
+   "officiel": false,
+   "date_ex_source": "communique_ocr"
+  },
+  {
+   "cle": "ECOC",
+   "nom": "ECOBANK CI",
+   "symbole": "ECOC",
+   "montant_retenu": 781.0,
+   "montant_net_france": 535.77,
+   "rendement_net": 4.19,
+   "date_ex": "22/05/2026",
+   "date_paiement": "26/05/2026",
+   "exercice": "2025",
+   "concordance": "A_CONFIRMER",
+   "corrobore": false,
+   "ecart_pct": 9.3,
+   "montants_par_source": {
+    "sikafinance (historique)": 781.0,
+    "fluxbourse": 708.0
+   },
+   "officiel": false,
+   "date_ex_source": "communique_ocr"
+  },
+  {
+   "cle": "ORAC",
+   "nom": "ORANGE CI",
+   "symbole": "ORAC",
+   "montant_retenu": 704.0,
+   "montant_net_france": 482.94,
+   "rendement_net": 4.4,
+   "date_ex": "05/06/2026",
+   "date_paiement": "08/06/2026",
+   "exercice": "2025",
+   "concordance": "A_CONFIRMER",
+   "corrobore": false,
+   "ecart_pct": 6.2,
+   "montants_par_source": {
+    "sikafinance (historique)": 704.0,
+    "fluxbourse": 660.0
+   },
+   "officiel": false,
+   "date_ex_source": "communique_ocr"
+  },
+  {
+   "cle": "BOAC",
+   "nom": "BOA CÔTE D'IVOIRE",
+   "symbole": "BOAC",
+   "montant_retenu": 595.0,
+   "montant_net_france": 408.17,
+   "rendement_net": 6.01,
+   "date_ex": "05/05/2026",
+   "date_paiement": "06/05/2026",
+   "exercice": "2025",
+   "concordance": "A_CONFIRMER",
+   "corrobore": false,
+   "ecart_pct": 21.2,
+   "montants_par_source": {
+    "sikafinance (historique)": 595.0,
+    "fluxbourse": 469.0
+   },
+   "officiel": false,
+   "date_ex_source": "communique_ocr"
+  },
+  {
+   "cle": "BOAB",
+   "nom": "BOA BÉNIN",
+   "symbole": "BOAB",
+   "montant_retenu": 585.0,
+   "montant_net_france": 401.31,
+   "rendement_net": 6.83,
+   "date_ex": "22/05/2026",
+   "date_paiement": "26/05/2026",
+   "exercice": "2025",
+   "concordance": "A_CONFIRMER",
+   "corrobore": false,
+   "ecart_pct": 20.0,
+   "montants_par_source": {
+    "sikafinance (historique)": 585.0,
+    "fluxbourse": 468.0
+   },
+   "officiel": false,
+   "date_ex_source": "communique_ocr"
+  },
+  {
+   "cle": "BOAS",
+   "nom": "BOA SÉNÉGAL",
+   "symbole": "BOAS",
+   "montant_retenu": 450.0,
+   "montant_net_france": 308.7,
+   "rendement_net": 5.74,
+   "date_ex": "29/05/2026",
+   "date_paiement": null,
+   "exercice": "2025",
+   "concordance": "A_CONFIRMER",
+   "corrobore": false,
+   "ecart_pct": 22.2,
+   "montants_par_source": {
+    "sikafinance (historique)": 450.0,
+    "fluxbourse": 350.0
+   },
+   "officiel": false,
+   "date_ex_source": "communique_ocr"
+  },
+  {
+   "cle": "PALC",
+   "nom": "PALM CI",
+   "symbole": "PALC",
+   "montant_retenu": 441.0,
+   "montant_net_france": 302.53,
+   "rendement_net": 5.01,
+   "date_ex": null,
+   "date_paiement": null,
+   "exercice": "2025",
+   "concordance": "A_CONFIRMER",
+   "corrobore": true,
+   "ecart_pct": 2.2,
+   "montants_par_source": {
+    "sikafinance (historique)": 441.0,
+    "fluxbourse": 451.0
+   },
+   "officiel": false
+  },
+  {
+   "cle": "BOABF",
+   "nom": "BOA BURKINA FASO",
+   "symbole": "BOABF",
+   "montant_retenu": 397.0,
+   "montant_net_france": 272.34,
+   "rendement_net": 9.2,
+   "date_ex": "22/04/2026",
+   "date_paiement": "23/04/2026",
+   "exercice": "2025",
+   "concordance": "A_CONFIRMER",
+   "corrobore": false,
+   "ecart_pct": 7.2,
+   "montants_par_source": {
+    "sikafinance (historique)": 397.0,
+    "fluxbourse": 428.0
+   },
+   "officiel": false,
+   "date_ex_source": "communique_ocr"
+  },
+  {
+   "cle": "SIBC",
+   "nom": "SIB CI",
+   "symbole": "SIBC",
+   "montant_retenu": 374.0,
+   "montant_net_france": 256.56,
+   "rendement_net": 4.85,
+   "date_ex": "30/07/2026",
+   "date_paiement": "31/07/2026",
+   "exercice": "2025",
+   "concordance": "A_CONFIRMER",
+   "corrobore": false,
+   "ecart_pct": 11.8,
+   "montants_par_source": {
+    "sikafinance (historique)": 374.0,
+    "fluxbourse": 330.0
+   },
+   "officiel": false,
+   "date_ex_source": "communique_ocr"
+  },
+  {
+   "cle": "BOAM",
+   "nom": "BOA MALI",
+   "symbole": "BOAM",
+   "montant_retenu": 305.0,
+   "montant_net_france": 209.23,
+   "rendement_net": 5.32,
+   "date_ex": null,
+   "date_paiement": null,
+   "exercice": "2025",
+   "concordance": "A_CONFIRMER",
+   "corrobore": false,
+   "ecart_pct": 22.3,
+   "montants_par_source": {
+    "sikafinance (historique)": 305.0,
+    "fluxbourse": 237.0
+   },
+   "officiel": false
+  },
+  {
+   "cle": "CIEC",
+   "nom": "CIE CI",
+   "symbole": "CIEC",
+   "montant_retenu": 206.0,
+   "montant_net_france": 141.32,
+   "rendement_net": 5.39,
+   "date_ex": "27/07/2026",
+   "date_paiement": "28/07/2026",
+   "exercice": "2025",
+   "concordance": "A_CONFIRMER",
+   "corrobore": false,
+   "ecart_pct": 23.3,
+   "montants_par_source": {
+    "sikafinance (historique)": 206.0,
+    "fluxbourse": 158.0
+   },
+   "officiel": false,
+   "date_ex_source": "communique_ocr"
+  },
+  {
+   "cle": "CABC",
+   "nom": "SICABLE CI",
+   "symbole": "CABC",
+   "montant_retenu": 152.0,
+   "montant_net_france": 104.27,
+   "rendement_net": 3.17,
+   "date_ex": null,
+   "date_paiement": null,
+   "exercice": "2025",
+   "concordance": "A_CONFIRMER",
+   "corrobore": false,
+   "ecart_pct": 25.7,
+   "montants_par_source": {
+    "sikafinance (historique)": 152.0,
+    "fluxbourse": 113.0
+   },
+   "officiel": false
+  },
+  {
+   "cle": "ONTBF",
+   "nom": "ONATEL BF",
+   "symbole": "ONTBF",
+   "montant_retenu": 145.0,
+   "montant_net_france": 99.47,
+   "rendement_net": 6.77,
+   "date_ex": null,
+   "date_paiement": null,
+   "exercice": "2025",
+   "concordance": "A_CONFIRMER",
+   "corrobore": false,
+   "ecart_pct": 23.7,
+   "montants_par_source": {
+    "sikafinance (historique)": 145.0,
+    "fluxbourse": 190.0
+   },
+   "officiel": false
+  },
+  {
+   "cle": "SDSC",
+   "nom": "AFRICA GLOBAL LOG.",
+   "symbole": "SDSC",
+   "montant_retenu": 81.0,
+   "montant_net_france": 55.57,
+   "rendement_net": 4.4,
+   "date_ex": null,
+   "date_paiement": null,
+   "exercice": "2025",
+   "concordance": "A_CONFIRMER",
+   "corrobore": false,
+   "ecart_pct": 12.0,
+   "montants_par_source": {
+    "sikafinance (historique)": 81.0,
+    "fluxbourse": 92.0
+   },
+   "officiel": false
+  },
+  {
+   "cle": "SGCI",
+   "nom": "SGCI",
+   "symbole": null,
+   "montant_retenu": 2606.0,
+   "montant_net_france": 1787.72,
+   "rendement_net": null,
+   "date_ex": "21/08/2026",
+   "date_paiement": "24/08/2026",
+   "exercice": "2025",
+   "concordance": "CONFIRME_OFFICIEL",
+   "corrobore": true,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "brvm.org": 2606.0
+   },
+   "officiel": true
+  },
+  {
+   "cle": "STBC",
+   "nom": "SITAB",
+   "symbole": "STBC",
+   "montant_retenu": 1707.2,
+   "montant_net_france": 1171.14,
+   "rendement_net": 9.79,
+   "date_ex": "12/08/2026",
+   "date_paiement": "13/08/2026",
+   "exercice": "2025",
+   "concordance": "CONFIRME_OFFICIEL",
+   "corrobore": false,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "brvm.org": 1707.2,
+    "sikafinance (historique)": 1707.0,
+    "fluxbourse": 2096.0
+   },
+   "officiel": true
+  },
+  {
+   "cle": "NSBC",
+   "nom": "NSBC",
+   "symbole": "NSBC",
+   "montant_retenu": 768.16,
+   "montant_net_france": 526.96,
+   "rendement_net": 4.77,
+   "date_ex": "03/08/2026",
+   "date_paiement": "04/08/2026",
+   "exercice": "2025",
+   "concordance": "CONFIRME_OFFICIEL",
+   "corrobore": false,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "brvm.org": 768.16,
+    "sikafinance (historique)": 676.0,
+    "fluxbourse": 668.0
+   },
+   "officiel": true
+  },
+  {
+   "cle": "SMBC",
+   "nom": "SMB CI",
+   "symbole": "SMBC",
+   "montant_retenu": 704.0,
+   "montant_net_france": 482.94,
+   "rendement_net": 4.4,
+   "date_ex": null,
+   "date_paiement": null,
+   "exercice": "2025",
+   "concordance": "CALENDRIER_SEUL",
+   "corrobore": false,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "sikafinance (calendrier)": 704.0,
+    "sikafinance (historique)": 704.0,
+    "fluxbourse": 616.0
+   },
+   "officiel": false
+  },
+  {
+   "cle": "SOGC",
+   "nom": "SOGB",
+   "symbole": "SOGC",
+   "montant_retenu": 570.0,
+   "montant_net_france": 391.02,
+   "rendement_net": 6.36,
+   "date_ex": "05/07/2026",
+   "date_paiement": "06/08/2026",
+   "exercice": "2025",
+   "concordance": "CONFIRME_OFFICIEL",
+   "corrobore": false,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "brvm.org": 570.0,
+    "sikafinance (historique)": 502.0,
+    "fluxbourse": 528.0
+   },
+   "officiel": true
+  },
+  {
+   "cle": "SPHC",
+   "nom": "SAPH CI",
+   "symbole": "SPHC",
+   "montant_retenu": 489.0,
+   "montant_net_france": 335.45,
+   "rendement_net": 4.15,
+   "date_ex": "27/08/2026",
+   "date_paiement": "28/08/2026",
+   "exercice": "2025",
+   "concordance": "CONFIRME_OFFICIEL",
+   "corrobore": false,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "brvm.org": 489.0,
+    "sikafinance (calendrier)": 489.0,
+    "sikafinance (historique)": 430.0,
+    "fluxbourse": 324.0
+   },
+   "officiel": true
+  },
+  {
+   "cle": "SDCC",
+   "nom": "SODECI CI",
+   "symbole": "SDCC",
+   "montant_retenu": 462.0,
+   "montant_net_france": 316.93,
+   "rendement_net": 5.46,
+   "date_ex": null,
+   "date_paiement": null,
+   "exercice": "2025",
+   "concordance": "CALENDRIER_SEUL",
+   "corrobore": false,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "sikafinance (calendrier)": 462.0,
+    "sikafinance (historique)": 462.0,
+    "fluxbourse": 352.0
+   },
+   "officiel": false
+  },
+  {
+   "cle": "NTLC",
+   "nom": "NESTLE CI",
+   "symbole": "NTLC",
+   "montant_retenu": 420.0,
+   "montant_net_france": 288.12,
+   "rendement_net": 5.78,
+   "date_ex": "04/09/2026",
+   "date_paiement": "07/09/2026",
+   "exercice": "2025",
+   "concordance": "CONFIRME_OFFICIEL",
+   "corrobore": false,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "brvm.org": 420.0,
+    "sikafinance (calendrier)": 420.0,
+    "sikafinance (historique)": 370.0,
+    "fluxbourse": 722.0
+   },
+   "officiel": true
+  },
+  {
+   "cle": "BIIC_BJ",
+   "nom": "BANQUE INTERNATIONAL",
+   "symbole": null,
+   "montant_retenu": 255.0,
+   "montant_net_france": 174.93,
+   "rendement_net": null,
+   "date_ex": null,
+   "date_paiement": null,
+   "exercice": "2025",
+   "concordance": "SOURCE_UNIQUE",
+   "corrobore": true,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "sikafinance (historique)": 255.0
+   },
+   "officiel": false
+  },
+  {
+   "cle": "BICICI BURKINA",
+   "nom": "BICICI BURKINA",
+   "symbole": "BICB",
+   "montant_retenu": 255.0,
+   "montant_net_france": 174.93,
+   "rendement_net": 5.09,
+   "date_ex": null,
+   "date_paiement": null,
+   "exercice": "2025",
+   "concordance": "SOURCE_UNIQUE",
+   "corrobore": true,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "fluxbourse": 255.0
+   },
+   "officiel": false
+  },
+  {
+   "cle": "ABJC",
+   "nom": "SERVAIR ABIDJAN",
+   "symbole": "ABJC",
+   "montant_retenu": 229.0,
+   "montant_net_france": 157.09,
+   "rendement_net": 5.44,
+   "date_ex": "29/09/2026",
+   "date_paiement": null,
+   "exercice": "2025",
+   "concordance": "CALENDRIER_SEUL",
+   "corrobore": false,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "sikafinance (calendrier)": 229.0,
+    "sikafinance (historique)": 202.0,
+    "fluxbourse": 206.0
+   },
+   "officiel": false,
+   "date_ex_source": "communique_ocr"
+  },
+  {
+   "cle": "BOAN",
+   "nom": "BOA NIGER",
+   "symbole": "BOAN",
+   "montant_retenu": 209.0,
+   "montant_net_france": 143.37,
+   "rendement_net": 8.11,
+   "date_ex": null,
+   "date_paiement": null,
+   "exercice": "2025",
+   "concordance": "SOURCE_UNIQUE",
+   "corrobore": true,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "fluxbourse": 209.0
+   },
+   "officiel": false
+  },
+  {
+   "cle": "PRSC",
+   "nom": "TRACTAFRIC CI",
+   "symbole": "PRSC",
+   "montant_retenu": 183.92,
+   "montant_net_france": 126.17,
+   "rendement_net": 3.92,
+   "date_ex": null,
+   "date_paiement": null,
+   "exercice": "2025",
+   "concordance": "CALENDRIER_SEUL",
+   "corrobore": true,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "sikafinance (calendrier)": 183.92,
+    "sikafinance (historique)": 184.0,
+    "fluxbourse": 182.0
+   },
+   "officiel": false
+  },
+  {
+   "cle": "LNBB",
+   "nom": "LOTERIE NAT. BÉNIN",
+   "symbole": "LNBB",
+   "montant_retenu": 164.0,
+   "montant_net_france": 112.5,
+   "rendement_net": 7.13,
+   "date_ex": null,
+   "date_paiement": null,
+   "exercice": "2025",
+   "concordance": "CALENDRIER_SEUL",
+   "corrobore": false,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "sikafinance (calendrier)": 164.0,
+    "sikafinance (historique)": 164.0,
+    "fluxbourse": 275.0
+   },
+   "officiel": false
+  },
+  {
+   "cle": "NEIC",
+   "nom": "NEI-CEDA CI",
+   "symbole": "NEIC",
+   "montant_retenu": 159.54,
+   "montant_net_france": 109.44,
+   "rendement_net": 5.42,
+   "date_ex": "09/09/2026",
+   "date_paiement": "10/09/2026",
+   "exercice": "2025",
+   "concordance": "CONFIRME_OFFICIEL",
+   "corrobore": false,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "brvm.org": 159.54,
+    "sikafinance (calendrier)": 159.54,
+    "sikafinance (historique)": 140.0,
+    "fluxbourse": 82.0
+   },
+   "officiel": true
+  },
+  {
+   "cle": "TTLC",
+   "nom": "TOTALENERGIES CI",
+   "symbole": "TTLC",
+   "montant_retenu": 158.83,
+   "montant_net_france": 108.96,
+   "rendement_net": 6.94,
+   "date_ex": null,
+   "date_paiement": null,
+   "exercice": "2025",
+   "concordance": "CALENDRIER_SEUL",
+   "corrobore": false,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "sikafinance (calendrier)": 158.83,
+    "sikafinance (historique)": 140.0,
+    "fluxbourse": 196.0
+   },
+   "officiel": false
+  },
+  {
+   "cle": "TTLS",
+   "nom": "TOTAL",
+   "symbole": "TTLS",
+   "montant_retenu": 158.827,
+   "montant_net_france": 108.96,
+   "rendement_net": 7.59,
+   "date_ex": "28/08/2026",
+   "date_paiement": "31/08/2026",
+   "exercice": "2025",
+   "concordance": "CONFIRME_OFFICIEL",
+   "corrobore": false,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "brvm.org": 158.827,
+    "sikafinance (historique)": 177.0,
+    "fluxbourse": 222.0
+   },
+   "officiel": true
+  },
+  {
+   "cle": "BNBC",
+   "nom": "BERNABÉ CI",
+   "symbole": "BNBC",
+   "montant_retenu": 150.0,
+   "montant_net_france": 102.9,
+   "rendement_net": 9.65,
+   "date_ex": null,
+   "date_paiement": null,
+   "exercice": "2023",
+   "concordance": "SOURCE_UNIQUE",
+   "corrobore": true,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "fluxbourse": 150.0
+   },
+   "officiel": false
+  },
+  {
+   "cle": "SHEC",
+   "nom": "VIVO ENERGY CI",
+   "symbole": "SHEC",
+   "montant_retenu": 96.67,
+   "montant_net_france": 66.32,
+   "rendement_net": 4.28,
+   "date_ex": "24/09/2026",
+   "date_paiement": "25/09/2026",
+   "exercice": "2025",
+   "concordance": "CONFIRME_OFFICIEL",
+   "corrobore": false,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "brvm.org": 96.67,
+    "sikafinance (calendrier)": 96.67,
+    "sikafinance (historique)": 85.0,
+    "fluxbourse": 75.0
+   },
+   "officiel": true
+  },
+  {
+   "cle": "STAC",
+   "nom": "SETAO CI",
+   "symbole": "STAC",
+   "montant_retenu": 66.0,
+   "montant_net_france": 45.28,
+   "rendement_net": 3.38,
+   "date_ex": null,
+   "date_paiement": null,
+   "exercice": "2022",
+   "concordance": "SOURCE_UNIQUE",
+   "corrobore": true,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "fluxbourse": 66.0
+   },
+   "officiel": false
+  },
+  {
+   "cle": "CFAC",
+   "nom": "CFAO MOTORS CI",
+   "symbole": "CFAC",
+   "montant_retenu": 63.0,
+   "montant_net_france": 43.22,
+   "rendement_net": 0.43,
+   "date_ex": "13/08/2026",
+   "date_paiement": "14/08/2026",
+   "exercice": "2025",
+   "concordance": "CONFIRME_OFFICIEL",
+   "corrobore": false,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "brvm.org": 63.0,
+    "sikafinance (historique)": 55.0,
+    "fluxbourse": 7.0
+   },
+   "officiel": true
+  },
+  {
+   "cle": "UNXC",
+   "nom": "UNIWAX CI",
+   "symbole": "UNXC",
+   "montant_retenu": 61.0,
+   "montant_net_france": 41.85,
+   "rendement_net": 2.65,
+   "date_ex": null,
+   "date_paiement": null,
+   "exercice": "2022",
+   "concordance": "SOURCE_UNIQUE",
+   "corrobore": true,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "fluxbourse": 61.0
+   },
+   "officiel": false
+  },
+  {
+   "cle": "ORGT",
+   "nom": "ORAGROUP TOGO",
+   "symbole": "ORGT",
+   "montant_retenu": 60.0,
+   "montant_net_france": 41.16,
+   "rendement_net": 1.89,
+   "date_ex": null,
+   "date_paiement": null,
+   "exercice": "2020",
+   "concordance": "SOURCE_UNIQUE",
+   "corrobore": true,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "fluxbourse": 60.0
+   },
+   "officiel": false
+  },
+  {
+   "cle": "SCRC",
+   "nom": "SUCRIVOIRE",
+   "symbole": "SCRC",
+   "montant_retenu": 41.0,
+   "montant_net_france": 28.13,
+   "rendement_net": 2.6,
+   "date_ex": null,
+   "date_paiement": null,
+   "exercice": "2021",
+   "concordance": "SOURCE_UNIQUE",
+   "corrobore": true,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "fluxbourse": 41.0
+   },
+   "officiel": false
+  },
+  {
+   "cle": "SEMC",
+   "nom": "EVIOSYS SIEM CI",
+   "symbole": "SEMC",
+   "montant_retenu": 14.0,
+   "montant_net_france": 9.6,
+   "rendement_net": 0.53,
+   "date_ex": null,
+   "date_paiement": null,
+   "exercice": "2021",
+   "concordance": "SOURCE_UNIQUE",
+   "corrobore": true,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "fluxbourse": 14.0
+   },
+   "officiel": false
+  },
+  {
+   "cle": "ETIT",
+   "nom": "ECOBANK TRANS. INC.",
+   "symbole": "ETIT",
+   "montant_retenu": 1.0,
+   "montant_net_france": 0.69,
+   "rendement_net": 1.78,
+   "date_ex": null,
+   "date_paiement": null,
+   "exercice": "2025",
+   "concordance": "CONFIRME",
+   "corrobore": true,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "sikafinance (historique)": 1.0,
+    "fluxbourse": 0.6
+   },
+   "officiel": false
+  }
+ ],
+ "enrichi_ocr_le": "2026-08-28T20:47:23"
 }
