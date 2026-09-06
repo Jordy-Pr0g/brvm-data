@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-09-01T22:26:08",
+ "genere_le": "2026-09-06T19:10:05",
  "sources": [
   "brvm.org",
   "sikafinance (calendrier)",
@@ -8,8 +8,29 @@
  ],
  "flat_tax_france": 0.314,
  "nb_societes": 44,
- "nb_ecarts": 0,
+ "nb_ecarts": 1,
  "societes": [
+  {
+   "cle": "SMBC",
+   "nom": "SMB",
+   "symbole": "SMBC",
+   "montant_retenu": 800.0,
+   "montant_net_france": 548.8,
+   "rendement_net": 4.4,
+   "date_ex": "17/09/2026",
+   "date_paiement": "18/09/2026",
+   "exercice": "2025",
+   "concordance": "ECART",
+   "corrobore": false,
+   "ecart_pct": 12.0,
+   "montants_par_source": {
+    "brvm.org": 800.0,
+    "sikafinance (calendrier)": 704.0,
+    "sikafinance (historique)": 704.0,
+    "fluxbourse": 616.0
+   },
+   "officiel": true
+  },
   {
    "cle": "SGBC",
    "nom": "SOCIÉTÉ GÉNÉRALE CI",
@@ -191,6 +212,26 @@
    "date_ex_source": "communique_ocr"
   },
   {
+   "cle": "SOGC",
+   "nom": "SOGB CI",
+   "symbole": "SOGC",
+   "montant_retenu": 502.0,
+   "montant_net_france": 344.37,
+   "rendement_net": 6.36,
+   "date_ex": "05/08/2026",
+   "date_paiement": "06/08/2026",
+   "exercice": "2025",
+   "concordance": "A_CONFIRMER",
+   "corrobore": true,
+   "ecart_pct": 4.9,
+   "montants_par_source": {
+    "sikafinance (historique)": 502.0,
+    "fluxbourse": 528.0
+   },
+   "officiel": false,
+   "date_ex_source": "communique_ocr"
+  },
+  {
    "cle": "BOAS",
    "nom": "BOA SÉNÉGAL",
    "symbole": "BOAS",
@@ -347,6 +388,25 @@
    "officiel": false
   },
   {
+   "cle": "TTLC",
+   "nom": "TOTALENERGIES CI",
+   "symbole": "TTLC",
+   "montant_retenu": 140.0,
+   "montant_net_france": 96.04,
+   "rendement_net": 6.94,
+   "date_ex": null,
+   "date_paiement": null,
+   "exercice": "2025",
+   "concordance": "A_CONFIRMER",
+   "corrobore": false,
+   "ecart_pct": 28.6,
+   "montants_par_source": {
+    "sikafinance (historique)": 140.0,
+    "fluxbourse": 196.0
+   },
+   "officiel": false
+  },
+  {
    "cle": "SDSC",
    "nom": "AFRICA GLOBAL LOG.",
    "symbole": "SDSC",
@@ -405,61 +465,41 @@
   },
   {
    "cle": "NSBC",
-   "nom": "NSBC",
+   "nom": "NSIA BANQUE CI",
    "symbole": "NSBC",
-   "montant_retenu": 768.16,
-   "montant_net_france": 526.96,
+   "montant_retenu": 676.0,
+   "montant_net_france": 463.74,
    "rendement_net": 4.77,
-   "date_ex": "03/08/2026",
-   "date_paiement": "04/08/2026",
-   "exercice": "2025",
-   "concordance": "CONFIRME_OFFICIEL",
-   "corrobore": false,
-   "ecart_pct": 0.0,
-   "montants_par_source": {
-    "brvm.org": 768.16,
-    "sikafinance (historique)": 676.0,
-    "fluxbourse": 668.0
-   },
-   "officiel": true
-  },
-  {
-   "cle": "SMBC",
-   "nom": "SMB CI",
-   "symbole": "SMBC",
-   "montant_retenu": 704.0,
-   "montant_net_france": 482.94,
-   "rendement_net": 4.4,
    "date_ex": null,
    "date_paiement": null,
    "exercice": "2025",
-   "concordance": "CALENDRIER_SEUL",
-   "corrobore": false,
+   "concordance": "CONFIRME",
+   "corrobore": true,
    "ecart_pct": 0.0,
    "montants_par_source": {
-    "sikafinance (calendrier)": 704.0,
-    "sikafinance (historique)": 704.0,
-    "fluxbourse": 616.0
+    "sikafinance (historique)": 676.0,
+    "fluxbourse": 668.0
    },
    "officiel": false
   },
   {
-   "cle": "SOGC",
-   "nom": "SOGB",
-   "symbole": "SOGC",
-   "montant_retenu": 570.0,
-   "montant_net_france": 391.02,
-   "rendement_net": 6.36,
-   "date_ex": "05/07/2026",
-   "date_paiement": "06/08/2026",
+   "cle": "SDCC",
+   "nom": "SODECI",
+   "symbole": "SDCC",
+   "montant_retenu": 525.0,
+   "montant_net_france": 360.15,
+   "rendement_net": 5.46,
+   "date_ex": "15/09/2026",
+   "date_paiement": "16/09/2026",
    "exercice": "2025",
    "concordance": "CONFIRME_OFFICIEL",
    "corrobore": false,
    "ecart_pct": 0.0,
    "montants_par_source": {
-    "brvm.org": 570.0,
-    "sikafinance (historique)": 502.0,
-    "fluxbourse": 528.0
+    "brvm.org": 525.0,
+    "sikafinance (calendrier)": 525.0,
+    "sikafinance (historique)": 462.0,
+    "fluxbourse": 352.0
    },
    "officiel": true
   },
@@ -478,31 +518,10 @@
    "ecart_pct": 0.0,
    "montants_par_source": {
     "brvm.org": 489.0,
-    "sikafinance (calendrier)": 489.0,
     "sikafinance (historique)": 430.0,
     "fluxbourse": 324.0
    },
    "officiel": true
-  },
-  {
-   "cle": "SDCC",
-   "nom": "SODECI CI",
-   "symbole": "SDCC",
-   "montant_retenu": 462.0,
-   "montant_net_france": 316.93,
-   "rendement_net": 5.46,
-   "date_ex": null,
-   "date_paiement": null,
-   "exercice": "2025",
-   "concordance": "CALENDRIER_SEUL",
-   "corrobore": false,
-   "ecart_pct": 0.0,
-   "montants_par_source": {
-    "sikafinance (calendrier)": 462.0,
-    "sikafinance (historique)": 462.0,
-    "fluxbourse": 352.0
-   },
-   "officiel": false
   },
   {
    "cle": "NTLC",
@@ -660,26 +679,6 @@
     "fluxbourse": 82.0
    },
    "officiel": true
-  },
-  {
-   "cle": "TTLC",
-   "nom": "TOTALENERGIES CI",
-   "symbole": "TTLC",
-   "montant_retenu": 158.83,
-   "montant_net_france": 108.96,
-   "rendement_net": 6.94,
-   "date_ex": null,
-   "date_paiement": null,
-   "exercice": "2025",
-   "concordance": "CALENDRIER_SEUL",
-   "corrobore": false,
-   "ecart_pct": 0.0,
-   "montants_par_source": {
-    "sikafinance (calendrier)": 158.83,
-    "sikafinance (historique)": 140.0,
-    "fluxbourse": 196.0
-   },
-   "officiel": false
   },
   {
    "cle": "TTLS",
@@ -870,5 +869,5 @@
    "officiel": false
   }
  ],
- "enrichi_ocr_le": "2026-09-01T22:30:15"
+ "enrichi_ocr_le": "2026-09-06T19:19:19"
 }
