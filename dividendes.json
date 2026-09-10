@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-09-06T19:10:05",
+ "genere_le": "2026-09-10T20:28:53",
  "sources": [
   "brvm.org",
   "sikafinance (calendrier)",
@@ -7,30 +7,9 @@
   "fluxbourse"
  ],
  "flat_tax_france": 0.314,
- "nb_societes": 44,
- "nb_ecarts": 1,
+ "nb_societes": 45,
+ "nb_ecarts": 0,
  "societes": [
-  {
-   "cle": "SMBC",
-   "nom": "SMB",
-   "symbole": "SMBC",
-   "montant_retenu": 800.0,
-   "montant_net_france": 548.8,
-   "rendement_net": 4.4,
-   "date_ex": "17/09/2026",
-   "date_paiement": "18/09/2026",
-   "exercice": "2025",
-   "concordance": "ECART",
-   "corrobore": false,
-   "ecart_pct": 12.0,
-   "montants_par_source": {
-    "brvm.org": 800.0,
-    "sikafinance (calendrier)": 704.0,
-    "sikafinance (historique)": 704.0,
-    "fluxbourse": 616.0
-   },
-   "officiel": true
-  },
   {
    "cle": "SGBC",
    "nom": "SOCIÉTÉ GÉNÉRALE CI",
@@ -464,6 +443,27 @@
    "officiel": true
   },
   {
+   "cle": "SMBC",
+   "nom": "SMB",
+   "symbole": "SMBC",
+   "montant_retenu": 800.0,
+   "montant_net_france": 548.8,
+   "rendement_net": 4.4,
+   "date_ex": "17/09/2026",
+   "date_paiement": "18/09/2026",
+   "exercice": "2025",
+   "concordance": "CONFIRME_OFFICIEL",
+   "corrobore": false,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "brvm.org": 800.0,
+    "sikafinance (calendrier)": 800.0,
+    "sikafinance (historique)": 704.0,
+    "fluxbourse": 616.0
+   },
+   "officiel": true
+  },
+  {
    "cle": "NSBC",
    "nom": "NSIA BANQUE CI",
    "symbole": "NSBC",
@@ -543,6 +543,24 @@
     "fluxbourse": 722.0
    },
    "officiel": true
+  },
+  {
+   "cle": "BRIDGE BANK GROUP CO",
+   "nom": "BRIDGE BANK GROUP CO",
+   "symbole": null,
+   "montant_retenu": 312.0,
+   "montant_net_france": 214.03,
+   "rendement_net": null,
+   "date_ex": null,
+   "date_paiement": null,
+   "exercice": "2025",
+   "concordance": "SOURCE_UNIQUE",
+   "corrobore": true,
+   "ecart_pct": 0.0,
+   "montants_par_source": {
+    "sikafinance (historique)": 312.0
+   },
+   "officiel": false
   },
   {
    "cle": "BIIC_BJ",
@@ -869,5 +887,5 @@
    "officiel": false
   }
  ],
- "enrichi_ocr_le": "2026-09-06T19:19:19"
+ "enrichi_ocr_le": "2026-09-10T20:33:16"
 }
