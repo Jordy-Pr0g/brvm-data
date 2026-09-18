@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-09-17T17:16:54",
+ "genere_le": "2026-09-18T19:11:17",
  "sources": [
   "brvm.org",
   "sikafinance (calendrier)",
@@ -57,8 +57,8 @@
    "montant_retenu": 1740.0,
    "montant_net_france": 1193.64,
    "rendement_net": 5.71,
-   "date_ex": "22/05/2026",
-   "date_paiement": "26/05/2026",
+   "date_ex": null,
+   "date_paiement": null,
    "exercice": "2025",
    "concordance": "A_CONFIRMER",
    "corrobore": true,
@@ -67,8 +67,7 @@
     "sikafinance (historique)": 1740.0,
     "fluxbourse": 1655.0
    },
-   "officiel": false,
-   "date_ex_source": "communique_ocr"
+   "officiel": false
   },
   {
    "cle": "BICC",
@@ -885,5 +884,5 @@
    "officiel": false
   }
  ],
- "enrichi_ocr_le": "2026-09-17T17:38:29"
+ "enrichi_ocr_le": "2026-09-18T19:14:40"
 }
