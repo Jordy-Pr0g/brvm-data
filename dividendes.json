@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-09-30T19:30:32",
+ "genere_le": "2026-10-02T11:15:38",
  "sources": [
   "brvm.org",
   "sikafinance (calendrier)",
@@ -156,8 +156,8 @@
    "montant_retenu": 595.0,
    "montant_net_france": 408.17,
    "rendement_net": 6.01,
-   "date_ex": "05/05/2026",
-   "date_paiement": "06/05/2026",
+   "date_ex": null,
+   "date_paiement": null,
    "exercice": "2025",
    "concordance": "A_CONFIRMER",
    "corrobore": false,
@@ -166,8 +166,7 @@
     "sikafinance (historique)": 595.0,
     "fluxbourse": 469.0
    },
-   "officiel": false,
-   "date_ex_source": "communique_ocr"
+   "officiel": false
   },
   {
    "cle": "BOAB",
@@ -746,7 +745,6 @@
    "ecart_pct": 0.0,
    "montants_par_source": {
     "brvm.org": 96.67,
-    "sikafinance (calendrier)": 96.67,
     "sikafinance (historique)": 85.0,
     "fluxbourse": 75.0
    },
@@ -882,5 +880,5 @@
    "officiel": false
   }
  ],
- "enrichi_ocr_le": "2026-09-30T19:33:52"
+ "enrichi_ocr_le": "2026-10-02T11:19:04"
 }
