@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-10-06T13:45:24",
+ "genere_le": "2026-10-07T01:31:31",
  "sources": [
   "brvm.org",
   "sikafinance (calendrier)",
@@ -502,9 +502,9 @@
    "symbole": null,
    "montant_retenu": 183.92,
    "montant_net_france": 126.17,
-   "rendement_net": 4.71,
-   "date_ex": null,
-   "date_paiement": null,
+   "rendement_net": 4.45,
+   "date_ex": "22/10/2026",
+   "date_paiement": "23/10/2026",
    "exercice": "2025",
    "concordance": "CALENDRIER_SEUL",
    "corrobore": true,
@@ -513,7 +513,8 @@
     "sikafinance (calendrier)": 183.92,
     "sikafinance (historique)": 184.0
    },
-   "officiel": false
+   "officiel": false,
+   "date_ex_source": "communique_ocr"
   },
   {
    "cle": "LNBB",
@@ -521,7 +522,7 @@
    "symbole": null,
    "montant_retenu": 164.0,
    "montant_net_france": 112.5,
-   "rendement_net": 4.32,
+   "rendement_net": 4.17,
    "date_ex": null,
    "date_paiement": null,
    "exercice": "2025",
@@ -701,5 +702,5 @@
    "officiel": false
   }
  ],
- "enrichi_ocr_le": "2026-10-06T13:49:26"
+ "enrichi_ocr_le": "2026-10-07T01:34:35"
 }
