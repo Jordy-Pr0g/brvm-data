@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-09T19:40:11",
+  "genere_le": "2026-10-11T19:11:37",
   "sources": [
     "brvm.org",
     "sikafinance (calendrier)",
@@ -7,7 +7,7 @@
     "fluxbourse"
   ],
   "flat_tax_france": 0.314,
-  "nb_societes": 37,
+  "nb_societes": 38,
   "nb_ecarts": 0,
   "societes": [
     {
@@ -633,6 +633,24 @@
       "officiel": true
     },
     {
+      "cle": "BOLLORE TRANSPORT LOGISTICS",
+      "nom": "BOLLORE TRANSPORT & LOGISTICS",
+      "symbole": null,
+      "montant_retenu": 92.0,
+      "montant_net_france": 63.11,
+      "rendement_net": null,
+      "date_ex": "26/10/2026",
+      "date_paiement": "27/10/2026",
+      "exercice": "2025",
+      "concordance": "CONFIRME_OFFICIEL",
+      "corrobore": true,
+      "ecart_pct": 0.0,
+      "montants_par_source": {
+        "brvm.org": 92.0
+      },
+      "officiel": true
+    },
+    {
       "cle": "SDSC",
       "nom": "AFRICA GLOBAL LOGIST",
       "symbole": null,
@@ -652,22 +670,21 @@
     },
     {
       "cle": "CFAC",
-      "nom": "CFAO MOTORS CI",
+      "nom": "CFAO CI",
       "symbole": null,
-      "montant_retenu": 63.0,
-      "montant_net_france": 43.22,
+      "montant_retenu": 55.0,
+      "montant_net_france": 37.73,
       "rendement_net": 9.24,
-      "date_ex": "13/08/2026",
-      "date_paiement": "14/08/2026",
+      "date_ex": null,
+      "date_paiement": null,
       "exercice": "2025",
-      "concordance": "CONFIRME_OFFICIEL",
-      "corrobore": false,
+      "concordance": "SOURCE_UNIQUE",
+      "corrobore": true,
       "ecart_pct": 0.0,
       "montants_par_source": {
-        "brvm.org": 63.0,
         "sikafinance (historique)": 55.0
       },
-      "officiel": true
+      "officiel": false
     },
     {
       "cle": "ETIT",
