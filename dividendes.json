@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-11T19:11:37",
+  "genere_le": "2026-10-13T08:40:43",
   "sources": [
     "brvm.org",
     "sikafinance (calendrier)",
@@ -508,7 +508,7 @@
       "symbole": null,
       "montant_retenu": 164.0,
       "montant_net_france": 112.5,
-      "rendement_net": 4.17,
+      "rendement_net": 4.2,
       "date_ex": null,
       "date_paiement": null,
       "exercice": "2025",
@@ -652,18 +652,19 @@
     },
     {
       "cle": "SDSC",
-      "nom": "AFRICA GLOBAL LOGIST",
+      "nom": "AFRICA GLOBAL LOGISTICS",
       "symbole": null,
-      "montant_retenu": 81.0,
-      "montant_net_france": 55.57,
-      "rendement_net": 6.04,
+      "montant_retenu": 92.0,
+      "montant_net_france": 63.11,
+      "rendement_net": 3.09,
       "date_ex": null,
       "date_paiement": null,
       "exercice": "2025",
-      "concordance": "SOURCE_UNIQUE",
-      "corrobore": true,
+      "concordance": "CALENDRIER_SEUL",
+      "corrobore": false,
       "ecart_pct": 0.0,
       "montants_par_source": {
+        "sikafinance (calendrier)": 92.0,
         "sikafinance (historique)": 81.0
       },
       "officiel": false
