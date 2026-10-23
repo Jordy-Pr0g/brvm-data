@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-22T10:26:05",
+  "genere_le": "2026-10-23T10:56:19",
   "sources": [
     "brvm.org",
     "sikafinance (calendrier)",
@@ -452,7 +452,7 @@
       "symbole": null,
       "montant_retenu": 209.0,
       "montant_net_france": 143.37,
-      "rendement_net": 5.04,
+      "rendement_net": 5.44,
       "date_ex": "22/10/2026",
       "date_paiement": "23/10/2026",
       "exercice": "2025",
@@ -508,7 +508,7 @@
       "symbole": null,
       "montant_retenu": 164.0,
       "montant_net_france": 112.5,
-      "rendement_net": 4.11,
+      "rendement_net": 4.21,
       "date_ex": null,
       "date_paiement": null,
       "exercice": "2025",
