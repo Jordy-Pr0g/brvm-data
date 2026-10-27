@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-26T09:33:33",
+  "genere_le": "2026-10-27T18:08:03",
   "sources": [
     "brvm.org",
     "sikafinance (calendrier)",
@@ -61,24 +61,6 @@
       "ecart_pct": 0.0,
       "montants_par_source": {
         "sikafinance (historique)": 1872.0
-      },
-      "officiel": false
-    },
-    {
-      "cle": "SNTS",
-      "nom": "SONATEL",
-      "symbole": null,
-      "montant_retenu": 1740.0,
-      "montant_net_france": 1193.64,
-      "rendement_net": 7.25,
-      "date_ex": null,
-      "date_paiement": null,
-      "exercice": "2025",
-      "concordance": "SOURCE_UNIQUE",
-      "corrobore": true,
-      "ecart_pct": 0.0,
-      "montants_par_source": {
-        "sikafinance (historique)": 1740.0
       },
       "officiel": false
     },
@@ -452,7 +434,7 @@
       "symbole": null,
       "montant_retenu": 209.0,
       "montant_net_france": 143.37,
-      "rendement_net": 5.5,
+      "rendement_net": 5.51,
       "date_ex": "22/10/2026",
       "date_paiement": "23/10/2026",
       "exercice": "2025",
@@ -503,12 +485,30 @@
       "officiel": false
     },
     {
+      "cle": "SNTS",
+      "nom": "SONATEL",
+      "symbole": null,
+      "montant_retenu": 174.0,
+      "montant_net_france": 119.36,
+      "rendement_net": 6.66,
+      "date_ex": null,
+      "date_paiement": null,
+      "exercice": "2025",
+      "concordance": "SOURCE_UNIQUE",
+      "corrobore": true,
+      "ecart_pct": 0.0,
+      "montants_par_source": {
+        "sikafinance (historique)": 174.0
+      },
+      "officiel": false
+    },
+    {
       "cle": "LNBB",
       "nom": "LOTERIE NATIONALE DU BENIN",
       "symbole": null,
       "montant_retenu": 164.0,
       "montant_net_france": 112.5,
-      "rendement_net": 4.1,
+      "rendement_net": 4.16,
       "date_ex": null,
       "date_paiement": null,
       "exercice": "2025",
@@ -656,7 +656,7 @@
       "symbole": null,
       "montant_retenu": 92.0,
       "montant_net_france": 63.11,
-      "rendement_net": 3.07,
+      "rendement_net": 3.27,
       "date_ex": null,
       "date_paiement": null,
       "exercice": "2025",
