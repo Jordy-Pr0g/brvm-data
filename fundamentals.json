@@ -5,9 +5,9 @@
     "div": 1740.0,
     "data": {
       "HIGH_52S": 4080.0,
-      "LOW_52S": 4080.0,
+      "LOW_52S": 4040.0,
       "RESULTAT_NET": 413588.0,
-      "PER": 9.86,
+      "PER": 9.77,
       "DIVIDENDE": 174.0,
       "NB_ACTIONS": 1000000000.0
     },
@@ -16,9 +16,9 @@
     },
     "merged": {
       "HIGH_52S": 4080.0,
-      "LOW_52S": 4080.0,
+      "LOW_52S": 4040.0,
       "RESULTAT_NET": 413588.0,
-      "PER": 9.86,
+      "PER": 9.77,
       "DIVIDENDE": 174.0,
       "NB_ACTIONS": 1000000000.0,
       "CAPITALISATION_CALC": 4090000000000.0
@@ -29,10 +29,10 @@
     "cours": 38890.0,
     "div": 2293.28,
     "data": {
-      "HIGH_52S": 38895.0,
+      "HIGH_52S": 38795.0,
       "LOW_52S": 38600.0,
       "RESULTAT_NET": 101352.0,
-      "PER": 11.94,
+      "PER": 11.91,
       "DIVIDENDE": 2293.28,
       "NB_ACTIONS": 31111110.0
     },
@@ -40,10 +40,10 @@
       "CAPITALISATION_CALC": 1209911067900.0
     },
     "merged": {
-      "HIGH_52S": 38895.0,
+      "HIGH_52S": 38795.0,
       "LOW_52S": 38600.0,
       "RESULTAT_NET": 101352.0,
-      "PER": 11.94,
+      "PER": 11.91,
       "DIVIDENDE": 2293.28,
       "NB_ACTIONS": 31111110.0,
       "CAPITALISATION_CALC": 1209911067900.0
@@ -54,10 +54,10 @@
     "cours": 8400.0,
     "div": 374.0,
     "data": {
-      "HIGH_52S": 8350.0,
-      "LOW_52S": 8100.0,
+      "HIGH_52S": 8295.0,
+      "LOW_52S": 8200.0,
       "RESULTAT_NET": 55623.0,
-      "PER": 14.56,
+      "PER": 14.74,
       "DIVIDENDE": 374.0,
       "NB_ACTIONS": 100000000.0
     },
@@ -65,10 +65,10 @@
       "CAPITALISATION_CALC": 840000000000.0
     },
     "merged": {
-      "HIGH_52S": 8350.0,
-      "LOW_52S": 8100.0,
+      "HIGH_52S": 8295.0,
+      "LOW_52S": 8200.0,
       "RESULTAT_NET": 55623.0,
-      "PER": 14.56,
+      "PER": 14.74,
       "DIVIDENDE": 374.0,
       "NB_ACTIONS": 100000000.0,
       "CAPITALISATION_CALC": 840000000000.0
@@ -79,10 +79,10 @@
     "cours": 7800.0,
     "div": null,
     "data": {
-      "HIGH_52S": 7855.0,
-      "LOW_52S": 7800.0,
+      "HIGH_52S": 7800.0,
+      "LOW_52S": 7500.0,
       "RESULTAT_NET": 24182.0,
-      "PER": 18.76,
+      "PER": 17.91,
       "DIVIDENDE": 254.6,
       "NB_ACTIONS": 57759800.0
     },
@@ -90,10 +90,10 @@
       "CAPITALISATION_CALC": 450526440000.0
     },
     "merged": {
-      "HIGH_52S": 7855.0,
-      "LOW_52S": 7800.0,
+      "HIGH_52S": 7800.0,
+      "LOW_52S": 7500.0,
       "RESULTAT_NET": 24182.0,
-      "PER": 18.76,
+      "PER": 17.91,
       "DIVIDENDE": 254.6,
       "NB_ACTIONS": 57759800.0,
       "CAPITALISATION_CALC": 450526440000.0
@@ -130,7 +130,7 @@
     "div": null,
     "data": {
       "HIGH_52S": 1280.0,
-      "LOW_52S": 1280.0,
+      "LOW_52S": 1230.0,
       "RESULTAT_NET": 6132.0,
       "NB_ACTIONS": 19600000.0
     },
@@ -139,7 +139,7 @@
     },
     "merged": {
       "HIGH_52S": 1280.0,
-      "LOW_52S": 1280.0,
+      "LOW_52S": 1230.0,
       "RESULTAT_NET": 6132.0,
       "NB_ACTIONS": 19600000.0,
       "CAPITALISATION_CALC": 25186000000.0
@@ -150,10 +150,10 @@
     "cours": 2800.0,
     "div": 145.32,
     "data": {
-      "HIGH_52S": 2800.0,
-      "LOW_52S": 2750.0,
+      "HIGH_52S": 2900.0,
+      "LOW_52S": 2805.0,
       "RESULTAT_NET": 15887.0,
-      "PER": 11.98,
+      "PER": 12.01,
       "DIVIDENDE": 145.32,
       "NB_ACTIONS": 68000000.0
     },
@@ -161,10 +161,10 @@
       "CAPITALISATION_CALC": 190400000000.0
     },
     "merged": {
-      "HIGH_52S": 2800.0,
-      "LOW_52S": 2750.0,
+      "HIGH_52S": 2900.0,
+      "LOW_52S": 2805.0,
       "RESULTAT_NET": 15887.0,
-      "PER": 11.98,
+      "PER": 12.01,
       "DIVIDENDE": 145.32,
       "NB_ACTIONS": 68000000.0,
       "CAPITALISATION_CALC": 190400000000.0
@@ -176,9 +176,9 @@
     "div": 140.0,
     "data": {
       "HIGH_52S": 2995.0,
-      "LOW_52S": 2995.0,
+      "LOW_52S": 2990.0,
       "RESULTAT_NET": 9087.0,
-      "PER": 20.75,
+      "PER": 20.72,
       "DIVIDENDE": 140.0,
       "NB_ACTIONS": 62961600.0
     },
@@ -187,9 +187,9 @@
     },
     "merged": {
       "HIGH_52S": 2995.0,
-      "LOW_52S": 2995.0,
+      "LOW_52S": 2990.0,
       "RESULTAT_NET": 9087.0,
-      "PER": 20.75,
+      "PER": 20.72,
       "DIVIDENDE": 140.0,
       "NB_ACTIONS": 62961600.0,
       "CAPITALISATION_CALC": 188255184000.0
@@ -200,10 +200,10 @@
     "cours": 9045.0,
     "div": 585.0,
     "data": {
-      "HIGH_52S": 9045.0,
+      "HIGH_52S": 9095.0,
       "LOW_52S": 9045.0,
       "RESULTAT_NET": 20107.0,
-      "PER": 18.25,
+      "PER": 18.35,
       "DIVIDENDE": 585.0,
       "NB_ACTIONS": 40561048.0
     },
@@ -211,10 +211,10 @@
       "CAPITALISATION_CALC": 366874679160.0
     },
     "merged": {
-      "HIGH_52S": 9045.0,
+      "HIGH_52S": 9095.0,
       "LOW_52S": 9045.0,
       "RESULTAT_NET": 20107.0,
-      "PER": 18.25,
+      "PER": 18.35,
       "DIVIDENDE": 585.0,
       "NB_ACTIONS": 40561048.0,
       "CAPITALISATION_CALC": 366874679160.0
@@ -226,9 +226,9 @@
     "div": 900.0,
     "data": {
       "HIGH_52S": 28750.0,
-      "LOW_52S": 28750.0,
+      "LOW_52S": 27505.0,
       "RESULTAT_NET": 65495.0,
-      "PER": 14.05,
+      "PER": 13.44,
       "DIVIDENDE": 900.0,
       "NB_ACTIONS": 32000000.0
     },
@@ -237,9 +237,9 @@
     },
     "merged": {
       "HIGH_52S": 28750.0,
-      "LOW_52S": 28750.0,
+      "LOW_52S": 27505.0,
       "RESULTAT_NET": 65495.0,
-      "PER": 14.05,
+      "PER": 13.44,
       "DIVIDENDE": 900.0,
       "NB_ACTIONS": 32000000.0,
       "CAPITALISATION_CALC": 923200000000.0
@@ -251,7 +251,7 @@
     "div": null,
     "data": {
       "HIGH_52S": 1900.0,
-      "LOW_52S": 1895.0,
+      "LOW_52S": 1760.0,
       "RESULTAT_NET": 2037.0,
       "PER": 11.91,
       "DIVIDENDE": 140.39,
@@ -262,7 +262,7 @@
     },
     "merged": {
       "HIGH_52S": 1900.0,
-      "LOW_52S": 1895.0,
+      "LOW_52S": 1760.0,
       "RESULTAT_NET": 2037.0,
       "PER": 11.91,
       "DIVIDENDE": 140.39,
@@ -276,9 +276,9 @@
     "div": 781.0,
     "data": {
       "HIGH_52S": 14890.0,
-      "LOW_52S": 14890.0,
+      "LOW_52S": 14795.0,
       "RESULTAT_NET": 63482.0,
-      "PER": 12.91,
+      "PER": 12.83,
       "DIVIDENDE": 781.0,
       "NB_ACTIONS": 55050600.0
     },
@@ -287,9 +287,9 @@
     },
     "merged": {
       "HIGH_52S": 14890.0,
-      "LOW_52S": 14890.0,
+      "LOW_52S": 14795.0,
       "RESULTAT_NET": 63482.0,
-      "PER": 12.91,
+      "PER": 12.83,
       "DIVIDENDE": 781.0,
       "NB_ACTIONS": 55050600.0,
       "CAPITALISATION_CALC": 819703434000.0
@@ -300,10 +300,10 @@
     "cours": 19000.0,
     "div": 704.0,
     "data": {
-      "HIGH_52S": 19000.0,
+      "HIGH_52S": 19250.0,
       "LOW_52S": 19000.0,
       "RESULTAT_NET": 167800.0,
-      "PER": 17.06,
+      "PER": 17.28,
       "DIVIDENDE": 704.0,
       "NB_ACTIONS": 150655350.0
     },
@@ -311,10 +311,10 @@
       "CAPITALISATION_CALC": 2862451650000.0
     },
     "merged": {
-      "HIGH_52S": 19000.0,
+      "HIGH_52S": 19250.0,
       "LOW_52S": 19000.0,
       "RESULTAT_NET": 167800.0,
-      "PER": 17.06,
+      "PER": 17.28,
       "DIVIDENDE": 704.0,
       "NB_ACTIONS": 150655350.0,
       "CAPITALISATION_CALC": 2862451650000.0
@@ -348,10 +348,10 @@
     "cours": 7445.0,
     "div": 441.4,
     "data": {
-      "HIGH_52S": 7400.0,
+      "HIGH_52S": 7440.0,
       "LOW_52S": 7400.0,
       "RESULTAT_NET": 15509.0,
-      "PER": 7.38,
+      "PER": 7.42,
       "DIVIDENDE": 441.4,
       "NB_ACTIONS": 15459316.0
     },
@@ -359,10 +359,10 @@
       "CAPITALISATION_CALC": 115094607620.0
     },
     "merged": {
-      "HIGH_52S": 7400.0,
+      "HIGH_52S": 7440.0,
       "LOW_52S": 7400.0,
       "RESULTAT_NET": 15509.0,
-      "PER": 7.38,
+      "PER": 7.42,
       "DIVIDENDE": 441.4,
       "NB_ACTIONS": 15459316.0,
       "CAPITALISATION_CALC": 115094607620.0
@@ -373,10 +373,10 @@
     "cours": 4200.0,
     "div": null,
     "data": {
-      "HIGH_52S": 4200.0,
+      "HIGH_52S": 4400.0,
       "LOW_52S": 4200.0,
       "RESULTAT_NET": 13127.0,
-      "PER": 17.92,
+      "PER": 18.77,
       "DIVIDENDE": 205.92,
       "NB_ACTIONS": 56000000.0
     },
@@ -384,10 +384,10 @@
       "CAPITALISATION_CALC": 235200000000.0
     },
     "merged": {
-      "HIGH_52S": 4200.0,
+      "HIGH_52S": 4400.0,
       "LOW_52S": 4200.0,
       "RESULTAT_NET": 13127.0,
-      "PER": 17.92,
+      "PER": 18.77,
       "DIVIDENDE": 205.92,
       "NB_ACTIONS": 56000000.0,
       "CAPITALISATION_CALC": 235200000000.0
@@ -398,20 +398,20 @@
     "cours": 3245.0,
     "div": null,
     "data": {
-      "HIGH_52S": 3395.0,
-      "LOW_52S": 3245.0,
+      "HIGH_52S": 3030.0,
+      "LOW_52S": 3015.0,
       "RESULTAT_NET": 701.0,
-      "PER": 54.94,
+      "PER": 51.3,
       "NB_ACTIONS": 11869750.0
     },
     "derives": {
       "CAPITALISATION_CALC": 38517338750.0
     },
     "merged": {
-      "HIGH_52S": 3395.0,
-      "LOW_52S": 3245.0,
+      "HIGH_52S": 3030.0,
+      "LOW_52S": 3015.0,
       "RESULTAT_NET": 701.0,
-      "PER": 54.94,
+      "PER": 51.3,
       "NB_ACTIONS": 11869750.0,
       "CAPITALISATION_CALC": 38517338750.0
     }
@@ -421,10 +421,10 @@
     "cours": 2600.0,
     "div": null,
     "data": {
-      "HIGH_52S": 2600.0,
+      "HIGH_52S": 2685.0,
       "LOW_52S": 2595.0,
       "RESULTAT_NET": 785.0,
-      "PER": 180.3,
+      "PER": 186.2,
       "DIVIDENDE": 80.96,
       "NB_ACTIONS": 54435300.0
     },
@@ -432,10 +432,10 @@
       "CAPITALISATION_CALC": 141531780000.0
     },
     "merged": {
-      "HIGH_52S": 2600.0,
+      "HIGH_52S": 2685.0,
       "LOW_52S": 2595.0,
       "RESULTAT_NET": 785.0,
-      "PER": 180.3,
+      "PER": 186.2,
       "DIVIDENDE": 80.96,
       "NB_ACTIONS": 54435300.0,
       "CAPITALISATION_CALC": 141531780000.0
@@ -446,20 +446,20 @@
     "cours": 1590.0,
     "div": null,
     "data": {
-      "HIGH_52S": 1670.0,
-      "LOW_52S": 1590.0,
+      "HIGH_52S": 1645.0,
+      "LOW_52S": 1600.0,
       "RESULTAT_NET": 466.0,
-      "PER": 48.12,
+      "PER": 48.43,
       "NB_ACTIONS": 14103740.0
     },
     "derives": {
       "CAPITALISATION_CALC": 22424946600.0
     },
     "merged": {
-      "HIGH_52S": 1670.0,
-      "LOW_52S": 1590.0,
+      "HIGH_52S": 1645.0,
+      "LOW_52S": 1600.0,
       "RESULTAT_NET": 466.0,
-      "PER": 48.12,
+      "PER": 48.43,
       "NB_ACTIONS": 14103740.0,
       "CAPITALISATION_CALC": 22424946600.0
     }
@@ -469,10 +469,10 @@
     "cours": 7545.0,
     "div": null,
     "data": {
-      "HIGH_52S": 7545.0,
+      "HIGH_52S": 7645.0,
       "LOW_52S": 7540.0,
       "RESULTAT_NET": 24972.0,
-      "PER": 7.72,
+      "PER": 7.82,
       "DIVIDENDE": 430.32,
       "NB_ACTIONS": 25558005.0
     },
@@ -480,10 +480,10 @@
       "CAPITALISATION_CALC": 192835147725.0
     },
     "merged": {
-      "HIGH_52S": 7545.0,
+      "HIGH_52S": 7645.0,
       "LOW_52S": 7540.0,
       "RESULTAT_NET": 24972.0,
-      "PER": 7.72,
+      "PER": 7.82,
       "DIVIDENDE": 430.32,
       "NB_ACTIONS": 25558005.0,
       "CAPITALISATION_CALC": 192835147725.0
@@ -494,10 +494,10 @@
     "cours": 7700.0,
     "div": 397.0,
     "data": {
-      "HIGH_52S": 7740.0,
+      "HIGH_52S": 7700.0,
       "LOW_52S": 7695.0,
       "RESULTAT_NET": 19252.0,
-      "PER": 17.69,
+      "PER": 17.6,
       "DIVIDENDE": 397.0,
       "NB_ACTIONS": 44000000.0
     },
@@ -505,10 +505,10 @@
       "CAPITALISATION_CALC": 338800000000.0
     },
     "merged": {
-      "HIGH_52S": 7740.0,
+      "HIGH_52S": 7700.0,
       "LOW_52S": 7695.0,
       "RESULTAT_NET": 19252.0,
-      "PER": 17.69,
+      "PER": 17.6,
       "DIVIDENDE": 397.0,
       "NB_ACTIONS": 44000000.0,
       "CAPITALISATION_CALC": 338800000000.0
@@ -519,10 +519,10 @@
     "cours": 10900.0,
     "div": 594.5,
     "data": {
-      "HIGH_52S": 10900.0,
+      "HIGH_52S": 10995.0,
       "LOW_52S": 10900.0,
       "RESULTAT_NET": 35540.0,
-      "PER": 12.27,
+      "PER": 12.37,
       "DIVIDENDE": 594.5,
       "NB_ACTIONS": 40000000.0
     },
@@ -530,10 +530,10 @@
       "CAPITALISATION_CALC": 436000000000.0
     },
     "merged": {
-      "HIGH_52S": 10900.0,
+      "HIGH_52S": 10995.0,
       "LOW_52S": 10900.0,
       "RESULTAT_NET": 35540.0,
-      "PER": 12.27,
+      "PER": 12.37,
       "DIVIDENDE": 594.5,
       "NB_ACTIONS": 40000000.0,
       "CAPITALISATION_CALC": 436000000000.0
@@ -569,20 +569,20 @@
     "cours": 4150.0,
     "div": 209.25,
     "data": {
-      "HIGH_52S": 4150.0,
+      "HIGH_52S": 4420.0,
       "LOW_52S": 4150.0,
       "RESULTAT_NET": 409.0,
-      "PER": 210.87,
+      "PER": 224.59,
       "NB_ACTIONS": 20800000.0
     },
     "derives": {
       "CAPITALISATION_CALC": 86320000000.0
     },
     "merged": {
-      "HIGH_52S": 4150.0,
+      "HIGH_52S": 4420.0,
       "LOW_52S": 4150.0,
       "RESULTAT_NET": 409.0,
-      "PER": 210.87,
+      "PER": 224.59,
       "NB_ACTIONS": 20800000.0,
       "CAPITALISATION_CALC": 86320000000.0
     }
@@ -617,10 +617,10 @@
     "cours": 30800.0,
     "div": 1157.2,
     "data": {
-      "HIGH_52S": 30800.0,
+      "HIGH_52S": 31000.0,
       "LOW_52S": 30800.0,
       "RESULTAT_NET": 36520.0,
-      "PER": 14.06,
+      "PER": 14.15,
       "DIVIDENDE": 1157.2,
       "NB_ACTIONS": 16666670.0
     },
@@ -628,10 +628,10 @@
       "CAPITALISATION_CALC": 513333436000.0
     },
     "merged": {
-      "HIGH_52S": 30800.0,
+      "HIGH_52S": 31000.0,
       "LOW_52S": 30800.0,
       "RESULTAT_NET": 36520.0,
-      "PER": 14.06,
+      "PER": 14.15,
       "DIVIDENDE": 1157.2,
       "NB_ACTIONS": 16666670.0,
       "CAPITALISATION_CALC": 513333436000.0
@@ -667,7 +667,7 @@
     "cours": 1750.0,
     "div": null,
     "data": {
-      "HIGH_52S": 1770.0,
+      "HIGH_52S": 1750.0,
       "LOW_52S": 1750.0,
       "RESULTAT_NET": 22.0,
       "PER": 519.29,
@@ -677,7 +677,7 @@
       "CAPITALISATION_CALC": 11592000000.0
     },
     "merged": {
-      "HIGH_52S": 1770.0,
+      "HIGH_52S": 1750.0,
       "LOW_52S": 1750.0,
       "RESULTAT_NET": 22.0,
       "PER": 519.29,
@@ -690,10 +690,10 @@
     "cours": 1175.0,
     "div": null,
     "data": {
-      "HIGH_52S": 1245.0,
-      "LOW_52S": 1175.0,
+      "HIGH_52S": 1190.0,
+      "LOW_52S": 1100.0,
       "RESULTAT_NET": 8416.0,
-      "PER": 25.32,
+      "PER": 25.65,
       "DIVIDENDE": 55.44,
       "NB_ACTIONS": 181371900.0
     },
@@ -701,10 +701,10 @@
       "CAPITALISATION_CALC": 213111982500.0
     },
     "merged": {
-      "HIGH_52S": 1245.0,
-      "LOW_52S": 1175.0,
+      "HIGH_52S": 1190.0,
+      "LOW_52S": 1100.0,
       "RESULTAT_NET": 8416.0,
-      "PER": 25.32,
+      "PER": 25.65,
       "DIVIDENDE": 55.44,
       "NB_ACTIONS": 181371900.0,
       "CAPITALISATION_CALC": 213111982500.0
@@ -716,9 +716,9 @@
     "div": null,
     "data": {
       "HIGH_52S": 3645.0,
-      "LOW_52S": 3645.0,
+      "LOW_52S": 3580.0,
       "RESULTAT_NET": 6147.0,
-      "PER": 19.32,
+      "PER": 18.97,
       "DIVIDENDE": 176.65,
       "NB_ACTIONS": 32577700.0
     },
@@ -727,9 +727,9 @@
     },
     "merged": {
       "HIGH_52S": 3645.0,
-      "LOW_52S": 3645.0,
+      "LOW_52S": 3580.0,
       "RESULTAT_NET": 6147.0,
-      "PER": 19.32,
+      "PER": 18.97,
       "DIVIDENDE": 176.65,
       "NB_ACTIONS": 32577700.0,
       "CAPITALISATION_CALC": 118908605000.0
@@ -741,9 +741,9 @@
     "div": 369.6,
     "data": {
       "HIGH_52S": 12900.0,
-      "LOW_52S": 12900.0,
+      "LOW_52S": 12800.0,
       "RESULTAT_NET": 18427.0,
-      "PER": 15.45,
+      "PER": 15.33,
       "DIVIDENDE": 369.6,
       "NB_ACTIONS": 22070400.0
     },
@@ -752,9 +752,9 @@
     },
     "merged": {
       "HIGH_52S": 12900.0,
-      "LOW_52S": 12900.0,
+      "LOW_52S": 12800.0,
       "RESULTAT_NET": 18427.0,
-      "PER": 15.45,
+      "PER": 15.33,
       "DIVIDENDE": 369.6,
       "NB_ACTIONS": 22070400.0,
       "CAPITALISATION_CALC": 284708160000.0
@@ -766,9 +766,9 @@
     "div": null,
     "data": {
       "HIGH_52S": 40900.0,
-      "LOW_52S": 40900.0,
+      "LOW_52S": 40500.0,
       "RESULTAT_NET": 45781.0,
-      "PER": 14.71,
+      "PER": 14.56,
       "DIVIDENDE": 1871.76,
       "NB_ACTIONS": 16460840.0
     },
@@ -777,9 +777,9 @@
     },
     "merged": {
       "HIGH_52S": 40900.0,
-      "LOW_52S": 40900.0,
+      "LOW_52S": 40500.0,
       "RESULTAT_NET": 45781.0,
-      "PER": 14.71,
+      "PER": 14.56,
       "DIVIDENDE": 1871.76,
       "NB_ACTIONS": 16460840.0,
       "CAPITALISATION_CALC": 666664020000.0
@@ -790,7 +790,7 @@
     "cours": 17990.0,
     "div": null,
     "data": {
-      "HIGH_52S": 17990.0,
+      "HIGH_52S": 17995.0,
       "LOW_52S": 17990.0,
       "RESULTAT_NET": 13075.0,
       "PER": 10.73,
@@ -801,7 +801,7 @@
       "CAPITALISATION_CALC": 140235648000.0
     },
     "merged": {
-      "HIGH_52S": 17990.0,
+      "HIGH_52S": 17995.0,
       "LOW_52S": 17990.0,
       "RESULTAT_NET": 13075.0,
       "PER": 10.73,
@@ -840,10 +840,10 @@
     "cours": 21350.0,
     "div": null,
     "data": {
-      "HIGH_52S": 21350.0,
-      "LOW_52S": 21100.0,
+      "HIGH_52S": 21325.0,
+      "LOW_52S": 20500.0,
       "RESULTAT_NET": 36464.0,
-      "PER": 10.51,
+      "PER": 10.5,
       "DIVIDENDE": 1707.2,
       "NB_ACTIONS": 17955000.0
     },
@@ -851,10 +851,10 @@
       "CAPITALISATION_CALC": 383339250000.0
     },
     "merged": {
-      "HIGH_52S": 21350.0,
-      "LOW_52S": 21100.0,
+      "HIGH_52S": 21325.0,
+      "LOW_52S": 20500.0,
       "RESULTAT_NET": 36464.0,
-      "PER": 10.51,
+      "PER": 10.5,
       "DIVIDENDE": 1707.2,
       "NB_ACTIONS": 17955000.0,
       "CAPITALISATION_CALC": 383339250000.0
@@ -865,10 +865,10 @@
     "cours": 1800.0,
     "div": null,
     "data": {
-      "HIGH_52S": 1800.0,
+      "HIGH_52S": 1850.0,
       "LOW_52S": 1800.0,
       "RESULTAT_NET": 6028.0,
-      "PER": 18.81,
+      "PER": 19.34,
       "DIVIDENDE": 85.07,
       "NB_ACTIONS": 63000000.0
     },
@@ -876,10 +876,10 @@
       "CAPITALISATION_CALC": 113400000000.0
     },
     "merged": {
-      "HIGH_52S": 1800.0,
+      "HIGH_52S": 1850.0,
       "LOW_52S": 1800.0,
       "RESULTAT_NET": 6028.0,
-      "PER": 18.81,
+      "PER": 19.34,
       "DIVIDENDE": 85.07,
       "NB_ACTIONS": 63000000.0,
       "CAPITALISATION_CALC": 113400000000.0
@@ -891,9 +891,9 @@
     "div": null,
     "data": {
       "HIGH_52S": 1640.0,
-      "LOW_52S": 1640.0,
+      "LOW_52S": 1600.0,
       "RESULTAT_NET": 179.0,
-      "PER": 79.88,
+      "PER": 77.93,
       "NB_ACTIONS": 8734000.0
     },
     "derives": {
@@ -901,9 +901,9 @@
     },
     "merged": {
       "HIGH_52S": 1640.0,
-      "LOW_52S": 1640.0,
+      "LOW_52S": 1600.0,
       "RESULTAT_NET": 179.0,
-      "PER": 79.88,
+      "PER": 77.93,
       "NB_ACTIONS": 8734000.0,
       "CAPITALISATION_CALC": 14367430000.0
     }
@@ -914,9 +914,9 @@
     "div": null,
     "data": {
       "HIGH_52S": 2725.0,
-      "LOW_52S": 2725.0,
+      "LOW_52S": 2720.0,
       "RESULTAT_NET": 1704.0,
-      "PER": 9.46,
+      "PER": 9.45,
       "DIVIDENDE": 152.02,
       "NB_ACTIONS": 5920000.0
     },
@@ -925,9 +925,9 @@
     },
     "merged": {
       "HIGH_52S": 2725.0,
-      "LOW_52S": 2725.0,
+      "LOW_52S": 2720.0,
       "RESULTAT_NET": 1704.0,
-      "PER": 9.46,
+      "PER": 9.45,
       "DIVIDENDE": 152.02,
       "NB_ACTIONS": 5920000.0,
       "CAPITALISATION_CALC": 16132000000.0
@@ -938,10 +938,10 @@
     "cours": 3100.0,
     "div": null,
     "data": {
-      "HIGH_52S": 3100.0,
-      "LOW_52S": 3100.0,
+      "HIGH_52S": 3105.0,
+      "LOW_52S": 3000.0,
       "RESULTAT_NET": 1351.0,
-      "PER": 25.04,
+      "PER": 24.24,
       "DIVIDENDE": 201.52,
       "NB_ACTIONS": 10912000.0
     },
@@ -949,10 +949,10 @@
       "CAPITALISATION_CALC": 33827200000.0
     },
     "merged": {
-      "HIGH_52S": 3100.0,
-      "LOW_52S": 3100.0,
+      "HIGH_52S": 3105.0,
+      "LOW_52S": 3000.0,
       "RESULTAT_NET": 1351.0,
-      "PER": 25.04,
+      "PER": 24.24,
       "DIVIDENDE": 201.52,
       "NB_ACTIONS": 10912000.0,
       "CAPITALISATION_CALC": 33827200000.0
@@ -964,9 +964,9 @@
     "div": null,
     "data": {
       "HIGH_52S": 11450.0,
-      "LOW_52S": 11450.0,
+      "LOW_52S": 11300.0,
       "RESULTAT_NET": 4663.0,
-      "PER": 22.1,
+      "PER": 21.81,
       "DIVIDENDE": 462.0,
       "NB_ACTIONS": 9000000.0
     },
@@ -975,9 +975,9 @@
     },
     "merged": {
       "HIGH_52S": 11450.0,
-      "LOW_52S": 11450.0,
+      "LOW_52S": 11300.0,
       "RESULTAT_NET": 4663.0,
-      "PER": 22.1,
+      "PER": 21.81,
       "DIVIDENDE": 462.0,
       "NB_ACTIONS": 9000000.0,
       "CAPITALISATION_CALC": 103500000000.0
@@ -1032,7 +1032,7 @@
     "cours": 2080.0,
     "div": null,
     "data": {
-      "HIGH_52S": 2080.0,
+      "HIGH_52S": 2180.0,
       "LOW_52S": 2080.0,
       "RESULTAT_NET": 97.0,
       "NB_ACTIONS": 13440000.0
@@ -1041,7 +1041,7 @@
       "CAPITALISATION_CALC": 27955200000.0
     },
     "merged": {
-      "HIGH_52S": 2080.0,
+      "HIGH_52S": 2180.0,
       "LOW_52S": 2080.0,
       "RESULTAT_NET": 97.0,
       "NB_ACTIONS": 13440000.0,
@@ -1053,10 +1053,10 @@
     "cours": 3500.0,
     "div": null,
     "data": {
-      "HIGH_52S": 3500.0,
-      "LOW_52S": 3500.0,
+      "HIGH_52S": 3760.0,
+      "LOW_52S": 3720.0,
       "RESULTAT_NET": 2367.0,
-      "PER": 15.14,
+      "PER": 16.09,
       "DIVIDENDE": 183.92,
       "NB_ACTIONS": 10240000.0
     },
@@ -1064,10 +1064,10 @@
       "CAPITALISATION_CALC": 35840000000.0
     },
     "merged": {
-      "HIGH_52S": 3500.0,
-      "LOW_52S": 3500.0,
+      "HIGH_52S": 3760.0,
+      "LOW_52S": 3720.0,
       "RESULTAT_NET": 2367.0,
-      "PER": 15.14,
+      "PER": 16.09,
       "DIVIDENDE": 183.92,
       "NB_ACTIONS": 10240000.0,
       "CAPITALISATION_CALC": 35840000000.0
@@ -1078,20 +1078,20 @@
     "cours": 40980.0,
     "div": null,
     "data": {
-      "HIGH_52S": 40980.0,
-      "LOW_52S": 40980.0,
+      "HIGH_52S": 44000.0,
+      "LOW_52S": 43950.0,
       "RESULTAT_NET": 640.0,
-      "PER": 587.7,
+      "PER": 631.01,
       "NB_ACTIONS": 9183400.0
     },
     "derives": {
       "CAPITALISATION_CALC": 376335732000.0
     },
     "merged": {
-      "HIGH_52S": 40980.0,
-      "LOW_52S": 40980.0,
+      "HIGH_52S": 44000.0,
+      "LOW_52S": 43950.0,
       "RESULTAT_NET": 640.0,
-      "PER": 587.7,
+      "PER": 631.01,
       "NB_ACTIONS": 9183400.0,
       "CAPITALISATION_CALC": 376335732000.0
     }
@@ -1101,7 +1101,7 @@
     "cours": 1695.0,
     "div": null,
     "data": {
-      "HIGH_52S": 1695.0,
+      "HIGH_52S": 1705.0,
       "LOW_52S": 1695.0,
       "RESULTAT_NET": 624.0,
       "NB_ACTIONS": 20750000.0
@@ -1110,7 +1110,7 @@
       "CAPITALISATION_CALC": 35171250000.0
     },
     "merged": {
-      "HIGH_52S": 1695.0,
+      "HIGH_52S": 1705.0,
       "LOW_52S": 1695.0,
       "RESULTAT_NET": 624.0,
       "NB_ACTIONS": 20750000.0,
